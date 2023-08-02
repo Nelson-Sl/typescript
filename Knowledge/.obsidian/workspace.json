@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "0bfa19ca048dc111",
+    "type": "split",
+    "children": [
+      {
+        "id": "900bef3ddd011346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da49fe99259e6bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24c5a94c3525ae92",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b8262bfe0daa45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e888120322d5d15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86600b9a15b043cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1beca04150260101",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d91b345b2eed7662",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce9fad3eb69520b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "910e759ae974e3a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eae9f9dbc486fcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fd2b836e290cb62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae37aecd93b19ed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16030a0e18e3c1a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a.md"
+              }
+            }
+          },
+          {
+            "id": "79e6f484022f921e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "da49fe99259e6bd4",
+  "lastOpenFiles": [
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
+    "Knowledge",
+    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+    "00 AWS/000 Attachments/Pasted image 20230801075709.png",
+    "00 AWS/000 Attachments/Pasted image 20230801075444.png",
+    "00 AWS/000 Attachments/Pasted image 20230801074756.png",
+    "00 AWS/000 Attachments/Pasted image 20230801074616.png",
+    "00 AWS/000 Attachments/storage_auto_scaling.png",
+    "00 AWS/004 Storage/01 RDS",
+    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
+    "00 AWS/004 Storage",
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/000 Attachments/predictive_scaling.png",
+    "00 AWS/000 Attachments/asg_cloudwatch.png",
+    "00 AWS/000 Attachments/asg_with_load_balancer.png",
+    "00 AWS/000 Attachments/asg.png",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/000 Attachments/connection_draining.png",
+    "a.md",
+    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
+    "00 AWS/003 EC2/04 Availability & Scalability",
+    "02 Networking/02 DNS Server.md",
+    "02 Networking/01 How Network works.md",
+    "DNS Server.md",
+    "02 Networking/Attachment",
+    "02 Networking/未命名.md",
+    "Workflow Diagram 2.md",
+    "VUBI-160 & VUBI-161.md",
+    "Workflow Diagram for Document Upload Demo.md",
+    "随手记录.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
+    "00 AWS/003 EC2/03 Storage",
+    "02 Networking",
+    "未命名.canvas",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings",
+    "00 AWS/003 EC2/01 Introduction",
+    "00 AWS/003 EC2",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
