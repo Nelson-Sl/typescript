@@ -8,10 +8,13 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 # Features
 ---
 
-## High Availability & Auto Scaling
+## High Availability & Auto Failover
 ---
 
+* There will be 6 copies for your data across 3 Availability Zones. **4** out of 6 is required for **read** and **3** out of 6 is required for **write**. The storage is striped across **100s** of volumes
+* **One Master Instance** will takes the read task, and Master + up
 
+![[Pasted image 20230806175159.png]]
 
 
 # Pros & Cons
