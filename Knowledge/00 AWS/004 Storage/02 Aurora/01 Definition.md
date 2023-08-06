@@ -22,7 +22,14 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ## Auto Scaling
 ---
 
-* 
+* Aurora can be scaled from **10GB** to **128TB**
+
+![[Pasted image 20230806222221.png]]
+
+## Custom Endpoint
+---
+
+* Define **a subset of Aurora Instances** as a Custom Endpoint (After defining this **reader endpoint is generally not used** )
 
 # Pros & Cons
 ---
