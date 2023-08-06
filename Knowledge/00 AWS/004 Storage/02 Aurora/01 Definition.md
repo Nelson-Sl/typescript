@@ -8,6 +8,10 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 # Features
 ---
 
+## High Availability & Auto Scaling
+---
+
+
 
 
 # Pros & Cons
