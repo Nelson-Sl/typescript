@@ -54,7 +54,14 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 # Global Aurora
 ---
 
-* 
+* Aurora Cross Region Read Replicas: Can be useful for **disaster recovery** & Simple to **put in place**
+* Aurora **Global Database** (recommended)
+	* 1 Primary Region ( **Read / Write** )
+	* Up to **5 secondary (read-only) regions**, replication lag is less than 1 second
+	* Up to **16 Read Replicas** per secondary region ( Help for **decreasing latency** )
+	* 
+
+
 ![[Pasted image 20230806232634.png]]
 
 # Pros & Cons
