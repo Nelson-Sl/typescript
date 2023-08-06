@@ -59,7 +59,9 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 	* 1 Primary Region ( **Read / Write** )
 	* Up to **5 secondary (read-only) regions**, replication lag is less than 1 second
 	* Up to **16 Read Replicas** per secondary region ( Help for **decreasing latency** )
-	* 
+* Performance
+	* **Cross-region Replication** < 1 second
+	* Promoting another region (for disaster recovery)
 
 
 ![[Pasted image 20230806232634.png]]
