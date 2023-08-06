@@ -29,7 +29,15 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ## Custom Endpoint
 ---
 
-* Define **a subset of Aurora Instances** as a Custom Endpoint (After defining this **reader endpoint is generally not used** )
+* Define **a subset of Aurora Instances** as a Custom Endpoint ( After defining this **reader endpoint is generally not used** )
+* E.g. Run Example Queries **on specific instances**
+
+![[Pasted image 20230806222924.png]]
+
+## Aurora Serverless
+---
+
+* **Automated database initialization** & Auto-Scaling based on actual usage
 
 # Pros & Cons
 ---
