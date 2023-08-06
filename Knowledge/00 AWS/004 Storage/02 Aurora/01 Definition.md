@@ -37,7 +37,12 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ## Aurora Serverless
 ---
 
-* **Automated database initialization** & Auto-Scaling based on actual usage
+* **Automated database initialization** & **Auto-Scaling** based on actual usage ( Therefore **capacity planning needed** )
+* **Pay per second**, can be more cost-effective
+* E.g. Good for **infrequent, intermittent or unpredictable** workloads
+
+![[Pasted image 20230806224434.png]]
+
 
 # Pros & Cons
 ---
