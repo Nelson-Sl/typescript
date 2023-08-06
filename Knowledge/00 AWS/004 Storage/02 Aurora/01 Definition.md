@@ -51,6 +51,11 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 
 ![[Pasted image 20230806225240.png]]
 
+# Global Aurora
+---
+
+* 
+![[Pasted image 20230806232634.png]]
 
 # Pros & Cons
 ---
