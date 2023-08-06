@@ -19,6 +19,10 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 
 ![[Pasted image 20230806175159.png]]
 
+## Auto Scaling
+---
+
+* 
 
 # Pros & Cons
 ---
