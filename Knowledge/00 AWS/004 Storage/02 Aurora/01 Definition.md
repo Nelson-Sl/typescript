@@ -12,7 +12,10 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ---
 
 * There will be 6 copies for your data across 3 Availability Zones. **4** out of 6 is required for **read** and **3** out of 6 is required for **write**. The storage is striped across **100s** of volumes
-* **One Master Instance** will takes the read task, and Master + up
+* **One Master Instance** will takes the write task, and **Master + up to 15 read replicas** will take the read task
+	* Support **Cross-Region** Replication
+	* **Self-healing** with peer-to-peer replication
+* Automation failover in master will be finished at **less than 30 seconds**
 
 ![[Pasted image 20230806175159.png]]
 
@@ -28,3 +31,4 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 		* **3x performance** improvement than PostgreSQL on RDS
 		* **5x performance** improvement than MySQL on RDS
 * Cons
+	* **20%** more expensive with RDS (But more efficient)
