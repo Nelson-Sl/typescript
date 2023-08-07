@@ -68,7 +68,9 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ## Integrate With Machine Learning
 ---
 
-
+Integrated with **Amazon SageMaker** and **Amazon Comprehend** simply and securely, Aurora allows user to **add ML predictions** to the application via SQL with 0 experience. 
+* Use Cases: **Fraud Detection**, **Ads Targeting**, **Sentiment Analysis**, **Product Recommendation**
+![[Pasted image 20230807230539.png]]
 
 # Pros & Cons
 ---
