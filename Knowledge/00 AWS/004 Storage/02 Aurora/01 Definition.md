@@ -47,7 +47,7 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ---
 
 * Provide **continuous write availability** for the writer nodes
-* Every node does **Read / Write** vs Promote a **Read Replica** as the new master
+* Every node does **Read / Write** Workload
 
 ![[Pasted image 20230806225240.png]]
 
@@ -64,6 +64,11 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 	* **Promoting another region (for disaster recovery)** **<** 1 min
 
 ![[Pasted image 20230806232634.png]]
+
+## Integrate With Machine Learning
+---
+
+
 
 # Pros & Cons
 ---
