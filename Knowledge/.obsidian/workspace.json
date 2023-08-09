@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElasticCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElasticCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElasticCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElasticCache/01 Definition.md"
+                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md"
               }
             }
           },
@@ -163,11 +163,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "79e6f484022f921e",
+  "active": "9e888120322d5d15",
   "lastOpenFiles": [
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/03 ElasticCache/01 Definition.md",
-    "00 AWS/004 Storage/03 ElasticCache",
+    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+    "00 AWS/004 Storage/03 ElastiCache",
     "00 AWS/004 Storage/Untitled.md",
     "00 AWS/000 Attachments/Pasted image 20230809115607.png",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
