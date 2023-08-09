@@ -10,3 +10,10 @@ Route 53 is a service **fully managed by AWS**:
 
 # Route 53 Records
 ---
+
+Defines how you want to **route the traffic for a domain**. This includes:
+* **Domain Name / Sub Domain Name** -> E.g. example.com
+* **Record Type**
+* Value -> E.g. 12.34.56.78
+* Routing Policy -> **How Route 53 respond to queries**
+* TTL (Time to Live) -> **amount of time that record cached at DNS resolvers**
