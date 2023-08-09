@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/005 Route 53/03 Record Type.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/005 Route 53/03 Record Type.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/005 Route 53/03 Record Type.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/005 Route 53/03 Record Type.md"
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md"
               }
             }
           },
@@ -165,10 +165,11 @@
   },
   "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
     "00 AWS/005 Route 53/03 Record Type.md",
-    "00 AWS/000 Attachments/Pasted image 20230809232405.png",
+    "00 AWS/005 Route 53/04 Hosted Zones.md",
+    "00 AWS/005 Route 53/02 Route 53 Overview.md",
     "00 AWS/005 Route 53/01 DNS.md",
+    "00 AWS/000 Attachments/Pasted image 20230809232405.png",
     "00 AWS/000 Attachments/Pasted image 20230809230251.png",
     "00 AWS/000 Attachments/Pasted image 20230809230050.png",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
@@ -207,7 +208,6 @@
     "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
-    "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/04 Availability & Scalability",
     "02 Networking/Attachment",
     "00 AWS/003 EC2/03 Storage",
