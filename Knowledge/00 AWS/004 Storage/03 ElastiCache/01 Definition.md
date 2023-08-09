@@ -32,11 +32,11 @@
 
 * AWS API-Level Security: **IAM Policy & Authentication**
 * Database Level Security
-	* Redis
+	* **Redis AUTH**
 		* First Level: **AWS Security Group**
 		* Second Level: **Password / Token** 
 		* Support **SSL** In-Flight Encryption
-	* Memcached
+	* **Memcached**
 		* Support **SASL-based** authentication
 
 ![[Pasted image 20230809180604.png]]

@@ -51,6 +51,9 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 
 ![[Pasted image 20230806225240.png]]
 
+## Other Features
+---
+
 # Global Aurora
 ---
 
@@ -77,7 +80,7 @@ Integrated with **Amazon SageMaker** and **Amazon Comprehend** simply and secure
 
 * Pros
 	* Higher Avaliability & Read Scaling
-		* Can have up to 15 [[03 Read Replicas|read replicas]] and the replication process is **faster than MySQL**
+		* Can have up to 15 [[03 Read Replicas|read replicas]] and the replication process is **faster than MySQL RDS** 
 		* Aurora is **HA native** and the failover is **instantaneous**
 	* Higher Performance
 		* **3x performance** improvement than PostgreSQL on RDS
