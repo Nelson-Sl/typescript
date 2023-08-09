@@ -7,6 +7,14 @@
 # How RDS Proxy Works?
 ---
 
-* 
+* Not publicly assessible and should be accessed through **VPC**
+* Enforce **IAM Authentication for DB**, and securely **store credentials in AWS Secrets Manager**
 
 ![[Pasted image 20230809115607.png]]
+
+# Why use RDS Proxy
+---
+
+* Improving database efficiency by **reducing the stress on database resources** (e.g., CPU, RAM) and **minimize open connections** (and timeouts)
+* Serverless, autoscaling, highly available (multi-AZ)
+* Reduced RDS & Aurora failover time by up **66%**
