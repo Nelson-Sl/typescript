@@ -43,3 +43,8 @@
 
 # Pros & Cons
 ---
+* Pros
+	* Help to make application **stateless** (E.g. Session Store)
+	* Help **reduce load off of databases** for intensive workloads (E.g. DB Cache)
+* Cons
+	* Involves **heavy application code changes**

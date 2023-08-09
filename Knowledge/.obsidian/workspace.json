@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/03 ElastiCache/01 Definition.md"
+                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md"
               }
             }
           },
@@ -165,12 +165,14 @@
   },
   "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
+    "00 AWS/Sum up/01 List of Ports.md",
+    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+    "00 AWS/Sum up",
     "00 AWS/000 Attachments/Pasted image 20230809180604.png",
     "00 AWS/000 Attachments/Pasted image 20230809180005.png",
     "00 AWS/000 Attachments/Pasted image 20230809175736.png",
     "00 AWS/000 Attachments/Pasted image 20230809175216.png",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/004 Storage/03 ElastiCache",
     "00 AWS/004 Storage/Untitled.md",
     "00 AWS/000 Attachments/Pasted image 20230809115607.png",
@@ -186,7 +188,6 @@
     "00 AWS/000 Attachments/Pasted image 20230806232634.png",
     "00 AWS/000 Attachments/Pasted image 20230806225240.png",
     "00 AWS/000 Attachments/Pasted image 20230806224434.png",
-    "00 AWS/000 Attachments/Pasted image 20230806223842.png",
     "00 AWS/004 Storage/02 Aurora",
     "随手记录.md",
     "Workflow Diagram for Document Upload Demo.md",
@@ -211,7 +212,6 @@
     "00 AWS/003 EC2/03 Storage",
     "02 Networking",
     "未命名.canvas",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

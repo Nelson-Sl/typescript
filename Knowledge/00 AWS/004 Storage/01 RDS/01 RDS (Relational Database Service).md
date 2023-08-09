@@ -7,7 +7,7 @@
 	* MariaDB
 	* Microsoft SQL Server
 	* Oracle
-	* Aurora (AWS Proptrietary Database)
+	* [[00 AWS/004 Storage/02 Aurora/01 Definition|Aurora (AWS Proptrietary Database)]]
 
 # Can Do & Can't Do
 ---
