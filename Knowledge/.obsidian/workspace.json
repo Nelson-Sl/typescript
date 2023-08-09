@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da49fe99259e6bd4",
+  "active": "79e6f484022f921e",
   "lastOpenFiles": [
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/03 ElasticCache/01 Definition.md",
