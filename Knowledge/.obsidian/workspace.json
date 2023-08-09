@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security.md",
+                "file": "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security.md",
+                "file": "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security.md",
+                "file": "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security.md"
+                "file": "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/05 Security.md",
+    "00 AWS/000 Attachments/Pasted image 20230809115607.png",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
     "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/000 Attachments/Pasted image 20230808002254.png",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
@@ -204,8 +206,6 @@
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/003 EC2/04 Availability & Scalability",
     "02 Networking/02 DNS Server.md",
-    "02 Networking/01 How Network works.md",
-    "DNS Server.md",
     "02 Networking/Attachment",
     "00 AWS/003 EC2/03 Storage",
     "02 Networking",
