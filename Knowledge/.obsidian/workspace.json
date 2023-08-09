@@ -163,8 +163,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9e888120322d5d15",
+  "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230809180005.png",
+    "00 AWS/000 Attachments/Pasted image 20230809175736.png",
+    "00 AWS/000 Attachments/Pasted image 20230809175216.png",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/004 Storage/03 ElastiCache",
@@ -184,8 +187,6 @@
     "00 AWS/000 Attachments/Pasted image 20230806224434.png",
     "00 AWS/000 Attachments/Pasted image 20230806223842.png",
     "00 AWS/000 Attachments/Pasted image 20230806222924.png",
-    "00 AWS/000 Attachments/Pasted image 20230806222221.png",
-    "00 AWS/000 Attachments/Pasted image 20230806175159.png",
     "00 AWS/004 Storage/02 Aurora",
     "随手记录.md",
     "Workflow Diagram for Document Upload Demo.md",
@@ -205,7 +206,6 @@
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/04 EFS.md",
-    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/003 EC2/04 Availability & Scalability",
     "02 Networking/Attachment",
     "00 AWS/003 EC2/03 Storage",
