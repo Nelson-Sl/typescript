@@ -54,6 +54,12 @@ Aurora is a **propritetary** database that developed by AWS, which supports **Po
 ## Other Features
 ---
 
+* Isolation and security
+* Industry compliance
+* Push-button scaling
+* Automated Patching with Zero Downtime
+* Advanced Monitoring
+* Routine Maintenance
 # Global Aurora
 ---
 
