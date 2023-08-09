@@ -8,7 +8,7 @@
 
 Should be **triggered by user** & can keep the backup **as long as you want**
 
-# Restoring Aurora From S3
+# Restoring RDS From S3
 ---
 
 * Steps: Create a backup of existing database -> Store the backup file in S3 -> **Restore the backup file** onto a new RDS instance
