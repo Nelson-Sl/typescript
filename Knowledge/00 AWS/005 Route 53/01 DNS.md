@@ -18,4 +18,4 @@
 * Domain Registerar -> E.g. **GoDaddy**, Amazon Route 53
 * DNS Record -> A, AAAA, CNAME, NS
 * Zone File -> The file contains **DNS Records**
-	* Name/DNS Server -> **Resolves DNS Queries** (Authoritative or Non-Authoritative)
+* Name/DNS Server -> **Resolves DNS Queries** (Authoritative or Non-Authoritative)
