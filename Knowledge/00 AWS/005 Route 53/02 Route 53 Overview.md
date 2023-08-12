@@ -16,4 +16,4 @@ Defines how you want to **route the traffic for a domain**. This includes:
 * [[03 Record Type|Record Type]]
 * Value -> E.g. 12.34.56.78
 * Routing Policy -> **How Route 53 respond to queries**
-* TTL (Time to Live) 
+* [[05 TTL (Time to Live)|TTL (Time to Live)]]
