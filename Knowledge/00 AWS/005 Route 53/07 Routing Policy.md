@@ -44,3 +44,19 @@
 # Geolocation Policy
 ---
 
+* This will route to different resources based on **user location**
+	* Specify location by **Continent**, **Country** or by **US State**
+	* Should **create a “Default” record** in case there’s no match on location
+	* Can be associated with [[08 Health Check|Health Check]]
+* Use case
+	* Website Localization
+	* Restrict Content Distribution
+	* Load Balancing
+
+![[Pasted image 20230813224750.png]]
+
+# GeoProximity Policy
+---
+
+* Route traffic to your resources based on the geographic location of users and
+resources
