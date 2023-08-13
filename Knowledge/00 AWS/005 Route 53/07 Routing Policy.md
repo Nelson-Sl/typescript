@@ -58,5 +58,15 @@
 # GeoProximity Policy
 ---
 
-* Route traffic to your resources based on the geographic location of users and
-resources
+* Route traffic to your resources **based on the geographic location of users and resources** & Ability to **shift more traffic to resources** based on the defined bias
+	* To expand (1 to 99) – **more traffic to the resource**
+	* To shrink (-1 to -99) – **less traffic to the resource**
+* Prerequisite
+	* Enable **Route 53 Traffic Flow**
+* Support Resource
+	* AWS Resource **specified with region**
+	* Non-AWS Resource **specified with latitude and longitude**
+
+![[Pasted image 20230813230049.png]]
+
+![[Pasted image 20230813230107.png]]
