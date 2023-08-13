@@ -21,4 +21,9 @@ Defines how you want to **route the traffic for a domain**. This includes:
 # Working with 3rd Party Domain Registrar
 ---
 
-* Even though 
+* Even though domain registrar usually **provide DNS service to manage your DNS record**, but you can **choose Route 53 as your DNS service as well**. ( E.g. **purchase the domain from GoDaddy** and **use Route 53 to manage your DNS records** )
+	* Steps
+		* 1. Create a [[04 Hosted Zones|Hosted Zone]] in Route 53
+		* 2. **Update NS Records on 3rd party website** to use Route 53 Name Servers
+
+![[Pasted image 20230814000150.png]]
