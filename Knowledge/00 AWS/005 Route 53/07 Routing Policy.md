@@ -70,3 +70,8 @@
 ![[Pasted image 20230813230049.png]]
 
 ![[Pasted image 20230813230107.png]]
+
+# IP-Based Policy
+---
+
+* Routing to resource based on **clients’ IP addresses** & Link **a list of CIDRs for clients** to corresponding resources/locations/
