@@ -24,3 +24,10 @@
 
 * Load Balancing with different regions
 * Testing new application version
+
+# Latency Policy
+---
+
+* Redirect to the resource in specific AWS Region that **has the least latency close to us**
+	* **Can be associated with Health Checks** (has a failover capability)
+	* Use Case: when **latency should be a priority in app**
