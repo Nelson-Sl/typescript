@@ -34,3 +34,13 @@
 
 ![[Pasted image 20230813195802.png]]
 
+# Failover Policy
+---
+
+* To route to the failover resource if [[08 Health Check|Health Check]] failed
+
+![[Pasted image 20230813223804.png]]
+
+# Geolocation Policy
+---
+
