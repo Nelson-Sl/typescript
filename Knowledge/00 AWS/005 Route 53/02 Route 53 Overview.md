@@ -17,3 +17,8 @@ Defines how you want to **route the traffic for a domain**. This includes:
 * Value -> E.g. 12.34.56.78
 * [[07 Routing Policy|Routing Policy]] -> **How Route 53 respond to queries**
 * [[05 TTL (Time to Live)|TTL (Time to Live)]]
+
+# Working with 3rd Party Domain Registrar
+---
+
+* Even though 
