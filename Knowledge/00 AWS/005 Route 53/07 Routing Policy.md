@@ -74,4 +74,16 @@
 # IP-Based Policy
 ---
 
-* Routing to resource based on **clients’ IP addresses** & Link **a list of CIDRs for clients** to corresponding resources/locations/
+* Routing to resource based on **clients’ IP addresses** ( E.g. from a specific ISP ) & Link **a list of CIDRs for clients** to corresponding **locations/endpoints** ( **IP-to-Endpoints** mapping )
+* Use Case: **Optimize Performance**, **Reduce Cost**...
+
+![[Pasted image 20230813233718.png]]
+
+# Multi-value Policy
+---
+
+* Routing traffic to **multiple resources** so that it could **return multiple value / resources**
+	* Up to **8** healthy records are returned for each Multi-Value query
+	* Can be associated with Health Checks ( **return only values for healthy resources** )
+
+![[Pasted image 20230813234333.png]]

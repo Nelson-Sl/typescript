@@ -15,5 +15,5 @@ Defines how you want to **route the traffic for a domain**. This includes:
 * **Domain Name / Sub Domain Name** -> E.g. example.com
 * [[03 Record Type|Record Type]]
 * Value -> E.g. 12.34.56.78
-* Routing Policy -> **How Route 53 respond to queries**
+* [[07 Routing Policy|Routing Policy]] -> **How Route 53 respond to queries**
 * [[05 TTL (Time to Live)|TTL (Time to Live)]]
