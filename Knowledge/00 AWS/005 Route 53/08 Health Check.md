@@ -35,3 +35,6 @@ Route 53 provide HTTP health check for **public resources**.
 ## HC For Private Hosted Zones / Private Resource
 ---
 
+Route 53 health checkers are outside the VPC and therefore they can’t access private endpoints. To do the health check we can **create a CloudWatch Metric** and **associate a CloudWatch Alarm**, then create a Health Check that checks the alarm itself
+
+![[Pasted image 20230813222416.png]]
