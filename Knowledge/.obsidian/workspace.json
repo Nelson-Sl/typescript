@@ -165,6 +165,7 @@
   },
   "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230813215817.png",
     "00 AWS/005 Route 53/07 Routing Policy.md",
     "00 AWS/005 Route 53/05 TTL (Time to Live).md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
@@ -207,7 +208,6 @@
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/004 Storage",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability",
     "02 Networking/Attachment",
     "00 AWS/003 EC2/03 Storage",
