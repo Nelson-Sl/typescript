@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/005 Route 53/07 Routing Policy.md",
+                "file": "00 AWS/005 Route 53/08 Health Check.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/005 Route 53/07 Routing Policy.md",
+                "file": "00 AWS/005 Route 53/08 Health Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/005 Route 53/07 Routing Policy.md",
+                "file": "00 AWS/005 Route 53/08 Health Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/005 Route 53/07 Routing Policy.md"
+                "file": "00 AWS/005 Route 53/08 Health Check.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "da49fe99259e6bd4",
   "lastOpenFiles": [
-    "00 AWS/005 Route 53/06 Alias Record.md",
+    "00 AWS/005 Route 53/07 Routing Policy.md",
     "00 AWS/005 Route 53/05 TTL (Time to Live).md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/02 Route 53 Overview.md",
+    "00 AWS/005 Route 53/08 Health Check.md",
+    "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/01 DNS.md",
-    "00 AWS/005 Route 53/07 Routing Policy.md",
     "00 AWS/000 Attachments/Pasted image 20230813195802.png",
     "00 AWS/000 Attachments/Pasted image 20230813193954.png",
     "00 AWS/000 Attachments/Pasted image 20230813192402.png",
