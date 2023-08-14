@@ -30,6 +30,16 @@ Amazon S3 allows people to store objects (files) in [[01 Overview#Buckets|Bucket
 # S3 Use Cases
 ---
 
+## Static Website
+---
+* S3 can **host static websites** and **have them accessible on the Internet**
+	* Avoid 403 Forbidden error by **making the policy allow public reads**
+
+![[Pasted image 20230814212947.png]]
+
+## Other Use Case
+---
+
 * Backup and storage 
 * Disaster Recovery 
 * Archive 

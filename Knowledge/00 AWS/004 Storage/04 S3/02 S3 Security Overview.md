@@ -26,5 +26,12 @@ Restrict access based on **which API calls should be allowed for a specific user
 ## Object / Bucket Access Control List (ACL)
 ---
 
-* Use to prevent company data leaCan be **set at account level** & **disabled**
-* 
+* Use to **prevent company data leaks**, Can be **set at account level** & **disabled**
+* Can **block public access** if there's no chance for public
+
+![[Pasted image 20230814212210.png]]
+
+# Encryption
+---
+
+* Encrypt objects in Amazon S3 **using encryption keys**
