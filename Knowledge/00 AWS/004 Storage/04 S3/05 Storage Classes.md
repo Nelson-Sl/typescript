@@ -36,9 +36,15 @@
 # Moving Storage Classes: Lifecycle Policy
 ---
 
-* Automated moving storage classes processes
+* Automated moving storage classes processes (for a **certain object prefix or tag**)
 	* **Transition Actions** – configure objects to transition to another storage class
 		* E.g. **Move objects to Standard IA class** 60 days after creation
 	* **Expiration actions** – configure objects to expire (delete) after some time
 		* Access log files can be set to delete after a 365 days
 		* Delete **Older version of files** or **files that failed for multi-upload**
+
+## Support Tools: Amazon S3 Analytics
+---
+
+* Help you decide **when to transition objects to the right storage class** (Only available for **standard** and **standard IA**)
+	* Report **starts in 24-48 hour** and **is updated daily**

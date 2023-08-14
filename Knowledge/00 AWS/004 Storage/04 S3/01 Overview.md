@@ -48,3 +48,11 @@ Amazon S3 allows people to store objects (files) in [[01 Overview#Buckets|Bucket
 * Media hosting 
 * Data lakes & big data analytics 
 * Software delivery 
+
+# Payment: Default & Requester Pay
+---
+
+* Requester Pay: Helpful **when you want to share large datasets with other accounts** (Note: **requester should be authenticated**)
+
+* ![[Pasted image 20230815015730.png]]
+* 
