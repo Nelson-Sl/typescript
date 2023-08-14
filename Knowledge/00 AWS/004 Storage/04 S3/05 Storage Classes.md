@@ -32,3 +32,13 @@
 ![[Pasted image 20230814222955.png]]
 
 ![[Pasted image 20230814223019.png]]
+
+# Moving Storage Classes: Lifecycle Policy
+---
+
+* Automated moving storage classes processes
+	* **Transition Actions** – configure objects to transition to another storage class
+		* E.g. **Move objects to Standard IA class** 60 days after creation
+	* **Expiration actions** – configure objects to expire (delete) after some time
+		* Access log files can be set to delete after a 365 days
+		* Delete **Older version of files** or **files that failed for multi-upload**
