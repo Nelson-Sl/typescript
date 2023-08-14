@@ -20,5 +20,5 @@
 ![[Pasted image 20230815021302.png]]
 
 * **Advanced filtering options** with JSON rules (E.g. metadata, object size, name)
-* **More Event Destinations** (E.g. Step Function, Cloudwatch)
+* **More Event Destinations** (E.g. Step Function, Kinesis Firehose...)
 * **EventBridge Capabilities** – Archive, Replay Events, Reliable delivery

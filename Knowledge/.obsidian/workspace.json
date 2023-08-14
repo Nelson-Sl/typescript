@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
+                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md"
               }
             }
           },
@@ -165,14 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/004 Storage/04 S3/03 Versioning.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/000 Attachments/Pasted image 20230815024024.png",
     "00 AWS/000 Attachments/Pasted image 20230815023154.png",
     "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/000 Attachments/Pasted image 20230815022626.png",
     "00 AWS/000 Attachments/Pasted image 20230815022331.png",
     "00 AWS/000 Attachments/Pasted image 20230815022227.png",
@@ -181,7 +182,6 @@
     "00 AWS/000 Attachments/Pasted image 20230815021023.png",
     "00 AWS/000 Attachments/Pasted image 20230815015730.png",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/000 Attachments/Pasted image 20230814223019.png",
     "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
     "00 AWS/004 Storage/04 S3",
