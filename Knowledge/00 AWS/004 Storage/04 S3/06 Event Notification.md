@@ -6,3 +6,19 @@
 
 ![[Pasted image 20230815021023.png]]
 
+# Prerequisite: Provide Access to Events
+---
+
+## IAM Permission
+---
+
+![[Pasted image 20230815021156.png]]
+
+# Via Amazon EventBridge
+---
+
+![[Pasted image 20230815021302.png]]
+
+* **Advanced filtering options** with JSON rules (E.g. metadata, object size, name)
+* **More Event Destinations** (E.g. Step Function, Cloudwatch)
+* **EventBridge Capabilities** – Archive, Replay Events, Reliable delivery
