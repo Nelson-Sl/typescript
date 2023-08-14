@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md"
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3",
     "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
     "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
@@ -172,7 +175,6 @@
     "00 AWS/000 Attachments/Pasted image 20230814201903.png",
     "00 AWS/000 Attachments/Pasted image 20230814201526.png",
     "00 AWS/000 Attachments/Pasted image 20230814201016.png",
-    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
     "00 AWS/006 Developer Tools",
     "00 AWS/000 Attachments/Pasted image 20230814194048.png",
     "00 AWS/000 Attachments/Pasted image 20230814193954.png",
@@ -209,7 +211,6 @@
     "Knowledge",
     "00 AWS/004 Storage/01 RDS",
     "00 AWS/004 Storage",
-    "00 AWS/003 EC2/04 Availability & Scalability",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
