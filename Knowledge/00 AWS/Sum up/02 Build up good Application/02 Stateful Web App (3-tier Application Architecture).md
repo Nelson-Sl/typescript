@@ -42,7 +42,7 @@
 ### Distributed Application: EFS
 ---
 
-* Share same data cross availability zone
+* Share same data **cross availability zone**
 
 ![[Pasted image 20230814194048.png]]
 ## Scaling Reads
