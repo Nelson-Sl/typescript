@@ -25,7 +25,7 @@ Amazon S3 allows people to store objects (files) in [[01 Overview#Buckets|Bucket
 		* Multi-part upload if **upload > 5GB**
 	* **Metadata** (list of text key / value pairs – system or user metadata)
 	* **Tags** (Unicode key / value pair – up to 10) – useful for security / lifecycle
-	* **Version ID** (if versioning is enabled)
+	* **Version ID** (if [[03 Versioning|versioning]] is enabled)
 
 # S3 Use Cases
 ---
