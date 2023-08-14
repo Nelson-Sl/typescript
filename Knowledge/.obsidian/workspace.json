@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md"
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "00 AWS/000 Attachments/Pasted image 20230815024024.png",
+    "00 AWS/000 Attachments/Pasted image 20230815023154.png",
     "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
@@ -181,8 +183,6 @@
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/000 Attachments/Pasted image 20230814223019.png",
-    "00 AWS/000 Attachments/Pasted image 20230814222955.png",
-    "00 AWS/000 Attachments/Pasted image 20230814212947.png",
     "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
     "00 AWS/004 Storage/04 S3",
     "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
@@ -206,7 +206,6 @@
     "00 AWS/005 Route 53",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/004 Storage/03 ElastiCache",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/02 Aurora",
     "Knowledge",
     "00 AWS/004 Storage/01 RDS",
