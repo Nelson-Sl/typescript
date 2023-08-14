@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
+                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/000 Attachments/Pasted image 20230814223019.png",
+    "00 AWS/000 Attachments/Pasted image 20230814222955.png",
+    "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230814212947.png",
@@ -183,8 +185,6 @@
     "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "00 AWS/000 Attachments/Pasted image 20230814202011.png",
-    "00 AWS/000 Attachments/Pasted image 20230814201903.png",
-    "00 AWS/000 Attachments/Pasted image 20230814201526.png",
     "00 AWS/006 Developer Tools",
     "01 Obsidian/MarkDown/Introduction & Grammar.md",
     "00 AWS/Sum up/02 Build up good Application",
@@ -207,7 +207,6 @@
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/004 Storage/02 Aurora",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "Knowledge",
     "00 AWS/004 Storage/01 RDS",
     "00 AWS/004 Storage",
