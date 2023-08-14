@@ -21,3 +21,4 @@
 
 * By default **only new objects are replicated**. Can replicate existing objects or objects that fail to replicate using **S3 Batch Replication**
 * For DELETE operations, it can **replicate delete markers** (optional) but **not able to replicate with a deletion with version ID**
+* No **chaining** of operation, can only replicate the objects from the closest bucket
