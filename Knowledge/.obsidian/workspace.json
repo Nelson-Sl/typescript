@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+    "00 AWS/000 Attachments/Pasted image 20230814210811.png",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
+    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
     "00 AWS/004 Storage/04 S3",
     "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
     "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
@@ -206,8 +208,6 @@
     "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
     "随手记录.md",
-    "Workflow Diagram for Document Upload Demo.md",
-    "Workflow Diagram 2.md",
     "Knowledge",
     "00 AWS/004 Storage/01 RDS",
     "00 AWS/004 Storage",
