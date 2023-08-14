@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+                "file": "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md"
+                "file": "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
+    "00 AWS/000 Attachments/Pasted image 20230814201016.png",
     "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
+    "00 AWS/006 Developer Tools",
+    "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
     "00 AWS/000 Attachments/Pasted image 20230814194048.png",
     "00 AWS/000 Attachments/Pasted image 20230814193954.png",
     "00 AWS/000 Attachments/Pasted image 20230814193744.png",
@@ -181,7 +184,6 @@
     "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
     "00 AWS/Sum up/02 Build up good Application",
     "00 AWS/005 Route 53/08 Health Check.md",
-    "00 AWS/未命名",
     "00 AWS/未命名.md",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/Sum up/01 List of Ports.md",
@@ -205,9 +207,7 @@
     "随手记录.md",
     "Workflow Diagram for Document Upload Demo.md",
     "Workflow Diagram 2.md",
-    "a.md",
     "Knowledge",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/004 Storage/01 RDS",
     "00 AWS/004 Storage",
     "00 AWS/003 EC2/04 Availability & Scalability",
