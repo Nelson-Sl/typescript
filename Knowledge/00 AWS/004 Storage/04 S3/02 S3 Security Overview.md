@@ -1,3 +1,10 @@
+# Definition
+---
+
+* an IAM principal can access an S3 object if 
+	* The user **IAM permissions ALLOW** it OR **the resource policy ALLOWS it**
+	* there’s **no explicit DENY**
+
 # User-Based: IAM Policies
 ---
 

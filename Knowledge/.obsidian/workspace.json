@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
+                "file": "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md"
               }
             }
           },
@@ -166,13 +166,13 @@
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/000 Attachments/Pasted image 20230814223019.png",
-    "00 AWS/000 Attachments/Pasted image 20230814222955.png",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/000 Attachments/Pasted image 20230814212947.png",
     "00 AWS/004 Storage/04 S3/02 S3 Security Overview.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/000 Attachments/Pasted image 20230814223019.png",
+    "00 AWS/000 Attachments/Pasted image 20230814222955.png",
+    "00 AWS/000 Attachments/Pasted image 20230814212947.png",
     "00 AWS/000 Attachments/Pasted image 20230814212210.png",
     "00 AWS/000 Attachments/Pasted image 20230814211656.png",
     "00 AWS/000 Attachments/Pasted image 20230814211627.png",

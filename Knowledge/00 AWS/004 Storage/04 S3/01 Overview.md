@@ -48,4 +48,3 @@ Amazon S3 allows people to store objects (files) in [[01 Overview#Buckets|Bucket
 * Media hosting 
 * Data lakes & big data analytics 
 * Software delivery 
-* Static website
