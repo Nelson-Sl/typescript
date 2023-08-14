@@ -16,6 +16,3 @@
 
 ![[Pasted image 20230814121119.png]]
 
-# Stateful Web App
----
-
