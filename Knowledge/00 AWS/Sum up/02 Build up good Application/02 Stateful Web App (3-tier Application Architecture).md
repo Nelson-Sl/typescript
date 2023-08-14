@@ -31,6 +31,20 @@
 # Store Data in Database
 ---
 
+## Choose Storage
+---
+
+### Single Instance Application: EBS
+---
+
+![[Pasted image 20230814193954.png]]
+
+### Distributed Application: EFS
+---
+
+* Share same data cross availability zone
+
+![[Pasted image 20230814194048.png]]
 ## Scaling Reads
 ---
 
@@ -45,6 +59,13 @@
 * **Less Read Request to RDS** but may **get outdated data**
 
 ![[Pasted image 20230814125240.png]]
+
+### Aurora
+---
+
+* Easy Scaling by **Multi AZ** & **Read Replica**
+
+![[Pasted image 20230814193744.png]]
 
 ## FailOver: Multi AZ for RDS & ElasticCache
 ---
