@@ -35,7 +35,7 @@
 ---
 
 * [[04 Geo Restriction|Geo Restriction]]
-
+* [[05 Cache Invalidation|Cache Invalidation]]
 
 # Price
 ---
@@ -52,6 +52,9 @@
 2. Price Class 200: most regions, **but excludes the most expensive regions**
 3. Price Class 100: **only the least expensive regions**
 
+![[Pasted image 20230815204902.png]]
+
+![[Pasted image 20230815204932.png]]
 
 # Why use Cloudfront
 ---

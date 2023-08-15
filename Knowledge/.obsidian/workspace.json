@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/007 CloudFront/01 Definition.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/007 CloudFront/02 Origin S3 Bucket.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/007 CloudFront/01 Definition.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/007 CloudFront/01 Definition.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/007 CloudFront/01 Definition.md"
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md"
               }
             }
           },
@@ -190,18 +190,24 @@
   },
   "active": "97897a1b32eb4750",
   "lastOpenFiles": [
+    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
+    "00 AWS/007 Global Network/01 CloudFront/Untitled.md",
+    "00 AWS/007 Global Network",
+    "00 AWS/000 Attachments/Pasted image 20230815205408.png",
+    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+    "00 AWS/000 Attachments/Pasted image 20230815204932.png",
+    "00 AWS/000 Attachments/Pasted image 20230815204902.png",
     "00 AWS/000 Attachments/Pasted image 20230815204608.png",
-    "00 AWS/007 CloudFront/04 Geo Restriction.md",
-    "00 AWS/007 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 CloudFront/01 Definition.md",
-    "00 AWS/007 CloudFront/03 Origin ALB & EC2.md",
+    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
+    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
+    "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/000 Attachments/Pasted image 20230815203535.png",
     "00 AWS/000 Attachments/Pasted image 20230815203029.png",
     "00 AWS/000 Attachments/Pasted image 20230815202349.png",
     "conflict-files-obsidian-git.md",
     "00 AWS/000 Attachments/Pasted image 20230815201626.png",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/007 CloudFront",
+    "00 AWS/007 Global Network/01 CloudFront",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
@@ -224,18 +230,12 @@
     "00 AWS/004 Storage/04 S3",
     "00 AWS/000 Attachments/Pasted image 20230815192232.png",
     "00 AWS/000 Attachments/Pasted image 20230815192117.png",
-    "00 AWS/000 Attachments/Pasted image 20230815184158.png",
-    "00 AWS/000 Attachments/Pasted image 20230815184137.png",
-    "00 AWS/000 Attachments/Pasted image 20230815180741.png",
-    "00 AWS/000 Attachments/Pasted image 20230815165212.png",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/07 Routing Policy.md",
-    "00 AWS/005 Route 53/08 Health Check.md",
     "00 AWS/005 Route 53",
     "00 AWS/Sum up",
     "00 AWS/004 Storage/03 ElastiCache",
     "00 AWS/004 Storage/02 Aurora",
-    "Knowledge",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
