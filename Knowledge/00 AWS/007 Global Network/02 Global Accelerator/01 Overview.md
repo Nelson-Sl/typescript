@@ -20,4 +20,12 @@ Note: Works with **Elastic IP**, **EC2 instances**, **ALB**, **NLB**, public or 
 * Security
 	* **DDoS protection** thanks to AWS Shield
 * Health Check
-	* Help for disas
+	* Help for **disaster recovery & Fast Failover**
+
+# Why use Global Accelerator?
+---
+
+* Provide Consistent Performance based on
+	* Intelligent routing to **lowest latency** and **fast regional failover**
+	* **No issue with client cache** (because the IP doesn’t change)
+	* Internal AWS network
