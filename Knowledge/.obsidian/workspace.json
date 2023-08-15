@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/03 Other Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/03 Other Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/03 Other Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md"
+                "file": "00 AWS/004 Storage/04 S3/02 Security/03 Other Settings.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/000 Attachments/Pasted image 20230815165212.png",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Other Settings.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230815133509.png",
     "00 AWS/000 Attachments/Pasted image 20230815132928.png",
     "00 AWS/000 Attachments/Pasted image 20230815132049.png",
@@ -204,7 +206,6 @@
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/02 Route 53 Overview.md",
-    "00 AWS/005 Route 53/01 DNS.md",
     "00 AWS/005 Route 53",
     "00 AWS/004 Storage/03 ElastiCache",
     "00 AWS/004 Storage/02 Aurora",
