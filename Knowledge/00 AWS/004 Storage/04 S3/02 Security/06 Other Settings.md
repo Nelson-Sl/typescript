@@ -44,3 +44,5 @@ Access Points **simplify security management for S3 Buckets**, which consists of
 ![[Pasted image 20230815184137.png]]
 
 ![[Pasted image 20230815184158.png]]
+
+## App
