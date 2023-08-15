@@ -34,7 +34,24 @@
 # Other Features
 ---
 
-* 
+* [[04 Geo Restriction|Geo Restriction]]
+
+
+# Price
+---
+
+## Per Month Price
+---
+
+![[Pasted image 20230815204608.png]]
+
+## Price Classes
+---
+
+1. Price Class All: **all regions** – best performance
+2. Price Class 200: most regions, **but excludes the most expensive regions**
+3. Price Class 100: **only the least expensive regions**
+
 
 # Why use Cloudfront
 ---
