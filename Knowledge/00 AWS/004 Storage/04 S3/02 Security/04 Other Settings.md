@@ -19,3 +19,8 @@
 
 **MFA (Multi-Factor Authentication)** –> force users to **generate a code on a device** (usually a mobile phone or hardware) before doing important operations on S3
 
+# Pre-Signed URL
+---
+
+
+
