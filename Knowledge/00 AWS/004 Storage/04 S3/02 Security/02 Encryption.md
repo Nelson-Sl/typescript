@@ -18,7 +18,7 @@
 * Header: "**x-amz-server-side-encryption: aws:kms**"
 * Pros & Cons
 	* Advantage
-		* **User Control** 
+		* **full control** over the rotation policy of the encryption key
 		* **Audit key usage** using CloudTrail
 	* DisAdvantage
 		* Calls **GenerateDataKey** KMS API & **Decrypt** KMS API, Impacted by **KMS Limits**

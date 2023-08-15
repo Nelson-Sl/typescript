@@ -45,4 +45,16 @@ Access Points **simplify security management for S3 Buckets**, which consists of
 
 ![[Pasted image 20230815184158.png]]
 
-## App
+## Application: Object Lambda
+---
+
+* Use AWS Lambda Functions to **change the object before it is retrieved** by the caller application
+
+![[Pasted image 20230815192232.png]]
+
+### Use Cases
+---
+
+* **Redacting personally identifiable information** for analytics or non- production environments.
+* **Converting across data formats**, such as converting XML to JSON.
+* **Resizing and watermarking images** on the fly using caller-specific details, such as the user who requested the object.
