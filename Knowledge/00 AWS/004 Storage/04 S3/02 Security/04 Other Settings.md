@@ -34,3 +34,9 @@
 * Temporary Access: Allow t**emporarily** a user to upload a file to a precise location in your S3 bucket
 * Restrict Access: Allow **only logged-in users** to download a premium video from your S3 bucket
 
+# Access Points
+---
+
+Access Points **simplify security management for S3 Buckets**, which consists of:
+* its own **DNS name** (Internet Origin or VPC Origin -> **VPC Endpoint to access the Access Point**)
+* an **access point policy** (similar to bucket policy) – manage security at scale
