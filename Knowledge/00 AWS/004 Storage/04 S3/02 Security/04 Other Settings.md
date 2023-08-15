@@ -22,5 +22,15 @@
 # Pre-Signed URL
 ---
 
+* Users given a pre-signed URL inherit the permissions of the user that **generated the URL for GET / PUT** (Usually a **temporary access**)
+	* Can be generated from **S3 Console, AWS CLI or SDK**
+	* Expiration Time
+		* S3 Console: **1 min - 12 hours**
+		* AWS CLI (Configured with **--expires-in**): Default **3600 sec**, maximum **604800 sec**
 
+## Use Case
+---
+
+* Temporary Access: Allow t**emporarily** a user to upload a file to a precise location in your S3 bucket
+* Restrict Access: Allow **only logged-in users** to download a premium video from your S3 bucket
 
