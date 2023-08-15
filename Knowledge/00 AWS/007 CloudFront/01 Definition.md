@@ -16,13 +16,12 @@
 # When use CloudFront: Support Origins
 ---
 
-* S3 Bucket
+* [[02 Origin S3 Bucket|S3 Bucket]]
 * Custom HTTP Origins
-	* Application Load Balancer (ALB)
-	* EC2 instance
+	* [[03 Origin ALB & EC2|Application Load Balancer]]
+	* [[03 Origin ALB & EC2|EC2 instance]]
 	* S3 website (must first **enable the bucket as a static S3 website**)
 	* Any HTTP backend you want
-
 # CloudFront Security
 ---
 * OutBound
@@ -32,8 +31,13 @@
 * InBound
 	* **OAC** (Origin Access Control)
 
+# Other Features
+---
+
+* 
+
 # Why use Cloudfront
 ---
 
-* DDoS protection (because worldwide), integration with Shield,
-AWS Web Application Firewall
+* Global Edge Network, great for **static content that must be available everywhere**
+* Improve User Experience
