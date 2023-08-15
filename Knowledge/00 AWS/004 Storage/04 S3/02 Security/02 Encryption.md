@@ -8,7 +8,7 @@
 ---
 
 * Header: "**x-amz-server-side-encryption: AES256**"
-* Enabled **by default** for new buckets & new objects
+* Enabled **by default** for new buckets & new objects (But can be forced to **SSE-KMS** & **SSE-C**)
 
 ![[Pasted image 20230815131824.png]]
 
