@@ -25,8 +25,7 @@
 # CloudFront Security
 ---
 * OutBound
-	* **DDoS protection** (because worldwide)
-	* integration with **Shield**
+	* **DDoS protection** (because worldwide) with integration to **Shield**
 	* AWS **Web Application Firewall**
 * InBound
 	* **OAC** (Origin Access Control)

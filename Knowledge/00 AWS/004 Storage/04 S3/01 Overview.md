@@ -1,7 +1,7 @@
 # What is S3?
 ---
 
-Amazon S3 allows people to store objects (files) in [[01 Overview#Buckets|Buckets]] (directories)
+Amazon S3 allows people to store objects (files) in [[00 AWS/004 Storage/04 S3/01 Overview#Buckets|Buckets]] (directories)
 
 ## Buckets
 ---
