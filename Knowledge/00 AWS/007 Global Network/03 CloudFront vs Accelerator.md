@@ -16,4 +16,5 @@
 ---
 
 * Improves performance for a wide range of applications over TCP/UDP/Proxy Packet
-	* E.g. Gaming/IoT/Voice Over IP
+	* E.g. **Gaming/IoT/Voice Over IP**
+* Good for HTTP use cases that **require static IP addresses** and **fast regional failover**
