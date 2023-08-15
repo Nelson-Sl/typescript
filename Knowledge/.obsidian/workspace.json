@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97897a1b32eb4750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 AWS/007 CloudFront/01 Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63900d9c56bee44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 AWS/007 CloudFront/01 Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/005 Route 53/02 Route 53 Overview.md",
+                "file": "00 AWS/007 CloudFront/01 Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/005 Route 53/02 Route 53 Overview.md",
+                "file": "00 AWS/007 CloudFront/01 Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/005 Route 53/02 Route 53 Overview.md"
+                "file": "00 AWS/007 CloudFront/01 Definition.md"
               }
             }
           },
@@ -163,53 +188,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da49fe99259e6bd4",
+  "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230815202349.png",
+    "conflict-files-obsidian-git.md",
+    "00 AWS/007 CloudFront/01 Definition.md",
+    "00 AWS/000 Attachments/Pasted image 20230815201626.png",
+    "00 AWS/004 Storage/04 S3/04 Replication.md",
+    "00 AWS/007 CloudFront",
+    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+    "00 AWS/005 Route 53/02 Route 53 Overview.md",
+    "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
+    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
+    "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
+    "00 AWS/Sum up/02 Build up good Application",
+    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
+    "00 AWS/006 Developer Tools",
+    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
+    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
+    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/004 Storage/04 S3/03 Versioning.md",
+    "00 AWS/004 Storage/04 S3/02 Security",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3",
+    "00 AWS/000 Attachments/Pasted image 20230815192232.png",
+    "00 AWS/000 Attachments/Pasted image 20230815192117.png",
+    "00 AWS/000 Attachments/Pasted image 20230815184158.png",
+    "00 AWS/000 Attachments/Pasted image 20230815184137.png",
+    "00 AWS/000 Attachments/Pasted image 20230815180741.png",
+    "00 AWS/000 Attachments/Pasted image 20230815165212.png",
+    "00 AWS/000 Attachments/Pasted image 20230815133509.png",
+    "00 AWS/000 Attachments/Pasted image 20230815132928.png",
+    "00 AWS/000 Attachments/Pasted image 20230815132049.png",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/07 Routing Policy.md",
     "00 AWS/005 Route 53/08 Health Check.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/05 TTL (Time to Live).md",
-    "00 AWS/005 Route 53/01 DNS.md",
-    "00 AWS/000 Attachments/Pasted image 20230814000150.png",
-    "00 AWS/000 Attachments/Pasted image 20230813234333.png",
-    "00 AWS/000 Attachments/Pasted image 20230813233718.png",
-    "00 AWS/000 Attachments/Pasted image 20230813230107.png",
-    "00 AWS/000 Attachments/Pasted image 20230813230049.png",
-    "00 AWS/000 Attachments/Pasted image 20230813224750.png",
-    "00 AWS/000 Attachments/Pasted image 20230813223804.png",
-    "00 AWS/000 Attachments/Pasted image 20230813223737.png",
-    "00 AWS/000 Attachments/Pasted image 20230813222416.png",
-    "00 AWS/000 Attachments/Pasted image 20230813222000.png",
-    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/005 Route 53",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
-    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/Sum up/01 List of Ports.md",
     "00 AWS/Sum up",
     "00 AWS/004 Storage/03 ElastiCache",
-    "00 AWS/004 Storage/Untitled.md",
     "00 AWS/004 Storage/02 Aurora",
-    "随手记录.md",
-    "Workflow Diagram for Document Upload Demo.md",
-    "Workflow Diagram 2.md",
-    "a.md",
     "Knowledge",
-    "00 AWS/004 Storage/01 RDS",
-    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "00 AWS/004 Storage",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
-    "00 AWS/003 EC2/04 Availability & Scalability",
-    "02 Networking/Attachment",
-    "00 AWS/003 EC2/03 Storage",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
