@@ -15,6 +15,16 @@
 ### Server-Side Encryption with **KMS Keys stored in AWS KMS** (SSE-KMS)
 ---
 
+* Header: "**x-amz-server-side-encryption: aws:kms**"
+* Pros & Cons
+	* Advantage
+		* **User Control** 
+		* **Audit key usage** using CloudTrail
+	* DisAdvantage
+		* Calls **GenerateDataKey** KMS API & **Decrypt** KMS API, Impacted by **KMS Limits**
+
+![[Pasted image 20230815132049.png]]
+
 
 ### Server-Side Encryption with **Customer-Provided Keys** (SSE-C)
 ---
