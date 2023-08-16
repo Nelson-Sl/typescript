@@ -68,3 +68,7 @@
 
 * Move **workloads running on ZFS** to AWS
 * Support System Protocol: **NFS**
+* Storage: Up to **1,000,000 IOPS with < 0.5ms latency**
+* Advantage:
+	* **Snapshots**, **compression** and low-cost
+	* **Point-in-time instantaneous cloning** (helpful for testing new workloads)
