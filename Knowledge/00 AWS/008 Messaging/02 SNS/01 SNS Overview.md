@@ -47,7 +47,7 @@
 	* Account Level: **IAM policies** to regulate access to the SNS API
 	* SQS Access Policies (similar to S3 bucket policies)
 		* Cross-account access to SQS queues
-		* Allowing other services (**SNS, S3…**) to write to an SNS Topic
+		* Allowing other services (**SQS, S3…**) to write to an SNS Topic
 * Encryption
 	* In-flight: **HTTPS API**
 	* At-Rest: **KMS Keys**

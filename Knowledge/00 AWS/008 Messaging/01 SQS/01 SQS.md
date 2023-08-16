@@ -45,6 +45,7 @@
 ---
 
 * [[02 Message Visibility Timeout|Message Visibility Timeout]]
+* [[03 Long Polling|Long Polling]]
 # Use Cases
 ---
 

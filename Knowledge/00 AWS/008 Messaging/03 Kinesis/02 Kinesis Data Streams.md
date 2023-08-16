@@ -15,7 +15,7 @@
 		* Default capacity provisioned (**4 MB/s in or 4000 records per second**)
 		* Pay **per stream per hour & data in/out per GB**
 * Note: Data that **shares the same partition goes to the same shard** (ordering)
-	* Advantage: Good for data transfer if you **have < 5 consumers** and need to **transfer large data for each consumer in time**
+	* Advantage: Good for data transfer if you **have <= 5 consumers** and need to **transfer large data for each consumer in time**
 
 ![[Pasted image 20230816221554.png]]
 
