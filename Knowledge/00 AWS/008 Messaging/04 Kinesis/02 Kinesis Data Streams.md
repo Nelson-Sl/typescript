@@ -15,6 +15,7 @@
 		* Default capacity provisioned (**4 MB/s in or 4000 records per second**)
 		* Pay **per stream per hour & data in/out per GB**
 * Note: Data that **shares the same partition goes to the same shard** (ordering)
+	* Advantage: Good for 
 
 ![[Pasted image 20230816221554.png]]
 
