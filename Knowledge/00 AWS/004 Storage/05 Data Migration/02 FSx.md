@@ -13,6 +13,7 @@
 * **Support System Protocol**
 	* SMB
 	* Windows NTFS
+	* Microsoft Active Directory integration, ACLs, user quotas
 	* Microsoft's Distributed File System (DFS) Namespaces
 * **Storage** 
 	* Scale up to **10s of GB/s, millions of IOPS, 100s PB of data**
