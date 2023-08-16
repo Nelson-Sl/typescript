@@ -33,6 +33,14 @@
 	* Options
 		* **SSD** - **low-latency, IOPS intensive workloads**, small & random file operations
 		* **HDD** - **throughput-intensive workloads**, large & sequential file operations
+* FS Options
+	* Stratch File System
+		* **High burst** (6x faster, 200MBps per TiB)
+		* **Temporary storage** & Data is not replicated (doesn’t **persist if file server fails**)
+		* Use Case: **short-term processing**, **optimize costs**
+	* Persistent File System
+		* Long-term storage & Data is replicated within same AZ (within few Minutes)
+		* Use Case: **long-term processing**, **sensitive data**
 * Advantage
 	* Can be **accessed from your on-premises infrastructure** (VPN or Direct Connect)
 	* Seamless integration with S3
@@ -40,3 +48,5 @@
 		* Can **write the output of the computations back to S3** (through FSx)
 * Use Case
 	* Machine Learning, **High Performance Computing (HPC)**
+	* **Video Processing**, **Financial Modeling**, **Electronic Design Automation**
+
