@@ -19,6 +19,14 @@
 
 ![[Pasted image 20230816212227.png]]
 
+## FIFO For Subscribers
+---
+
+* **Ordering by Message Group ID** (all messages in the same group are ordered)
+* **Deduplication** using a Deduplication ID or Content Based Deduplication
+* Limited throughput (same throughput as [[01 SQS#FIFO Queues|SQS FIFO]])
+
+![[Pasted image 20230816214134.png]]
 # SNS Limits
 ---
 
