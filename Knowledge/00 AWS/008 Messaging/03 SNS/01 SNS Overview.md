@@ -25,15 +25,22 @@
 * **100,000 topics limit** (Can be adjusted)
 * **Up to 12,500,000 subscriptions** per topic
 
+# SNS Features: Message Filtering
+---
+
+* JSON policy used to **filter messages sent to SNS topic’s subscriptions** (By default it receives every message)
+
+![[Pasted image 20230816213931.png]]
+
 # SNS Security
 ---
 
 *  Access Controls
-	* Account Level: **IAM policies** to regulate access to the SQS API
+	* Account Level: **IAM policies** to regulate access to the SNS API
 	* SQS Access Policies (similar to S3 bucket policies)
 		* Cross-account access to SQS queues
-		* Allowing other services (**SNS, S3…**) to write to an SQS queue
+		* Allowing other services (**SNS, S3…**) to write to an SNS Topic
 * Encryption
 	* In-flight: **HTTPS API**
-	* At-Rest: **KMS Keys** Or **SQS Keys**
+	* At-Rest: **KMS Keys**
 	* **Client-side encryption** if the client wants to perform encryption/decryption itself
