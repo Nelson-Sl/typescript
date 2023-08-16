@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
+                "file": "00 AWS/008 Messaging/02 SQS/01 SQS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
+                "file": "00 AWS/008 Messaging/02 SQS/01 SQS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
+                "file": "00 AWS/008 Messaging/02 SQS/01 SQS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md"
+                "file": "00 AWS/008 Messaging/02 SQS/01 SQS.md"
               }
             }
           },
@@ -178,10 +178,12 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230816205950.png",
+    "00 AWS/008 Messaging/02 SQS/03 Long Polling.md",
+    "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
     "00 AWS/000 Attachments/Pasted image 20230816204739.png",
     "00 AWS/008 Messaging/02 SQS/01 SQS.md",
     "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
-    "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
     "00 AWS/008 Messaging/02 SQS",
     "00 AWS/000 Attachments/Pasted image 20230816203457.png",
     "00 AWS/000 Attachments/Pasted image 20230816203323.png",
@@ -200,7 +202,6 @@
     "00 AWS/004 Storage/06 Comparison.md",
     "00 AWS/000 Attachments/Pasted image 20230816193309.png",
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
-    "00 AWS/000 Attachments/Pasted image 20230816192846.png",
     "conflict-files-obsidian-git.md",
     "00 AWS/007 Global Network/03 CloudFront vs Accelerator.md",
     "00 AWS/004 Storage/05 Data Migration",
@@ -219,7 +220,6 @@
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
-    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
     "00 AWS/Sum up/02 Build up good Application",
     "00 AWS/006 Developer Tools",
     "00 AWS/004 Storage/04 S3/02 Security",

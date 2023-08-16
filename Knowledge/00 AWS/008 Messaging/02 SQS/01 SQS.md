@@ -34,6 +34,11 @@
 
 ![[Pasted image 20230816202809.png]]
 
+## FIFO Queues
+---
+![[Pasted image 20230816205950.png]]
+
+* FIFO = **First In First Out** (ordering of messages in the queue & )
 # Features
 ---
 
