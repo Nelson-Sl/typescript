@@ -14,6 +14,6 @@ Use **Queue, Publisher/Subscriber or Real-time Streaming Model** to **decouple**
 # AWS Products
 ---
 
-* SQS: queue model
+* [[02 SQS|SQS]]: queue model
 * SNS: pub/sub model
-• using Kinesis: real-time streaming model
+* Kinesis: real-time streaming model

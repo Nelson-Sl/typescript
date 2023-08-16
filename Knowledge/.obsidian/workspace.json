@@ -178,8 +178,9 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
+    "00 AWS/008 Messaging/02 SQS.md",
     "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/000 Attachments/Pasted image 20230816194819.png",
     "00 AWS/000 Attachments/Pasted image 20230816194814.png",
     "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
