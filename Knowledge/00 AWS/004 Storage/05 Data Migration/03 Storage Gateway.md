@@ -25,6 +25,20 @@
 	* **Windows native compatibility** (SMB, NTFS, Active Directory...)
 	* Use Case: **Group File Shares** & **Home Directories**
 * Volume Gateway
+	* Options
+		* Cached Volumes: **low latency access to most recent data**
+		* Stored volumes: entire dataset is on premise, **scheduled backups to S3**
 	* Use Case: **Backed by EBS snapshots** which can help restore on-premises volumes
+* Tape Gateway
+	* Back up data using **existing tape-based processes** (but in cloud)
+	* Use Case: Works **with leading backup software vendors**
 
 ![[Pasted image 20230816183717.png]]
+
+# Use Cases
+---
+
+* **disaster recovery**
+* **backup & restore** (Volume Gateway)
+* **Tiered Storage** (S3 File & Tape Gateway)
+* **on-premises cache & low-latency files access**
