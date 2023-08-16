@@ -11,3 +11,8 @@
 * Kinesis Video Streams: **capture, process, and store video streams**
 * [[03 Kinesis Firehose|Kinesis Data Firehose]]: **load data streams into AWS / Other data stores** 
 * Kinesis Data Analytics: **analyze data streams with SQL or Apache Flink**
+
+# Use Case
+---
+
+* **Real-time big data, Analytics and ETL**

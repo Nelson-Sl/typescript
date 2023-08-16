@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/04 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/008 Messaging/04 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/04 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/04 Kinesis/02 Kinesis Data Streams.md"
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md"
               }
             }
           },
@@ -176,33 +176,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63900d9c56bee44a",
+  "active": "9e888120322d5d15",
   "lastOpenFiles": [
-    "00 AWS/008 Messaging/04 Kinesis/03 Kinesis Firehose.md",
-    "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
-    "00 AWS/008 Messaging/02 SQS/Use Case Grouping Data.md",
+    "00 AWS/008 Messaging/Untitled",
+    "00 AWS/008 Messaging/Untitled.md",
+    "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
+    "00 AWS/008 Messaging/04 Kinesis/Untitled.md",
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+    "00 AWS/000 Attachments/Pasted image 20230816230512.png",
+    "00 AWS/008 Messaging/01 SQS/02 Message Visibility Timeout.md",
+    "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
     "00 AWS/000 Attachments/Pasted image 20230816225818.png",
-    "00 AWS/008 Messaging/02 SQS/01 SQS.md",
-    "00 AWS/008 Messaging/02 SQS/03 Long Polling.md",
-    "00 AWS/008 Messaging/04 Kinesis/01 Overview.md",
-    "00 AWS/008 Messaging/03 SNS/01 SNS Overview.md",
-    "00 AWS/008 Messaging/04 Kinesis/02 Kinesis Data Streams.md",
+    "00 AWS/008 Messaging/01 SQS/01 SQS.md",
+    "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
+    "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
     "00 AWS/008 Messaging/05 Sum up/02 Kinesis Data Streams vs Kinesis Firehose.md",
     "00 AWS/000 Attachments/Pasted image 20230816224521.png",
     "00 AWS/000 Attachments/Pasted image 20230816224040.png",
     "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230816221554.png",
     "00 AWS/008 Messaging/05 Sum up/01 Useful Architectures.md",
-    "00 AWS/008 Messaging/04 Kinesis",
+    "00 AWS/008 Messaging/03 Kinesis",
     "00 AWS/000 Attachments/Pasted image 20230816215352.png",
     "00 AWS/000 Attachments/Pasted image 20230816215207.png",
     "00 AWS/000 Attachments/Pasted image 20230816214835.png",
     "00 AWS/008 Messaging/05 Sum up",
     "00 AWS/000 Attachments/Pasted image 20230816214134.png",
     "00 AWS/000 Attachments/Pasted image 20230816213931.png",
-    "00 AWS/000 Attachments/Pasted image 20230816212312.png",
-    "00 AWS/008 Messaging/03 SNS",
-    "00 AWS/008 Messaging/02 SQS",
+    "00 AWS/008 Messaging/02 SNS",
+    "00 AWS/008 Messaging/01 SQS",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
     "00 AWS/008 Messaging",
@@ -216,9 +220,6 @@
     "00 AWS/004 Storage/05 Data Migration",
     "00 AWS/007 Global Network/02 Global Accelerator/01 Overview.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
-    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
-    "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/02 Global Accelerator",
     "00 AWS/007 Global Network",
     "00 AWS/007 Global Network/01 CloudFront",
