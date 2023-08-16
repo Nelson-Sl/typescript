@@ -50,3 +50,21 @@
 	* Machine Learning, **High Performance Computing (HPC)**
 	* **Video Processing**, **Financial Modeling**, **Electronic Design Automation**
 
+## FSx for NetApp ONTAP
+---
+
+* Move workloads **running on ONTAP or NAS** to AWS
+* Support System Protocol
+	* **NFS**, **SMB**, **iSCSI**
+* Advantage
+	* Auto-Scaling: Storage **shrinks or grows automatically**
+	* Snapshots, replication, low-cost, compression and data de-duplication
+	* Point-in-time **instantaneous cloning** (helpful for testing new workloads)
+* Support Platform
+![[Pasted image 20230816175847.png]]
+
+## FSx for OpenZFS
+---
+
+* Move **workloads running on ZFS** to AWS
+* Support System Protocol: **NFS**
