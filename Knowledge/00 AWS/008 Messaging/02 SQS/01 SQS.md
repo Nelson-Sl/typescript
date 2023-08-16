@@ -34,6 +34,10 @@
 
 ![[Pasted image 20230816202809.png]]
 
+# Features
+---
+
+* [[02 Message Visibility Timeout|Message Visibility Timeout]]
 # Use Cases
 ---
 

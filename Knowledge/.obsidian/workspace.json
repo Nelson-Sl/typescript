@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS.md",
+                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS.md",
+                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS.md",
+                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/02 SQS.md"
+                "file": "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md"
               }
             }
           },
@@ -178,14 +178,17 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230816204739.png",
+    "00 AWS/008 Messaging/02 SQS/01 SQS.md",
+    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+    "00 AWS/008 Messaging/02 SQS/02 Message Visibility Timeout.md",
+    "00 AWS/008 Messaging/02 SQS",
     "00 AWS/000 Attachments/Pasted image 20230816203457.png",
     "00 AWS/000 Attachments/Pasted image 20230816203323.png",
     "00 AWS/000 Attachments/Pasted image 20230816202809.png",
     "00 AWS/000 Attachments/Pasted image 20230816202510.png",
     "00 AWS/000 Attachments/Pasted image 20230816202021.png",
     "00 AWS/000 Attachments/Pasted image 20230816200547.png",
-    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
-    "00 AWS/008 Messaging/02 SQS.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/000 Attachments/Pasted image 20230816194819.png",
     "00 AWS/000 Attachments/Pasted image 20230816194814.png",
@@ -198,7 +201,6 @@
     "00 AWS/000 Attachments/Pasted image 20230816193309.png",
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/000 Attachments/Pasted image 20230816192846.png",
-    "00 AWS/000 Attachments/Pasted image 20230816192825.png",
     "conflict-files-obsidian-git.md",
     "00 AWS/007 Global Network/03 CloudFront vs Accelerator.md",
     "00 AWS/004 Storage/05 Data Migration",
@@ -218,12 +220,10 @@
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
     "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
-    "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
     "00 AWS/Sum up/02 Build up good Application",
     "00 AWS/006 Developer Tools",
     "00 AWS/004 Storage/04 S3/02 Security",
     "00 AWS/004 Storage/04 S3",
-    "00 AWS/005 Route 53",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
