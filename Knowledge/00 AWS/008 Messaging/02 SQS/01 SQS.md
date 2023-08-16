@@ -38,7 +38,9 @@
 ---
 ![[Pasted image 20230816205950.png]]
 
-* FIFO = **First In First Out** (ordering of messages in the queue & )
+* FIFO = **First In First Out** (ordering of messages in the queue & **Messages are processed in order by the consumer**)
+* **Limited throughpu**t: 300 msg/s without batching, 3000 msg/s with
+* **Exactly-once send capability** (by removing duplicates)
 # Features
 ---
 
@@ -53,6 +55,12 @@
 
 ![[Pasted image 20230816203323.png]]
 
+## SQS as a buffer to Database Write
+---
+
+* Solve **the issue of lost transactions in a large number of requests**
+
+![[Pasted image 20230816210648.png]]
 ## Decouple between Application Tiers
 ---
 
