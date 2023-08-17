@@ -47,3 +47,9 @@
 ## Data Volume (EFS)
 ---
 
+* Tasks running in any AZ will **share the same data in the EFS file system**
+* **Fargate + EFS = Serverless**
+* Use Case
+	* persistent **multi-AZ shared storage** for your containers
+
+![[Pasted image 20230817175658.png]]
