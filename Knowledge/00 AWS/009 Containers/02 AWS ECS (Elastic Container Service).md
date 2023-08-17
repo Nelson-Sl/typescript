@@ -23,5 +23,14 @@
 # Access Control: IAM Roles
 ---
 
+* EC2 Instance Profile
 	* Only **Required by EC2 Launch Type** & Used by **EC2 Agent** to access other service
-	* E.g. **Makes API calls to ECS service**, **Send container logs to CloudWatch Logs**,  **Pull Docker image from ECR**, **Reference sensitive data in Secrets Manager or SSM Parameter Store**
+		* E.g. **Makes API calls to ECS service**, **Send container logs to CloudWatch Logs**,  **Pull Docker image from ECR**, **Reference sensitive data in Secrets Manager or SSM Parameter Store**
+* EC2 Task Role
+	* Defined in **task definition**
+	* Use **different roles for the different ECS Services** to access other service
+
+![[Pasted image 20230817173713.png]]
+
+# Integration with Other Service
+---
