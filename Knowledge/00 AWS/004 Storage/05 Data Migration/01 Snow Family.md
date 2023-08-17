@@ -16,7 +16,7 @@ edge**, and **migrate data into and out of AWS**. It includes **SnowCone**, **Sn
 	* **8TB** HDD or **14TB** SSD Storage
 	* **2 CPUs**, **4 GB** of memory, wired or wireless access
 	* **USB-C power** using a cord or the optional battery
-	* Support for **AWS DataSync to send data**
+	* Support for [[05 DataSync|AWS DataSync]] to send data
 * Good for **space-constrainted** environment
 ## SnowBall Edge
 ---

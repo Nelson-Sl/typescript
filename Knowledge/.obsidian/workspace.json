@@ -11,15 +11,27 @@
             "id": "90b30e63a9b5218d",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "id_git_rsa.pub",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "c7ba5649029a054b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,54 +175,54 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "79e6f484022f921e",
+  "active": "c7ba5649029a054b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
+    "00 AWS/008 Messaging/05 Sum up/02 Kinesis Data Streams vs Kinesis Firehose.md",
+    "00 AWS/008 Messaging/05 Sum up/01 Useful Architectures.md",
+    "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
+    "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
+    "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
+    "00 AWS/008 Messaging/01 SQS/02 Message Visibility Timeout.md",
+    "00 AWS/008 Messaging/01 SQS/01 SQS.md",
+    "00 AWS/008 Messaging/05 Sum up",
+    "00 AWS/008 Messaging/04 Amazon MQ",
+    "00 AWS/008 Messaging/03 Kinesis",
+    "00 AWS/008 Messaging/02 SNS",
+    "00 AWS/008 Messaging/01 SQS",
+    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+    "00 AWS/008 Messaging",
+    "00 AWS/004 Storage/06 Comparison.md",
+    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+    "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
+    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
+    "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
+    "00 AWS/000 Attachments/Pasted image 20230816231625.png",
+    "00 AWS/000 Attachments/Pasted image 20230816230512.png",
+    "00 AWS/000 Attachments/Pasted image 20230816225818.png",
+    "00 AWS/000 Attachments/Pasted image 20230816224521.png",
+    "00 AWS/000 Attachments/Pasted image 20230816224040.png",
+    "00 AWS/000 Attachments/Pasted image 20230816221554.png",
+    "00 AWS/000 Attachments/Pasted image 20230816215352.png",
+    "00 AWS/000 Attachments/Pasted image 20230816215207.png",
+    "00 AWS/000 Attachments/Pasted image 20230816214835.png",
+    "00 AWS/000 Attachments/Pasted image 20230816214134.png",
+    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/007 Global Network/02 Global Accelerator/01 Overview.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/007 Global Network/03 CloudFront vs Accelerator.md",
     "00 AWS/007 Global Network/02 Global Accelerator",
     "00 AWS/007 Global Network/01 CloudFront",
     "00 AWS/007 Global Network",
-    "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/004 Storage/05 Data Migration",
-    "00 AWS/000 Attachments/Pasted image 20230815222202.png",
-    "00 AWS/000 Attachments/Pasted image 20230815222134.png",
-    "00 AWS/000 Attachments/Pasted image 20230815211607.png",
-    "00 AWS/000 Attachments/Pasted image 20230815205408.png",
-    "00 AWS/000 Attachments/Pasted image 20230815204932.png",
-    "00 AWS/000 Attachments/Pasted image 20230815204902.png",
-    "00 AWS/000 Attachments/Pasted image 20230815204608.png",
-    "00 AWS/000 Attachments/Pasted image 20230815203535.png",
-    "00 AWS/000 Attachments/Pasted image 20230815203029.png",
-    "00 AWS/000 Attachments/Pasted image 20230815202349.png",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 S3 Object Lambda.md",
-    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/未命名.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/02 Security",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/Sum up/02 Build up good Application/03 Instantiating Applications Quickly.md",
-    "00 AWS/004 Storage/04 S3",
-    "00 AWS/Sum up/02 Build up good Application/02 Stateful Web App (3-tier Application Architecture).md",
-    "00 AWS/Sum up/02 Build up good Application/01 Stateless Web App.md",
-    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
-    "00 AWS/006 Developer Tools",
-    "00 AWS/Sum up/02 Build up good Application",
-    "00 AWS/Sum up",
-    "00 AWS/005 Route 53",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
