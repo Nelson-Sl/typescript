@@ -17,3 +17,9 @@
 
 * **No infrastructure experience required**
 * **Automatic scaling**, **highly available**, **load balancer**, **encryption**
+* **VPC access** support
+
+# Use Cases
+---
+
+* **web apps**, **APIs**, **microservices**, **rapid production deployments**

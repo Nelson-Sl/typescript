@@ -35,7 +35,7 @@
 ---
 
 * [[01 AWS ECS (Elastic Container Service)|Amazon Elastic Container Service (Amazon ECS)]]  -> **Amazon’s own container platform**
-* Amazon Elastic Kubernetes Service (Amazon EKS) -> **Amazon’s managed Kubernetes (open source)**
-* AWS Fargate -> **Amazon’s own Serverless container platform**
+* [[04 Elastic Kubernetes Service (EKS)|Amazon Elastic Kubernetes Service (Amazon EKS)]] -> **Amazon’s managed Kubernetes (open source)**
+* [[01 AWS ECS (Elastic Container Service)#Fargate Launch Type|AWS Fargate]] -> **Amazon’s own Serverless container platform**
 	* Works with ECS & EKS
 * [[03 ECR (Elastic Container Registry)|Amazon ECR]] -> **Store container images**
