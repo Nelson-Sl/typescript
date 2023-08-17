@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+                "file": "00 AWS/009 Containers/02 ECS/03 Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+                "file": "00 AWS/009 Containers/02 ECS/03 Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+                "file": "00 AWS/009 Containers/02 ECS/03 Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md"
+                "file": "00 AWS/009 Containers/02 ECS/03 Solutions.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+    "00 AWS/000 Attachments/Pasted image 20230817183705.png",
     "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
+    "00 AWS/000 Attachments/Pasted image 20230817182713.png",
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/009 Containers/02 ECS",
     "00 AWS/000 Attachments/Pasted image 20230817175658.png",
     "00 AWS/000 Attachments/Pasted image 20230817175412.png",
@@ -204,11 +207,8 @@
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
     "00 AWS/000 Attachments/Pasted image 20230816231625.png",
-    "00 AWS/000 Attachments/Pasted image 20230816230512.png",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/007 Global Network/02 Global Accelerator/01 Overview.md",
-    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
-    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/02 Global Accelerator",
     "00 AWS/007 Global Network/01 CloudFront",
     "未命名.canvas",
