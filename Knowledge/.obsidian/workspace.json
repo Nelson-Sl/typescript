@@ -160,6 +160,7 @@
   },
   "active": "9e888120322d5d15",
   "lastOpenFiles": [
+    "00 AWS/009 Containers",
     "conflict-files-obsidian-git.md",
     "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
     "00 AWS/008 Messaging/05 Sum up/02 Kinesis Data Streams vs Kinesis Firehose.md",
@@ -201,7 +202,6 @@
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/007 Global Network/02 Global Accelerator",
     "00 AWS/007 Global Network/01 CloudFront",
     "00 AWS/007 Global Network",
