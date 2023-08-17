@@ -38,4 +38,4 @@
 * Amazon Elastic Kubernetes Service (Amazon EKS) -> **Amazon’s managed Kubernetes (open source)**
 * AWS Fargate -> **Amazon’s own Serverless container platform**
 	* Works with ECS & EKS
-* Amazon ECR -> **Store container images**
+* [[03 ECR (Elastic Container Registry)|Amazon ECR]] -> **Store container images**
