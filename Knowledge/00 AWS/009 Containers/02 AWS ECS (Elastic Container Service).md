@@ -34,3 +34,16 @@
 
 # Integration with Other Service
 ---
+
+## Load Balancer
+---
+
+* **Application Load Balancer (ALB)**: Support Most Use Cases
+* **Network Load Balancer (NLB)**: recommended only for **high throughput / high performance use cases**, or to **pair it with AWS Private Link**
+* **Classic Load Balancer (CLB)**: Not Support Fargate
+
+ ![[Pasted image 20230817175412.png]]
+
+## Data Volume (EFS)
+---
+
