@@ -34,7 +34,7 @@
 # AWS Container Infrastructure
 ---
 
-* [[02 AWS ECS (Elastic Container Service)|Amazon Elastic Container Service (Amazon ECS)]]  -> **Amazon’s own container platform**
+* [[01 AWS ECS (Elastic Container Service)|Amazon Elastic Container Service (Amazon ECS)]]  -> **Amazon’s own container platform**
 * Amazon Elastic Kubernetes Service (Amazon EKS) -> **Amazon’s managed Kubernetes (open source)**
 * AWS Fargate -> **Amazon’s own Serverless container platform**
 	* Works with ECS & EKS
