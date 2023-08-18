@@ -16,7 +16,7 @@
 # CloudFront Functions
 ---
 
-* Native feature
+* **Native feature of Cloudfront** (manage code entirely within CloudFront)
 * **Lightweight functions** written in JavaScript that used to change **Viewer requests and responses** (After Cloudfront receive request & Before Cloudfront send response to viewer)
 
 ![[Pasted image 20230818085347.png]]
