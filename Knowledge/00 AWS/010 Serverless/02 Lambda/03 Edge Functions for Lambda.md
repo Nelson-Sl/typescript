@@ -37,4 +37,5 @@
 ---
 
 * Faster Execution Time & Number of Request Processing, good for **short & quick work change**
+	* Cache key normalization - Transform **request attributes (headers, cookies, query strings, URL)** to create an optimal Cache Key
 	* 
