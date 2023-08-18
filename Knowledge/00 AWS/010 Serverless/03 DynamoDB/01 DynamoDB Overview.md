@@ -69,7 +69,7 @@
 * On-demand backups
 	* **Full backups for long-term retention**, until explicitely deleted
 	* Doesn’t **affect performance or latency**
-	* **Can be configured and managed in AWS Backup** (enables cross-region copy)
+	* **Can be configured and managed in AWS Backup** (enables **cross-region copy**)
 	* The recovery process **creates a new table**
 
 # Integration
@@ -91,3 +91,10 @@
 * Export in DynamoDB JSON or ION format
 
 ![[Pasted image 20230818131142.png]]
+
+### Use Cases
+---
+
+* Perform **data analysis** on top of DynamoDB (Athena)
+* **Retain snapshots** for auditing
+* **ETL on top of S3 data** before importing back into DynamoDB
