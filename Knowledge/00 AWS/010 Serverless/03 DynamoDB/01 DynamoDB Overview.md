@@ -50,3 +50,9 @@
 * **Read/writes automatically scale up/down with your workloads** & No capacity planning needed
 * Pay for what you use, **more expensive**
 * Great for **unpredictable workloads, steep sudden spikes**
+
+# Features
+---
+
+* [[02 DynamoDB Accelerator (DAX)|DynamoDB Accelerator (DAX)]]: Fast DynamoDB Cache Tool
+* 
