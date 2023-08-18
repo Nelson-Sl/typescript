@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md"
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md"
               }
             }
           },
@@ -163,8 +163,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9e888120322d5d15",
+  "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/01 Serverless Overview.md",
+    "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230818113933.png",
@@ -184,7 +186,6 @@
     "00 AWS/010 Serverless/未命名.md",
     "00 AWS/000 Attachments/Pasted image 20230818082429.png",
     "00 AWS/000 Attachments/Pasted image 20230818082353.png",
-    "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/010 Serverless",
@@ -210,7 +211,6 @@
     "00 AWS/008 Messaging/04 Amazon MQ",
     "00 AWS/008 Messaging/03 Kinesis",
     "00 AWS/008 Messaging/02 SNS",
-    "00 AWS/008 Messaging/01 SQS",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

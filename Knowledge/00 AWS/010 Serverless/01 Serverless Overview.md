@@ -8,7 +8,7 @@
 ---
 
 * [[01 Lambda Overview|AWS Lambda]]
-* DynamoDB
+* [[01 DynamoDB Overview|DynamoDB]]
 * AWS Cognito 
 * AWS API Gateway 
 * [[00 AWS/004 Storage/04 S3/01 Overview|01 Overview|Amazon S3]]
