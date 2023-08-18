@@ -36,3 +36,9 @@
 	* They can be customized based on the user_id for fine grained control (till **Row Level**)
 
 ![[Pasted image 20230818161337.png]]
+
+# vs IAM
+---
+
+* Can handle “hundreds of users” and ”mobile users”
+* Can **authenticate with SAML**
