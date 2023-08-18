@@ -7,3 +7,12 @@
 ![[Pasted image 20230818110951.png]]
 
 ![[Pasted image 20230818111013.png]]
+
+# Use Case: Lambda with RDS Proxy
+---
+
+* [[06 RDS Proxy#How RDS Proxy Works?|Lambda with RDS Proxy]]
+* Advantage:
+	* Improve scalability by **pooling and sharing DB connections**
+	* Improve availability by **reducing by 66% the failover time and preserving connections**
+	* Improve security by **enforcing IAM authentication and storing credentials in Secrets Manager**

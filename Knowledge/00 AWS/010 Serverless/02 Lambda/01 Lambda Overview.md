@@ -69,3 +69,4 @@
 # Use With VPC to Connect to RDS
 ---
 
+* [[04 Lambdas with VPC|Example]]
