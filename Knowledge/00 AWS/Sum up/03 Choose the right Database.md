@@ -70,4 +70,35 @@
 	* Good for build and run applications **working with highly connected datasets** – optimized for these complex and hard queries
 		* E.g. **knowledge graphs (Wikipedia)**, **fraud detection**, **recommendation** **engines**, **social networking**
 
-# 
+# Ledger: Amazon Quantum Ledger Database (QLDB)
+---
+
+* Used to **review history of all the changes made to your application data** over time
+	* Immutable system: **no entry can be removed or modified**, cryptographically verifiable
+	* Fully Managed, **Serverless**, **High available**, **Replication across 3 AZ**
+	* manipulate data using **SQL**
+	* 2-3x better performance than common ledger blockchain frameworks
+* Use Case
+	* Good for **Financial Product**
+
+![[Pasted image 20230818182553.png]]
+
+## Vs. Amazon Managed Blockchain
+---
+
+* **No decentralization component**, in accordance with financial regulation rules
+
+# Time series: Amazon Timestream
+---
+
+* Fully-Managed Database **based on time-series**
+	* Scheduled queries, multi-measure records, SQL compatibility
+	* fast
+		* Store and analyze trillions of events per day & **1000s times faster** & 1/10th the cost of relational databases
+	* scalable
+		* Automatically scales up/down to adjust capacity
+	* serverless
+	* Feature
+		* Data storage tiering: **recent data kept in memory** and **historical data kept in a cost -optimized storage**
+	* Secure
+		* Encryption in transit and at rest
