@@ -7,6 +7,21 @@
 * Easy monitoring through AWS CloudWatch
 * Easy to **get more resources per functions** (up to 10GB of RAM!) -> Also Improve **CPU & Network**
 
+# Limits of Lambda
+---
+
+* Execution
+	* **Memory allocation**: 128 MB – 10GB (1 MB increments)
+	* **Maximum execution time**: 900 seconds (15 minutes)
+	* **Environment variables** (4 KB)
+	* **Disk capacity in the “function container” (in /tmp)**: 512 MB to 10GB
+	* **Concurrency executions**: 1000 (can be increased)
+* Deployment
+	* Lambda function deployment size (compressed .zip): **50 MB**
+	* Size of uncompressed deployment (code + dependencies): **250 MB**
+	* Can use the **/tmp directory** to load other files at startup
+	* Size of environment variables: **4 KB**
+
 # Language Support
 ---
 
@@ -45,3 +60,8 @@
 ---
 
 ![[Pasted image 20230818082353.png]]
+
+# CRON / Schedule Job
+---
+
+![[Pasted image 20230818082429.png]]

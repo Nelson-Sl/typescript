@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md"
+                "file": "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md"
               }
             }
           },
@@ -165,10 +165,14 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230818083133.png",
+    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
+    "00 AWS/010 Serverless/未命名.md",
+    "00 AWS/000 Attachments/Pasted image 20230818082429.png",
     "00 AWS/000 Attachments/Pasted image 20230818082353.png",
     "00 AWS/000 Attachments/Pasted image 20230818081824.png",
     "00 AWS/010 Serverless/01 Serverless Overview.md",
-    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/010 Serverless",
@@ -185,9 +189,7 @@
     "00 AWS/000 Attachments/Pasted image 20230817184140.png",
     "00 AWS/000 Attachments/Pasted image 20230817184051.png",
     "00 AWS/000 Attachments/Pasted image 20230817183705.png",
-    "00 AWS/000 Attachments/Pasted image 20230817182713.png",
     "00 AWS/009 Containers/02 ECS",
-    "00 AWS/000 Attachments/Pasted image 20230817175658.png",
     "00 AWS/009 Containers",
     "conflict-files-obsidian-git.md",
     "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
@@ -209,8 +211,6 @@
     "00 AWS/008 Messaging/01 SQS",
     "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
     "00 AWS/008 Messaging",
-    "00 AWS/004 Storage/06 Comparison.md",
-    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
