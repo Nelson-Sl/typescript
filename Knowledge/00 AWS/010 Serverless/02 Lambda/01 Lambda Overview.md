@@ -70,3 +70,8 @@
 ---
 
 * [[04 Lambdas with VPC|Example]]
+
+# Invoking Lambda from RDS & Aurora
+---
+
+* Invoke Lambda functions from within your DB instance
