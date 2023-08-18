@@ -30,7 +30,7 @@
 ---
 
 * AWS version of **MongoDB**, store, query, and index JSON data
-	* Fully Managed, **highly available with replication across 3 AZ** (Similar to Aurora)
+	* Fully Managed, **highly available with replication across 3 AZ** (Deployment Similar to Aurora)
 	* automatically **grows in increments of 10GB, up to 64 TB**
 	* Automatically **scales to workloads with millions of requests per seconds**
 
@@ -77,7 +77,7 @@
 	* Immutable system: **no entry can be removed or modified**, cryptographically verifiable
 	* Fully Managed, **Serverless**, **High available**, **Replication across 3 AZ**
 	* manipulate data using **SQL**
-	* 2-3x better performance than common ledger blockchain frameworks
+	* 2-3x better performance **than common ledger blockchain frameworks**
 * Use Case
 	* Good for **Financial Product**
 
@@ -99,6 +99,14 @@
 		* Automatically scales up/down to adjust capacity
 	* serverless
 	* Feature
-		* Data storage tiering: **recent data kept in memory** and **historical data kept in a cost -optimized storage**
+		* Data storage tiering: **recent data kept in memory** and **historical data kept in a cost-optimized storage**
+		* **Built-in time series analytics functions** (helps you identify patterns in your data in near real-time)
 	* Secure
 		* Encryption in transit and at rest
+
+![[Pasted image 20230818183425.png]]
+
+## Use Cases
+---
+
+* **IoT apps**, **operational applications**, **real -time analytics**, …
