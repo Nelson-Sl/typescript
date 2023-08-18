@@ -34,6 +34,21 @@
 	* automatically **grows in increments of 10GB, up to 64 TB**
 	* Automatically **scales to workloads with millions of requests per seconds**
 
+## Amazon KeySpaces (For Amazon Cassandra)
+---
+
+* an **open-source NoSQL distributed** database
+	* **Serverless**
+	* **Scalable** (Auto-Scaled based on application's traffic)
+	* **highly available** (Tables are replicated 3 times across multiple AZ)
+	* Fully managed by AWS
+	* Feature
+		* Capacity: **On-demand mode** or **provisioned mode with auto-scaling** (Similar to DynamoDB)
+		* Encryption, backup, Point-In-Time Recovery (PITR) up to 35 days (Similar to DynamoDB)
+	* Performance
+		* Single-digit millisecond latency at any scale, **1000s of requests per second**
+
+* Use Case: **Store IoT devices info**, **time-series data**, …
 # Object Store: S3 / Glacier
 ---
 
@@ -54,3 +69,5 @@
 * Use Cases
 	* Good for build and run applications **working with highly connected datasets** – optimized for these complex and hard queries
 		* E.g. **knowledge graphs (Wikipedia)**, **fraud detection**, **recommendation** **engines**, **social networking**
+
+# 
