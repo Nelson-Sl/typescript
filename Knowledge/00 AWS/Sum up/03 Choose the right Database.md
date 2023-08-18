@@ -25,3 +25,14 @@
 	* Can replace ElastiCache as a key/value store (storing session data for example, using TTL feature), **distributed but slight lower performance**
 * Serverless applications development (**small documents** 100s KB)
 * Great for application to **rapidly evolve schemas**
+
+# Object Store: S3 / Glacier
+---
+
+* S3
+	* store **static files**
+	* key value store for **big files**
+	* **Media / Website hosting**
+	* **Archive Files**
+* Glacier
+	* **Archive Files**
