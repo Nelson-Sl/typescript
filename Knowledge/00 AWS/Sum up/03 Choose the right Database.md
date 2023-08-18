@@ -26,6 +26,14 @@
 * Serverless applications development (**small documents** 100s KB)
 * Great for application to **rapidly evolve schemas**
 
+## Document DB
+---
+
+* AWS version of **MongoDB**, store, query, and index JSON data
+	* Fully Managed, **highly available with replication across 3 AZ** (Similar to Aurora)
+	* automatically **grows in increments of 10GB, up to 64 TB**
+	* Automatically **scales to workloads with millions of requests per seconds**
+
 # Object Store: S3 / Glacier
 ---
 
@@ -36,3 +44,13 @@
 	* **Archive Files**
 * Glacier
 	* **Archive Files**
+
+# Graph Database: AWS Neptune
+---
+
+* Fully managed **graph** database, displays **relationships between data**
+	* **Highly available across 3 AZ, with up to 15 read replicas, across AZs** (Similar to Aurora)
+	* Can **store up to billions of relations and query** the graph with milliseconds latency
+* Use Cases
+	* Good for build and run applications **working with highly connected datasets** – optimized for these complex and hard queries
+		* E.g. **knowledge graphs (Wikipedia)**, **fraud detection**, **recommendation** **engines**, **social networking**
