@@ -25,6 +25,18 @@
 # MicroService Example
 ---
 
-* 
-* 
+* Benefit Using Serverless Architecture
+	* API Gateway, Lambda **scale automatically and you pay per usage** (Increase server utilization)
+	* You can easily **clone API, reproduce environments** (Avoid repeated overhead for creating each new microservice)
+	* **Generated client SDK through Swagger integration for the API Gateway** (Solve proliferation of client-side code requirements to integrate with many separate services)
+
 ![[Pasted image 20230818170136.png]]
+
+# Software Update Example
+---
+
+* Cloudfront will cache software update files at the edge (and its static) and scale automatically
+* we’ll save tremendously in EC2, as well as availability, network bandwidth cost
+* No changes to architecture
+
+![[Pasted image 20230818170837.png]]
