@@ -56,4 +56,13 @@
 
 * [[02 DynamoDB Accelerator (DAX)|DynamoDB Accelerator (DAX)]]: Fast DynamoDB Cache Tool
 * [[03 Stream Processing|Dynamo DB Stream Processing]]
-* 
+* [[04 DynamoDB Global Table|DynamoDB Global Table]]: Read / Write Dynamo DB Table across region
+* [[05 Time to Live (TTL)|Dynamo DB TTL]]: Automatically Delete DB Items at a specific time
+
+# Backups
+---
+
+* Continuous backups using **point-in-time recovery (PITR)**
+	* Optionally enabled **for the last 35 days**
+	* Point-in-time recovery to **any time within the backup window**
+	* 
