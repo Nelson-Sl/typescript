@@ -65,4 +65,7 @@
 	* IAM Roles (useful for **internal applications**)
 	* Cognito (identity for **external users** – example mobile users)
 	* Custom Authorizer (your own logic)
-* Custom HTTPS Domain Name -> Provide Security through 
+* Custom HTTPS Domain Name -> Provide Security through integration with **AWS Certificate Manager (ACM)**
+	* Must **setup CNAME or A-alias record** in Route 53
+	* Edge-Customized Endpoint: us-east-1
+	* Regional endpoint: **Same as the region in API Gateway**
