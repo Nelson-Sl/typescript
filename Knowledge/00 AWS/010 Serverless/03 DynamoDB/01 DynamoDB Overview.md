@@ -65,4 +65,29 @@
 * Continuous backups using **point-in-time recovery (PITR)**
 	* Optionally enabled **for the last 35 days**
 	* Point-in-time recovery to **any time within the backup window**
-	* 
+	* The recovery process **creates a new table**
+* On-demand backups
+	* **Full backups for long-term retention**, until explicitely deleted
+	* Doesn’t **affect performance or latency**
+	* **Can be configured and managed in AWS Backup** (enables cross-region copy)
+	* The recovery process **creates a new table**
+
+# Integration
+---
+
+## Import From S3
+---
+
+* **Creates a new table** & Doesn’t **consume any write capacity**
+* Import errors **are logged in CloudWatch Logs**
+
+![[Pasted image 20230818130739.png]]
+
+## Export to S3
+---
+
+* Works for any point of time **in the last 35 days** (Must Enable **Point-in-Time Recovery**)
+* Doesn’t affect the read capacity of your table
+* Export in DynamoDB JSON or ION format
+
+![[Pasted image 20230818131142.png]]
