@@ -13,6 +13,7 @@
 * **Fast and consistent in performance** (single-digit millisecond)
 	* Scales to massive workloads, distributed database
 	* Millions of requests per seconds, trillions of row, 100s of TB of storage
+* Good for **frequently evolve schema**
 
 # How DynamoDB Works?
 ---
@@ -24,3 +25,28 @@
 * Each table **has a Primary Key** (must be decided at creation time)
 * Each table can **have an infinite number of items (= rows)**
 * Each item **has attributes (can be added over time – can be null)** -> Max size of Items is **400KB**
+
+![[Pasted image 20230818120227.png]]
+
+## Support Data Format
+---
+
+* **Scalar Types** – String, Number, Binary, Boolean, Null
+* **Document Types** – List, Map
+* **Set Types** – String Set, Number Set, Binary Set
+
+# Capacity Mode
+---
+## Provisioned Mode (Default)
+---
+
+* Need to **plan capacity beforehand** & **specify the number of reads/writes per second**
+* Pay for **provisioned Read Capacity Units (RCU) & Write Capacity Units (WCU)**
+* Possibility to **add auto-scaling mode** for RCU & WCU
+
+## On-Demand Mode
+---
+
+* **Read/writes automatically scale up/down with your workloads** & No capacity planning needed
+* Pay for what you use, **more expensive**
+* Great for **unpredictable workloads, steep sudden spikes**

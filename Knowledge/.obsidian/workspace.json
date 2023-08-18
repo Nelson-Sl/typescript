@@ -165,6 +165,7 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230818120227.png",
     "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
     "00 AWS/010 Serverless/03 DynamoDB",
@@ -206,7 +207,6 @@
     "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
     "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
-    "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
     "00 AWS/008 Messaging/05 Sum up",
     "00 AWS/008 Messaging/04 Amazon MQ",
     "00 AWS/008 Messaging/03 Kinesis",
