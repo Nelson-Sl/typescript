@@ -13,10 +13,17 @@
 # How Edge Function Used in AWS?
 ---
 
-# CloudFront Functions
+## CloudFront Functions
 ---
 
 * **Native feature of Cloudfront** (manage code entirely within CloudFront)
 * **Lightweight functions** written in JavaScript that used to change **Viewer requests and responses** (After Cloudfront receive request & Before Cloudfront send response to viewer)
 
 ![[Pasted image 20230818085347.png]]
+
+## Lambda@Edge
+----
+
+* **Lambda functions** written in NodeJS or Python that used to **change CloudFront requests and responses from Viewer & Origin side**
+
+![[Pasted image 20230818093338.png]]
