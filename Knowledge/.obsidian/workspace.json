@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md"
+                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md"
               }
             }
           },
@@ -165,10 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/000 Attachments/Pasted image 20230818160935.png",
-    "00 AWS/000 Attachments/Pasted image 20230818160643.png",
+    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
+    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless/06 Amazon Cognito.md",
+    "00 AWS/000 Attachments/Pasted image 20230818161337.png",
+    "00 AWS/000 Attachments/Pasted image 20230818160935.png",
+    "00 AWS/000 Attachments/Pasted image 20230818160643.png",
     "00 AWS/010 Serverless/05 Step Functions.md",
     "00 AWS/000 Attachments/Pasted image 20230818155106.png",
     "00 AWS/010 Serverless/04 API Gateway.md",
@@ -183,16 +188,10 @@
     "00 AWS/000 Attachments/Pasted image 20230818130739.png",
     "00 AWS/000 Attachments/Pasted image 20230818125859.png",
     "00 AWS/000 Attachments/Pasted image 20230818125441.png",
-    "00 AWS/000 Attachments/Pasted image 20230818124437.png",
-    "00 AWS/000 Attachments/Pasted image 20230818123846.png",
     "00 AWS/010 Serverless/03 DynamoDB",
-    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
-    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
-    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/010 Serverless/02 Lambda/未命名",
     "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
-    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/010 Serverless",
