@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/03 Choose the right Database.md",
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/03 Choose the right Database.md",
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/03 Choose the right Database.md",
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/03 Choose the right Database.md"
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md"
               }
             }
           },
@@ -165,9 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
+    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
+    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/Sum up/03 Choose the right Database.md",
     "00 AWS/Sum up/01 List of Ports.md",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
-    "00 AWS/Sum up/03 Choose the right Database.md",
     "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
@@ -191,11 +197,6 @@
     "00 AWS/010 Serverless/03 DynamoDB/05 Time to Live (TTL).md",
     "00 AWS/010 Serverless/03 DynamoDB/04 DynamoDB Global Table.md",
     "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
-    "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
-    "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
-    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
-    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
-    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230818161337.png",
     "00 AWS/000 Attachments/Pasted image 20230818160935.png",
     "00 AWS/000 Attachments/Pasted image 20230818160643.png",
@@ -203,7 +204,6 @@
     "00 AWS/000 Attachments/Pasted image 20230818153739.png",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/未命名",
-    "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/010 Serverless",
     "00 AWS/009 Containers/02 ECS",

@@ -10,10 +10,18 @@
 # NoSQL Database
 ---
 
-# ElasticCache: Key/Value Pair
+## ElasticCache: Key/Value Pair
 ---
 
 * **Frequent Read But Less Writes**
 	* cache **results for DB queries**
 	* **store session data** for websites
 * Can't use SQL & Need Application Change
+
+## DynamoDB
+---
+
+* Distributed serverless cache
+	* Can replace ElastiCache as a key/value store (storing session data for example, using TTL feature), **distributed but slight lower performance**
+* Serverless applications development (**small documents** 100s KB)
+* Great for application to **rapidly evolve schemas**
