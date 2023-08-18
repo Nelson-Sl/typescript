@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md"
+                "file": "00 AWS/Sum up/03 Choose the right Database.md"
               }
             }
           },
@@ -165,13 +165,16 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+    "00 AWS/Sum up/03 Choose the right Database.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/004 Storage/06 Comparison.md",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
     "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/06 Comparison.md",
     "00 AWS/010 Serverless/07 Solution Architecture/Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230818170837.png",
     "00 AWS/000 Attachments/Pasted image 20230818170136.png",
@@ -203,9 +206,6 @@
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/010 Serverless",
     "00 AWS/009 Containers/05 App Runner.md",
-    "00 AWS/009 Containers/04 Elastic Kubernetes Service (EKS).md",
-    "00 AWS/009 Containers/03 ECR (Elastic Container Registry).md",
-    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
     "00 AWS/009 Containers/02 ECS",
     "00 AWS/009 Containers",
     "00 AWS/008 Messaging/05 Sum up",
