@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md"
+                "file": "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md"
               }
             }
           },
@@ -165,13 +165,17 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230818111013.png",
+    "00 AWS/000 Attachments/Pasted image 20230818110951.png",
+    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
+    "00 AWS/010 Serverless/02 Lambda/未命名",
+    "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
+    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
     "00 AWS/000 Attachments/Pasted image 20230818102559.png",
     "00 AWS/000 Attachments/Pasted image 20230818093338.png",
     "00 AWS/000 Attachments/Pasted image 20230818085347.png",
-    "00 AWS/010 Serverless/02 Lambda/02 Comparison vs EC2.md",
-    "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
     "00 AWS/000 Attachments/Pasted image 20230818083133.png",
-    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/010 Serverless/未命名.md",
     "00 AWS/000 Attachments/Pasted image 20230818082429.png",
     "00 AWS/000 Attachments/Pasted image 20230818082353.png",
@@ -188,8 +192,6 @@
     "00 AWS/009 Containers/01 Docker Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230818073123.png",
     "00 AWS/000 Attachments/Pasted image 20230818071257.png",
-    "00 AWS/000 Attachments/Pasted image 20230817184807.png",
-    "00 AWS/000 Attachments/Pasted image 20230817184315.png",
     "00 AWS/009 Containers/02 ECS",
     "00 AWS/009 Containers",
     "conflict-files-obsidian-git.md",
@@ -204,13 +206,11 @@
     "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
     "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
     "00 AWS/008 Messaging/01 SQS/02 Message Visibility Timeout.md",
-    "00 AWS/008 Messaging/01 SQS/01 SQS.md",
     "00 AWS/008 Messaging/05 Sum up",
     "00 AWS/008 Messaging/04 Amazon MQ",
     "00 AWS/008 Messaging/03 Kinesis",
     "00 AWS/008 Messaging/02 SNS",
     "00 AWS/008 Messaging/01 SQS",
-    "00 AWS/008 Messaging",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

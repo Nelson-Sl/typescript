@@ -52,8 +52,14 @@
 # Use Case
 ---
 
-* Website Security and Privacy 
 * Dynamic Web Application at the Edge 
-* Search Engine Optimization (SEO) 
 * Intelligently Route Across Origins and Data Centers 
-* Bot Mitigation at the Edge • Real-time Image Transformation • A/B Testing • User Authentication and Authorization • User Prioritization • User Tracking and Analytics
+* Website Security and Privacy 
+	* Bot Mitigation at the Edge
+	* A/B Testing
+	* User Authentication and Authorization
+* Performance & User Expericence
+	* Search Engine Optimization (SEO) 
+	* User Prioritization
+* Real-time Image Transformation 
+* User Tracking and Analytics
