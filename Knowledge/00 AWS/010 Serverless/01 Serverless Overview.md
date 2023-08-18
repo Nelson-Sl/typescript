@@ -11,9 +11,9 @@
 * DynamoDB
 * AWS Cognito 
 * AWS API Gateway 
-* Amazon S3 
-* AWS SNS & SQS 
-* AWS Kinesis Data Firehose 
+* [[00 AWS/004 Storage/04 S3/01 Overview|01 Overview|Amazon S3]]
+* [[01 AWS Messaging Overview|AWS SNS & SQS]]
+* [[03 Kinesis Firehose|AWS Kinesis Data Firehose]]
 * Aurora Serverless 
 * Step Functions
-* Fargate
+* [[01 AWS ECS (Elastic Container Service)#Fargate Launch Type|Fargate]]
