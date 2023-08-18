@@ -56,22 +56,45 @@
 # Use Case / Example
 ---
 
-# Serverless Thumbnail Creation
+## Serverless Thumbnail Creation
 ---
 
 ![[Pasted image 20230818082353.png]]
 
-# CRON / Schedule Job
+## CRON / Schedule Job
 ---
 
 ![[Pasted image 20230818082429.png]]
 
-# Use With VPC to Connect to RDS
+## Use With VPC to Connect to RDS
 ---
 
 * [[04 Lambdas with VPC|Example]]
 
-# Invoking Lambda from RDS & Aurora
+## Invoking Lambda from RDS & Aurora
 ---
 
-* Invoke Lambda functions from within your DB instance
+* **Invoke Lambda functions from within your DB instance**, which allows you to process data events from within a database
+* Supported for **RDS for PostgreSQL** and **Aurora MySQL**
+
+![[Pasted image 20230818113125.png]]
+
+### Access
+---
+
+* DB instance must **have the required permissions to invoke the Lambda function** (Lambda Resource-based Policy & IAM Policy)
+* Must allow **outbound traffic to your Lambda function from within your DB instance** (Public, NAT GW, VPC Endpoints)
+
+### Example: RDS Event Notification
+---
+
+* Notifications that tells information about followings (But **not data itself**) by **sending notifications to SNS** or **subscribe to events using EventBridge**
+	* DB instance (created, stopped, start, …)
+	* DB snapshot
+	* DB Parameter Group
+	* DB Security Group
+	* RDS Proxy
+	* Custom Engine Version
+* Near real-time events (up to 5 minutes)
+
+![[Pasted image 20230818113933.png]]

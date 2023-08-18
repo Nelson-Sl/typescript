@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md"
+                "file": "00 AWS/010 Serverless/01 Serverless Overview.md"
               }
             }
           },
@@ -163,10 +163,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "90b30e63a9b5218d",
+  "active": "9e888120322d5d15",
   "lastOpenFiles": [
-    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
+    "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+    "00 AWS/000 Attachments/Pasted image 20230818113933.png",
+    "00 AWS/000 Attachments/Pasted image 20230818113125.png",
+    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/000 Attachments/Pasted image 20230818111013.png",
@@ -181,7 +184,6 @@
     "00 AWS/010 Serverless/未命名.md",
     "00 AWS/000 Attachments/Pasted image 20230818082429.png",
     "00 AWS/000 Attachments/Pasted image 20230818082353.png",
-    "00 AWS/000 Attachments/Pasted image 20230818081824.png",
     "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
@@ -192,7 +194,6 @@
     "00 AWS/009 Containers/02 ECS/03 Solutions.md",
     "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
     "00 AWS/009 Containers/01 Docker Overview.md",
-    "00 AWS/000 Attachments/Pasted image 20230818073123.png",
     "00 AWS/009 Containers/02 ECS",
     "00 AWS/009 Containers",
     "conflict-files-obsidian-git.md",
@@ -205,7 +206,6 @@
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
     "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
     "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
-    "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
     "00 AWS/008 Messaging/05 Sum up",
     "00 AWS/008 Messaging/04 Amazon MQ",
     "00 AWS/008 Messaging/03 Kinesis",
