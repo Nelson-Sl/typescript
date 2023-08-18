@@ -27,3 +27,14 @@
 * **Lambda functions** written in NodeJS or Python that used to **change CloudFront requests and responses from Viewer & Origin side**
 
 ![[Pasted image 20230818093338.png]]
+
+# CloudFront Functions vs Lambda@Edge
+---
+
+![[Pasted image 20230818102559.png]]
+
+## CloudFront Functions
+---
+
+* Faster Execution Time & Number of Request Processing, good for **short & quick work change**
+	* 
