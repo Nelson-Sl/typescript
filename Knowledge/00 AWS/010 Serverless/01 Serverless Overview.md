@@ -7,7 +7,7 @@
 # What AWS Use Serverless?
 ---
 
-* AWS Lambda
+* [[01 Lambda Overview|AWS Lambda]]
 * DynamoDB
 * AWS Cognito 
 * AWS API Gateway 

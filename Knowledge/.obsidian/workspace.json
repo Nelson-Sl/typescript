@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/01 Serverless Overview.md"
+                "file": "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md"
               }
             }
           },
@@ -163,11 +163,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9e888120322d5d15",
+  "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/01 Serverless Overview.md",
+    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
-    "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless",
     "00 AWS/009 Containers/05 App Runner.md",
     "00 AWS/009 Containers/04 Elastic Kubernetes Service (EKS).md",
@@ -210,7 +211,6 @@
     "00 AWS/004 Storage/06 Comparison.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
-    "00 AWS/007 Global Network/02 Global Accelerator",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
