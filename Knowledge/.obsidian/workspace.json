@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/05 Step Functions.md",
+                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/05 Step Functions.md",
+                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/05 Step Functions.md",
+                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/05 Step Functions.md"
+                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/01 Serverless Overview.md",
+    "00 AWS/010 Serverless/06 Amazon Cognito.md",
+    "00 AWS/010 Serverless/05 Step Functions.md",
     "00 AWS/000 Attachments/Pasted image 20230818155106.png",
     "00 AWS/010 Serverless/04 API Gateway.md",
-    "00 AWS/010 Serverless/05 Step Functions.md",
     "00 AWS/000 Attachments/Pasted image 20230818153739.png",
     "00 AWS/000 Attachments/Pasted image 20230818153155.png",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
-    "00 AWS/010 Serverless/01 Serverless Overview.md",
     "00 AWS/010 Serverless/03 DynamoDB/05 Time to Live (TTL).md",
     "00 AWS/010 Serverless/03 DynamoDB/04 DynamoDB Global Table.md",
     "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
@@ -183,7 +184,6 @@
     "00 AWS/000 Attachments/Pasted image 20230818124437.png",
     "00 AWS/000 Attachments/Pasted image 20230818123846.png",
     "00 AWS/000 Attachments/Pasted image 20230818123626.png",
-    "00 AWS/000 Attachments/Pasted image 20230818120227.png",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
     "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",

@@ -10,10 +10,10 @@
 * [[01 Lambda Overview|AWS Lambda]]
 * [[01 DynamoDB Overview|DynamoDB]]
 * AWS Cognito 
-* AWS API Gateway 
+* [[04 API Gateway|AWS API Gateway]]
 * [[00 AWS/004 Storage/04 S3/01 Overview|01 Overview|Amazon S3]]
 * [[01 AWS Messaging Overview|AWS SNS & SQS]]
 * [[03 Kinesis Firehose|AWS Kinesis Data Firehose]]
 * Aurora Serverless 
-* Step Functions
+* [[05 Step Functions|Step Functions]]
 * [[01 AWS ECS (Elastic Container Service)#Fargate Launch Type|Fargate]]
