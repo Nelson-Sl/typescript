@@ -8,3 +8,4 @@
 # Use Case
 ---
 
+* **Localize Content for international users** at such as websites and applications 
