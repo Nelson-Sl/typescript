@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/012 Machine Learning/06 Comprehend.md",
+                "file": "00 AWS/012 Machine Learning/08 Forecast.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/012 Machine Learning/06 Comprehend.md",
+                "file": "00 AWS/012 Machine Learning/08 Forecast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/012 Machine Learning/06 Comprehend.md",
+                "file": "00 AWS/012 Machine Learning/08 Forecast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/012 Machine Learning/06 Comprehend.md"
+                "file": "00 AWS/012 Machine Learning/08 Forecast.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/012 Machine Learning/05 Lex + Connect.md",
+    "00 AWS/012 Machine Learning/07 SageMaker.md",
+    "00 AWS/012 Machine Learning/08 Forecast.md",
+    "00 AWS/000 Attachments/Pasted image 20230819173920.png",
     "00 AWS/012 Machine Learning/06 Comprehend.md",
+    "00 AWS/012 Machine Learning/05 Lex + Connect.md",
     "00 AWS/000 Attachments/Pasted image 20230819172101.png",
     "00 AWS/012 Machine Learning/02 Amazon Transcribe.md",
     "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
@@ -196,13 +199,10 @@
     "00 AWS/000 Attachments/Pasted image 20230819161025.png",
     "00 AWS/000 Attachments/Pasted image 20230819160238.png",
     "00 AWS/000 Attachments/Pasted image 20230819155814.png",
-    "00 AWS/000 Attachments/Pasted image 20230819154531.png",
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
-    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/011 Data Analytics",
-    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/未命名",

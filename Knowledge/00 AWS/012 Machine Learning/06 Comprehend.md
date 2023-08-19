@@ -15,4 +15,21 @@
 ## Comprehend Medical
 ---
 
-* Detects and returns useful information in unstructured clinical text: • Physician’s notes • Discharge summaries • Test results • Case notes
+* Detects and returns **Protected Health Information (PHI)** in **unstructured clinical text** through **DetectPHI API**
+	* Physician’s notes
+	* Discharge summaries
+	* Test results 
+	* Case notes
+
+### Further Steps
+---
+
+* Store your documents in Amazon S3
+* Analyze real-time data with Kinesis Data Firehose
+* Use Amazon Transcribe to transcribe patient narratives into text that can be analyzed by Amazon Comprehend Medical.
+
+## Other
+---
+
+* Analyze customer interactions (emails) to find **what leads to a positive or negative experience**
+* **Create and groups articles by topics** that Comprehend will uncover
