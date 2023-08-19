@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
+                "file": "00 AWS/012 Machine Learning/03 Amazon Polly.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
+                "file": "00 AWS/012 Machine Learning/03 Amazon Polly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
+                "file": "00 AWS/012 Machine Learning/03 Amazon Polly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/012 Machine Learning/01 Amazon Recognition.md"
+                "file": "00 AWS/012 Machine Learning/03 Amazon Polly.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/012 Machine Learning/02 Amazon Transcribe.md",
+    "00 AWS/012 Machine Learning/03 Amazon Polly.md",
+    "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
     "00 AWS/000 Attachments/Pasted image 20230819164835.png",
     "00 AWS/011 Data Analytics/06 Glue.md",
-    "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/未命名.md",
     "00 AWS/011 Data Analytics/02 RedShift.md",
@@ -192,7 +194,6 @@
     "00 AWS/000 Attachments/Pasted image 20230819154531.png",
     "00 AWS/000 Attachments/Pasted image 20230819154442.png",
     "00 AWS/000 Attachments/Pasted image 20230819152844.png",
-    "00 AWS/000 Attachments/Pasted image 20230819152720.png",
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
@@ -202,7 +203,6 @@
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/未命名",
