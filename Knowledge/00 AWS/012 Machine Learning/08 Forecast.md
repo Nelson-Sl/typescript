@@ -7,3 +7,9 @@
 # Example: Predict the sales of a RainCoat
 ---
 
+![[Pasted image 20230819174227.png]]
+
+# Use Case
+---
+
+* **Product Demand Planning**, **Financial Planning**, **Resource Planning**, …
