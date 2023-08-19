@@ -65,7 +65,8 @@
 
 * [[02 RedShift|RedShift]] - OLAP Platform
 * [[01 Athena|Athena]]
-* [[04 Amazon Elastic MapReduce (EMR)|]]
+* [[04 Amazon Elastic MapReduce (EMR)|Amazon Elastic MapReduce (EMR)]]
+
 # Graph Database: AWS Neptune
 ---
 
