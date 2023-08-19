@@ -20,7 +20,12 @@
 # Performance Improvement
 ---
 
-* 
+* Use **columnar data** for cost-savings (less scan, huge performance improvement)
+	* E.g. **Apache Parquet** or **ORC** (Use Glue to convert to it)
+* **Compress data** for smaller retrievals (bzip2, gzip, lz4, snappy, zlip, zstd…)
+* **Partition datasets in S3** for easy querying on virtual columns
+	* E.g. s3://athena-examples/flight/parquet/year=1991/month=1/day=1/
+* **Use larger files** (> 128 MB) to minimize overhead
 # Use Cases
 ---
 
