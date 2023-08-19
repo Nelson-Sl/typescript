@@ -12,4 +12,20 @@
 	* Manage the cluster, coordinate, manage health – **long running**
 * Core Node
 	* Run tasks and store data – **long running**
-* Task noe
+* Task Node (Optional)
+	* Just to run tasks – transient & usually **Spot**
+
+# Purchasing Options
+---
+
+* **On-Demand**
+	* reliable, predictable, won’t be terminated
+* Reserved (min 1 year)
+	* **cost savings** (EMR will automatically use if available)
+* Spot
+	* cheaper, can be terminated, less reliable
+
+# Use Case
+---
+
+* **data processing**, **machine learning**, **web indexing**, **big data**…
