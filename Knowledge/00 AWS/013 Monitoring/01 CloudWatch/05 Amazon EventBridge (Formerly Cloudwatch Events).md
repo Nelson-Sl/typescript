@@ -46,4 +46,12 @@
 * allows you to **generate code for your application**, that will know in advance **how data is structured in the event bus**
 * Schema **can be versioned**
 
-# Permisi
+# Permission: Resource-Based Policy
+---
+
+* Manage **permissions for a specific Event Bus**
+	* E.g. allow/deny events from another AWS account or AWS region
+* Use Case
+	* Aggregate all events from your AWS Organization **in a single AWS account or AWS region**
+
+![[Pasted image 20230819211141.png]]
