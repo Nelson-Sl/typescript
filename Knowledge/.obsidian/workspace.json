@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/011 Data Analytics/01 Athena.md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/011 Data Analytics/01 Athena.md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/011 Data Analytics/01 Athena.md",
+                "file": "00 AWS/Sum up/03 Choose the right Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/011 Data Analytics/01 Athena.md"
+                "file": "00 AWS/Sum up/03 Choose the right Database.md"
               }
             }
           },
@@ -165,8 +165,16 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
     "00 AWS/011 Data Analytics/10 Solution Example.md",
+    "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
+    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+    "00 AWS/011 Data Analytics/07 Lake Formation.md",
+    "00 AWS/011 Data Analytics/06 Glue.md",
+    "00 AWS/011 Data Analytics/05 QuickSight.md",
+    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
+    "00 AWS/011 Data Analytics/03 OpenSearch.md",
+    "00 AWS/011 Data Analytics/02 RedShift.md",
+    "00 AWS/011 Data Analytics/01 Athena.md",
     "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
@@ -174,14 +182,6 @@
     "00 AWS/000 Attachments/Pasted image 20230819161437.png",
     "00 AWS/000 Attachments/Pasted image 20230819161252.png",
     "00 AWS/000 Attachments/Pasted image 20230819161025.png",
-    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
-    "00 AWS/011 Data Analytics/01 Athena.md",
-    "00 AWS/011 Data Analytics/02 RedShift.md",
-    "00 AWS/011 Data Analytics/03 OpenSearch.md",
-    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
-    "00 AWS/011 Data Analytics/05 QuickSight.md",
-    "00 AWS/011 Data Analytics/06 Glue.md",
-    "00 AWS/011 Data Analytics/07 Lake Formation.md",
     "00 AWS/000 Attachments/Pasted image 20230819160238.png",
     "00 AWS/000 Attachments/Pasted image 20230819155814.png",
     "00 AWS/000 Attachments/Pasted image 20230819154531.png",

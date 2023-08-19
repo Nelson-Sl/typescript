@@ -22,7 +22,7 @@
 
 * **Run any Apache Flink application** on a managed cluster on AWS & Use **Flink (Java, Scala or SQL)** to process and analyze streaming data
 	* Support **MSK & Kinesis Data Streams**
-	* provisioning compute resources, parallel computation, automatic scaling
+	* **provisioning compute resources**, parallel computation, automatic scaling
 	* **application backups** (implemented as checkpoints and snapshots)
 	* Use any Apache Flink programming features
 

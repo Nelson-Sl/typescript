@@ -60,6 +60,12 @@
 * Glacier
 	* **Archive Files**
 
+# Data Warehouse (= SQL Analytics / BI)
+---
+
+* [[02 RedShift|RedShift]] - OLAP Platform
+* [[01 Athena|Athena]]
+* [[04 Amazon Elastic MapReduce (EMR)|]]
 # Graph Database: AWS Neptune
 ---
 

@@ -4,7 +4,7 @@
 * It’s  a **OLAP** – online analytical processing (analytics and data warehousing) tool based on **PostgreSQL**
 	* **Columnar storage of data** (instead of row based) & parallel query engine
 	* **Has a SQL interface** for performing the queries
-	* BI tools such as **Amazon Quicksight** or **Tableau integrate** with it
+	* BI tools such as [[05 QuickSight|Amazon Quicksight]] or **Tableau integrate** with it
 
 # How Redshift works?
 ---
