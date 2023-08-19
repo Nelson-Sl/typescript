@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/013 CloudWatch/01 Metrics.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/013 CloudWatch/01 Metrics.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/013 CloudWatch/01 Metrics.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/013 CloudWatch/01 Metrics.md"
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md"
               }
             }
           },
@@ -165,10 +165,13 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230819194803.png",
+    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+    "00 AWS/013 Monitoring",
     "00 AWS/000 Attachments/Pasted image 20230819192837.png",
     "00 AWS/012 Machine Learning/11 Amazon Textract.md",
-    "00 AWS/013 CloudWatch/01 Metrics.md",
-    "00 AWS/013 CloudWatch",
+    "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/012 Machine Learning/10 Amazon Personalize.md",
     "00 AWS/012 Machine Learning/12 Sum up.md",
     "00 AWS/012 Machine Learning/09 Kendra.md",
@@ -201,8 +204,6 @@
     "00 AWS/011 Data Analytics/07 Lake Formation.md",
     "00 AWS/011 Data Analytics/05 QuickSight.md",
     "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
-    "00 AWS/011 Data Analytics/03 OpenSearch.md",
-    "00 AWS/000 Attachments/Pasted image 20230819161937.png",
     "00 AWS/011 Data Analytics",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
@@ -210,7 +211,6 @@
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/010 Serverless",
     "00 AWS/009 Containers/02 ECS",
-    "00 AWS/009 Containers",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
