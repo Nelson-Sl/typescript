@@ -24,7 +24,9 @@
 	* Support **MSK & Kinesis Data Streams**
 	* provisioning compute resources, parallel computation, automatic scaling
 	* **application backups** (implemented as checkpoints and snapshots)
-	* 
+	* Use any Apache Flink programming features
+
+![[Pasted image 20230819160238.png]]
 
 # Use Cases
 ---

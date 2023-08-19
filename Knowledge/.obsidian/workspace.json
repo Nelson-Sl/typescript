@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+                "file": "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+                "file": "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+                "file": "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md"
+                "file": "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md"
               }
             }
           },
@@ -165,29 +165,31 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/000 Attachments/Pasted image 20230819155814.png",
-    "00 AWS/011 Data Analytics/05 QuickSight.md",
+    "00 AWS/000 Attachments/Pasted image 20230819161025.png",
     "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+    "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
+    "00 AWS/011 Data Analytics/01 Athena.md",
+    "00 AWS/011 Data Analytics/02 RedShift.md",
+    "00 AWS/011 Data Analytics/03 OpenSearch.md",
+    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
+    "00 AWS/011 Data Analytics/05 QuickSight.md",
+    "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/011 Data Analytics/07 Lake Formation.md",
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/000 Attachments/Pasted image 20230819160238.png",
+    "00 AWS/000 Attachments/Pasted image 20230819155814.png",
     "00 AWS/000 Attachments/Pasted image 20230819154531.png",
     "00 AWS/000 Attachments/Pasted image 20230819154442.png",
-    "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/000 Attachments/Pasted image 20230819152844.png",
     "00 AWS/000 Attachments/Pasted image 20230819152720.png",
     "00 AWS/000 Attachments/Pasted image 20230819152638.png",
     "00 AWS/000 Attachments/Pasted image 20230819151718.png",
     "00 AWS/000 Attachments/Pasted image 20230819151636.png",
     "00 AWS/000 Attachments/Pasted image 20230819151610.png",
-    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
-    "00 AWS/011 Data Analytics/03 OpenSearch.md",
-    "00 AWS/000 Attachments/Pasted image 20230819145058.png",
-    "00 AWS/000 Attachments/Pasted image 20230819145015.png",
-    "00 AWS/011 Data Analytics/02 RedShift.md",
-    "00 AWS/011 Data Analytics/01 Athena.md",
     "00 AWS/Sum up/03 Choose the right Database.md",
     "00 AWS/011 Data Analytics",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
@@ -200,8 +202,6 @@
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/未命名",
