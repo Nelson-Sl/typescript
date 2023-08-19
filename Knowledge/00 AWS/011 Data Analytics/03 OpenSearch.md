@@ -43,4 +43,4 @@
 # Use Case
 ---
 
-* As a complement to another database
+* As a **complement** to another database
