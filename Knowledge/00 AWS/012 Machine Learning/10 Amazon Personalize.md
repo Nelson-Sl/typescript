@@ -1,7 +1,7 @@
 # What's Amazon Personalize?
 ---
 
-* Fully managed ML-service to **build apps with real-time personalized recommendations**
+* Fully managed ML-service to **build apps with real-time personalized recommendations** (E.g. personalized product recommendations/re-ranking, customized direct marketing)
 	* Integrates into **existing websites, applications, SMS, email marketing systems**, …
 	* **Implement in days, not months** (you don’t need to build, train, and deploy ML solutions)
 
@@ -10,4 +10,5 @@
 # Use Case
 ---
 
-* 
+* **Retail/On-line Store**: Amazon.com
+* **Media and Entertainment**

@@ -1,7 +1,7 @@
 # What's Amazon Kendra?
 ---
 
-* Fully managed **document search service** powered by Machine Learning
+* Fully managed **document search service / engine** powered by Machine Learning
 
 # How Amazon Kendra Works?
 ---
