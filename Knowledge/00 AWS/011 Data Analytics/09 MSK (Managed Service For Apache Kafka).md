@@ -14,4 +14,16 @@
 ---
 
 * Run Apache Kafka on MSK **without managing the capacity**
-* MSK automatically provisions resources and scales compute & storage
+* MSK **automatically provisions resources** and **scales compute & storage**
+
+# Consumers
+---
+
+![[Pasted image 20230819161252.png]]
+
+# vs. [[02 Kinesis Data Streams|Kinesis Stream]]
+---
+
+* **Higher possible message size limit**
+
+![[Pasted image 20230819161437.png]]
