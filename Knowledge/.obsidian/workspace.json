@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md"
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md"
               }
             }
           },
@@ -165,13 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230819201304.png",
+    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/000 Attachments/Pasted image 20230819200012.png",
     "00 AWS/000 Attachments/Pasted image 20230819195553.png",
     "00 AWS/000 Attachments/Pasted image 20230819195521.png",
     "00 AWS/000 Attachments/Pasted image 20230819195306.png",
     "00 AWS/000 Attachments/Pasted image 20230819194803.png",
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
     "00 AWS/013 Monitoring",
     "00 AWS/000 Attachments/Pasted image 20230819192837.png",
     "00 AWS/012 Machine Learning/11 Amazon Textract.md",
@@ -191,7 +193,6 @@
     "00 AWS/000 Attachments/Pasted image 20230819175631.png",
     "00 AWS/000 Attachments/Pasted image 20230819175155.png",
     "00 AWS/000 Attachments/Pasted image 20230819174809.png",
-    "00 AWS/000 Attachments/Pasted image 20230819174227.png",
     "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/未命名.md",
@@ -203,7 +204,6 @@
     "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
     "00 AWS/011 Data Analytics/07 Lake Formation.md",
     "00 AWS/011 Data Analytics/05 QuickSight.md",
-    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
     "00 AWS/011 Data Analytics",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
