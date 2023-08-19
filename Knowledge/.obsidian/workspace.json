@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/011 Data Analytics/07 Lake Formation.md",
+                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/011 Data Analytics/07 Lake Formation.md",
+                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/011 Data Analytics/07 Lake Formation.md",
+                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/011 Data Analytics/07 Lake Formation.md"
+                "file": "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/011 Data Analytics/07 Lake Formation.md",
+    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+    "00 AWS/000 Attachments/Pasted image 20230819154531.png",
+    "00 AWS/000 Attachments/Pasted image 20230819154442.png",
+    "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/000 Attachments/Pasted image 20230819152844.png",
     "00 AWS/000 Attachments/Pasted image 20230819152720.png",
     "00 AWS/000 Attachments/Pasted image 20230819152638.png",
@@ -182,10 +185,8 @@
     "00 AWS/011 Data Analytics/03 OpenSearch.md",
     "00 AWS/000 Attachments/Pasted image 20230819145058.png",
     "00 AWS/000 Attachments/Pasted image 20230819145015.png",
-    "00 AWS/000 Attachments/Pasted image 20230819144933.png",
     "00 AWS/011 Data Analytics/02 RedShift.md",
     "00 AWS/011 Data Analytics/01 Athena.md",
-    "00 AWS/000 Attachments/Pasted image 20230819143907.png",
     "00 AWS/Sum up/03 Choose the right Database.md",
     "00 AWS/011 Data Analytics",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
@@ -201,7 +202,6 @@
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/Sum up/01 List of Ports.md",
-    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda/未命名",
