@@ -18,4 +18,17 @@
 
 ![[Pasted image 20230820191621.png]]
 
-# T
+# Tiers: Standard & Advanced
+---
+
+* Advanced: **More parameters allowed**, **larger size of parameter value**, **Allow to add parameter policy**
+
+![[Pasted image 20230820191720.png]]
+
+## Parameters Policies (for advanced parameters)
+---
+
+* Allow to **assign a TTL to a parameter** (expiration date) to **force updating or deleting sensitive data** such as passwords
+* Can assign **multiple policies at a time**
+
+![[Pasted image 20230820192147.png]]
