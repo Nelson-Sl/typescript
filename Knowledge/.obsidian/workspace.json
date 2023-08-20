@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+                "file": "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+                "file": "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+                "file": "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md"
+                "file": "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
+    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/000 Attachments/Pasted image 20230820181236.png",
     "00 AWS/000 Attachments/Pasted image 20230820180913.png",
-    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/01 Encryption.md",
     "00 AWS/000 Attachments/Pasted image 20230820174157.png",
     "00 AWS/014 Security/02 KMS",
@@ -202,7 +203,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820160118.png",
     "00 AWS/000 Attachments/Pasted image 20230820155837.png",
     "00 AWS/000 Attachments/Pasted image 20230820155446.png",
-    "00 AWS/000 Attachments/Pasted image 20230820155242.png",
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
