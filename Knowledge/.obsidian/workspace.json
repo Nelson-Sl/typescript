@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md"
+                "file": "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+    "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
     "00 AWS/000 Attachments/Pasted image 20230820145713.png",
     "00 AWS/000 Attachments/Pasted image 20230820145157.png",
     "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
-    "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/000 Attachments/Pasted image 20230820143059.png",
     "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/000 Attachments/Pasted image 20230820141701.png",
@@ -193,7 +194,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820140950.png",
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
-    "00 AWS/000 Attachments/Pasted image 20230820140114.png",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/002 IAM/Advanced",
