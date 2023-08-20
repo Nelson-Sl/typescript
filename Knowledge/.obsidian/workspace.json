@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md"
+                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md"
               }
             }
           },
@@ -178,11 +178,13 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+    "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230820192147.png",
     "00 AWS/000 Attachments/Pasted image 20230820191720.png",
     "00 AWS/000 Attachments/Pasted image 20230820191621.png",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
-    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/000 Attachments/Pasted image 20230820183845.png",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
@@ -197,7 +199,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820164346.png",
     "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
     "00 AWS/014 Security",
-    "00 AWS/000 Attachments/Pasted image 20230820162520.png",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/Advanced/06 Directory Service.md",
     "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
@@ -223,7 +224,6 @@
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/013 Monitoring",
     "00 AWS/012 Machine Learning",
-    "00 AWS/011 Data Analytics",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
