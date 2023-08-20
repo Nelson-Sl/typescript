@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md"
+                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md"
               }
             }
           },
@@ -178,18 +178,24 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230820141311.png",
+    "00 AWS/000 Attachments/Pasted image 20230820141213.png",
+    "00 AWS/000 Attachments/Pasted image 20230820141125.png",
+    "00 AWS/000 Attachments/Pasted image 20230820141033.png",
+    "00 AWS/000 Attachments/Pasted image 20230820140950.png",
+    "00 AWS/002 IAM/002 Policies.md",
+    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/000 Attachments/Pasted image 20230820140114.png",
     "00 AWS/000 Attachments/Pasted image 20230820140049.png",
     "00 AWS/000 Attachments/Pasted image 20230820134609.png",
     "00 AWS/000 Attachments/Pasted image 20230820134542.png",
     "00 AWS/002 IAM/001 Introduction.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/002 IAM/Advanced",
     "00 AWS/002 IAM/005 Security Tools.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/002 IAM/003 Security with Password & MFA.md",
-    "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
     "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
     "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
@@ -200,12 +206,7 @@
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/000 Attachments/Pasted image 20230820125652.png",
     "00 AWS/000 Attachments/Pasted image 20230820124037.png",
-    "00 AWS/000 Attachments/Pasted image 20230820123436.png",
-    "00 AWS/000 Attachments/Pasted image 20230820122952.png",
     "00 AWS/013 Monitoring/03 AWS Config",
-    "00 AWS/000 Attachments/Pasted image 20230820111350.png",
-    "00 AWS/000 Attachments/Pasted image 20230820110728.png",
-    "00 AWS/000 Attachments/Pasted image 20230820110456.png",
     "00 AWS/013 Monitoring/02 CloudTrail",
     "00 AWS/013 Monitoring/01 CloudWatch/Untitled.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
@@ -218,7 +219,6 @@
     "00 AWS/012 Machine Learning/10 Amazon Personalize.md",
     "00 AWS/012 Machine Learning/09 Kendra.md",
     "00 AWS/012 Machine Learning/08 Forecast.md",
-    "00 AWS/012 Machine Learning/07 SageMaker.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/011 Data Analytics",
     "00 AWS/010 Serverless/07 Solution Architecture",
