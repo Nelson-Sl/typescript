@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md"
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md"
               }
             }
           },
@@ -178,12 +178,14 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+    "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
+    "00 AWS/013 Monitoring/03 AWS Config",
     "00 AWS/000 Attachments/Pasted image 20230820111350.png",
     "00 AWS/000 Attachments/Pasted image 20230820110728.png",
     "00 AWS/000 Attachments/Pasted image 20230820110456.png",
     "00 AWS/000 Attachments/Pasted image 20230820105229.png",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
-    "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
     "00 AWS/013 Monitoring/02 CloudTrail",
     "00 AWS/013 Monitoring/01 CloudWatch/Untitled.md",
     "00 AWS/000 Attachments/Pasted image 20230820103355.png",
@@ -219,11 +221,9 @@
     "00 AWS/010 Serverless/03 DynamoDB",
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/010 Serverless",
-    "00 AWS/009 Containers/02 ECS",
     "00 AWS/000 Attachments/Pasted image 20230819211141.png",
     "00 AWS/000 Attachments/Pasted image 20230819210412.png",
     "00 AWS/000 Attachments/Pasted image 20230819205922.png",
-    "00 AWS/000 Attachments/Pasted image 20230819205808.png",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
