@@ -73,14 +73,27 @@
 ---
 
 * ECS, EKS, Kubernetes on EC2, Fargate, needs agent for Kubernetes
-* Collect, aggregate, summarize metrics and logs from containers using a containerized version of the CloudWatch Agent
+* **Collect, aggregate, summarize metrics and logs from containers** using a containerized version of the CloudWatch Agent
 
 ![[Pasted image 20230820102016.png]]
 
 ### CloudWatch Lambda Insights
 ---
 
+* Monitoring and troubleshooting solution **for serverless applications** running on AWS Lambda, provided as **a Lambda Layer**
+* Collects, aggregates, and summarizes
+	* **system-level metrics** including CPU time, memory, disk, and network
+	* **diagnostic information** such as cold starts and Lambda worker shutdowns
 
+![[Pasted image 20230820102615.png]]
+
+### CloudWatch Contributor Insights
+---
+
+* **Analyze log data and create time series that display contributor data**
+	• See metrics about the **top-N contributors**
+	• **The total number of unique contributors, and their usage**
+* E.g. find bad hosts, identify the heaviest network users, or find the URLs that generate the most errors
 ## Expiration
 ---
 
