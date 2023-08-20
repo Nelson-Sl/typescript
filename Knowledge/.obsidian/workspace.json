@@ -178,6 +178,7 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230820183845.png",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
@@ -216,7 +217,6 @@
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/013 Monitoring/03 AWS Config",
     "00 AWS/013 Monitoring/02 CloudTrail",
     "00 AWS/013 Monitoring/01 CloudWatch",
