@@ -36,3 +36,22 @@ premises AD
 * **Cannot be joined with on-premises AD**
 
 ![[Pasted image 20230820155446.png]]
+
+# Integrate with IAM Identity Center
+---
+
+## Connect to an AWS Managed Microsoft AD (Directory Service)
+---
+
+* Integration is out of the box
+
+![[Pasted image 20230820155837.png]]
+
+## Connect to a Self-Managed Directory
+---
+
+* Create **Two-way Trust Relationship using AWS Managed Microsoft AD**
+* Create an **AD Connector**
+
+![[Pasted image 20230820160118.png]]
+
