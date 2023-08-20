@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md",
+                "file": "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/01 Organization.md"
+                "file": "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md"
               }
             }
           },
@@ -176,15 +176,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63900d9c56bee44a",
+  "active": "9e888120322d5d15",
   "lastOpenFiles": [
+    "00 AWS/014 Security",
+    "00 AWS/000 Attachments/Pasted image 20230820162520.png",
+    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
     "00 AWS/002 IAM/Advanced/06 Directory Service.md",
     "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
     "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
     "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
     "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230820160118.png",
@@ -196,7 +198,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820151919.png",
     "00 AWS/000 Attachments/Pasted image 20230820151805.png",
     "00 AWS/000 Attachments/Pasted image 20230820151651.png",
-    "00 AWS/000 Attachments/Pasted image 20230820145713.png",
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
@@ -216,7 +217,6 @@
     "00 AWS/013 Monitoring/01 CloudWatch/Untitled.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "conflict-files-obsidian-git.md",
-    "00 AWS/Sum up/03 Choose the right Database.md",
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/013 Monitoring",
     "00 AWS/012 Machine Learning",
