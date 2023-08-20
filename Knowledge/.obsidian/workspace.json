@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md"
+                "file": "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md"
               }
             }
           },
@@ -178,30 +178,30 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
-    "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
+    "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
+    "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
+    "00 AWS/000 Attachments/Pasted image 20230820125652.png",
+    "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
     "00 AWS/000 Attachments/Pasted image 20230820124037.png",
     "00 AWS/000 Attachments/Pasted image 20230820123436.png",
     "00 AWS/000 Attachments/Pasted image 20230820122952.png",
-    "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
     "00 AWS/013 Monitoring/03 AWS Config",
     "00 AWS/000 Attachments/Pasted image 20230820111350.png",
     "00 AWS/000 Attachments/Pasted image 20230820110728.png",
     "00 AWS/000 Attachments/Pasted image 20230820110456.png",
     "00 AWS/000 Attachments/Pasted image 20230820105229.png",
-    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
     "00 AWS/013 Monitoring/02 CloudTrail",
     "00 AWS/013 Monitoring/01 CloudWatch/Untitled.md",
     "00 AWS/000 Attachments/Pasted image 20230820103355.png",
     "00 AWS/000 Attachments/Pasted image 20230820102615.png",
-    "00 AWS/000 Attachments/Pasted image 20230820102016.png",
-    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
-    "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "conflict-files-obsidian-git.md",
     "00 AWS/Sum up/03 Choose the right Database.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/013 Monitoring",
     "00 AWS/012 Machine Learning/12 Sum up.md",
@@ -218,7 +218,6 @@
     "00 AWS/012 Machine Learning/01 Amazon Recognition.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/011 Data Analytics/10 Solution Example.md",
-    "00 AWS/011 Data Analytics/09 MSK (Managed Service For Apache Kafka).md",
     "00 AWS/011 Data Analytics",
     "00 AWS/010 Serverless/07 Solution Architecture",
     "00 AWS/010 Serverless/03 DynamoDB",

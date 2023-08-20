@@ -41,7 +41,6 @@
 	* Kinesis Data Stream (Can be **cross-account** & **cross-region**)
 	* Kinesis Data Firehose (Can be **cross-account** & **cross-region**)
 	* Lambda
-	* OpenSearch
 * **Subscription Filter** – filter which logs are events delivered to your destination
 
 ![[Pasted image 20230819195306.png]]
