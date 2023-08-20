@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+                "file": "00 AWS/002 IAM/Advanced/IAM Policy vs Resource-Based Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+                "file": "00 AWS/002 IAM/Advanced/IAM Policy vs Resource-Based Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+                "file": "00 AWS/002 IAM/Advanced/IAM Policy vs Resource-Based Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md"
+                "file": "00 AWS/002 IAM/Advanced/IAM Policy vs Resource-Based Policies.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230820143059.png",
+    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+    "00 AWS/002 IAM/Advanced/IAM Policy vs Resource-Based Policies.md",
     "00 AWS/000 Attachments/Pasted image 20230820141701.png",
     "00 AWS/000 Attachments/Pasted image 20230820141658.png",
     "00 AWS/000 Attachments/Pasted image 20230820141311.png",
@@ -186,12 +189,10 @@
     "00 AWS/000 Attachments/Pasted image 20230820141033.png",
     "00 AWS/000 Attachments/Pasted image 20230820140950.png",
     "00 AWS/002 IAM/002 Policies.md",
-    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/000 Attachments/Pasted image 20230820140114.png",
     "00 AWS/000 Attachments/Pasted image 20230820140049.png",
     "00 AWS/000 Attachments/Pasted image 20230820134609.png",
-    "00 AWS/000 Attachments/Pasted image 20230820134542.png",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/002 IAM/Advanced",
@@ -218,7 +219,6 @@
     "00 AWS/012 Machine Learning/11 Amazon Textract.md",
     "00 AWS/012 Machine Learning/10 Amazon Personalize.md",
     "00 AWS/012 Machine Learning/09 Kendra.md",
-    "00 AWS/012 Machine Learning/08 Forecast.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/011 Data Analytics",
     "00 AWS/010 Serverless/07 Solution Architecture",
