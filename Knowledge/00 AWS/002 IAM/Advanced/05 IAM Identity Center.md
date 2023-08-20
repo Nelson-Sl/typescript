@@ -31,3 +31,12 @@
 ---
 
 * **SSO access to many SAML 2.0 business applications** (Salesforce, Box, Microsoft 365, …)
+* Provide **required URLs, certificates, and metadata**
+
+## Attribute-Based Access Control (ABAC)
+---
+
+* Fine-grained permissions based on **users’ attributes stored in IAM Identity Center Identity Store**
+	* E.g. **cost center, title, locale, …**
+* Use case
+	* Define permissions once, then **modify AWS access by changing the attributes** 
