@@ -55,3 +55,10 @@
 * To keep events beyond this period, **log them to S3 and use Athena**
 
 ![[Pasted image 20230820110728.png]]
+
+# Integration with EventBridge
+---
+
+* Collect API Call logs & Send to EventBridge for further action
+
+![[Pasted image 20230820111350.png]]
