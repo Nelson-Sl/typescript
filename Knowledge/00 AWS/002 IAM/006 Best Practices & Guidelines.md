@@ -1,4 +1,4 @@
-	* Root Account / User / Groups
+* Root Account / User / Groups
 	* Don't use the [[001 Introduction#Root Account | root account]] except for AWS account setup (Use IAM Account)
 	* 1 Physical user = 1 AWS User
 	* Assign users to groups, as well as permissions
