@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,6 +178,8 @@
   },
   "active": "63900d9c56bee44a",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230820124037.png",
+    "00 AWS/000 Attachments/Pasted image 20230820123436.png",
     "00 AWS/000 Attachments/Pasted image 20230820122952.png",
     "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
     "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
@@ -222,8 +224,6 @@
     "00 AWS/010 Serverless/02 Lambda",
     "00 AWS/010 Serverless",
     "00 AWS/000 Attachments/Pasted image 20230819211141.png",
-    "00 AWS/000 Attachments/Pasted image 20230819210412.png",
-    "00 AWS/000 Attachments/Pasted image 20230819205922.png",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
