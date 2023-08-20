@@ -90,10 +90,19 @@
 ### CloudWatch Contributor Insights
 ---
 
-* **Analyze log data and create time series that display contributor data**
+* **Analyze log data and create time series that display contributor data** based on **built-in or customized rules**
 	• See metrics about the **top-N contributors**
 	• **The total number of unique contributors, and their usage**
 * E.g. find bad hosts, identify the heaviest network users, or find the URLs that generate the most errors
+* Works for any **AWS-generated logs (VPC, DNS, etc..)**
+
+![[Pasted image 20230820103355.png]]
+
+### CloudWatch Application Insights
+---
+
+* Provides **automated dashboards that show potential problems with monitored applications**, to help isolate ongoing issues (Powered by SageMaker)
+* Findings and alerts are sent to **Amazon EventBridge** and **SSM OpsCenter**
 ## Expiration
 ---
 
