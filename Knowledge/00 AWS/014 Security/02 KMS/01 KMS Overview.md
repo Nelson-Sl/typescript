@@ -61,11 +61,9 @@
 ---
 
 1. **Create a Snapshot, encrypted with your own KMS Key** (Customer Managed Key)
-2. Attach a KMS Key Policy to authorize cross-account access
+2. **Attach a KMS Key Policy to authorize cross-account access**
 3. Share the encrypted snapshot
-4. (in target) Create a copy of the
-Snapshot, encrypt it with a CMK in
-your account
+4. (in target) Create a copy of the Snapshot, encrypt it with a CMK in your account
 5. Create a volume from the snapshot
 
 ![[Pasted image 20230820174157.png]]
