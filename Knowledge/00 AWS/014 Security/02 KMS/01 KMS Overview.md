@@ -6,6 +6,12 @@
 	* Seamlessly integrated into **most AWS services (EBS, S3, RDS, SSM…)**
 	* Available through **API calls (SDK, CLI)** & Secrets **can be stored in the code / environment variables**
 
+## Integration With Other Service
+---
+
+* Fully **integrated with IAM for authorization**
+* Able to **audit KMS Key usage using CloudTrail**
+
 # Type of Keys
 ---
 
@@ -47,4 +53,24 @@
 	* Created if you **don’t provide a specific KMS Key Policy**
 	* **Complete access to the key to the root user** = entire AWS account
 * Custom Key Policy
-	* 
+	* Define **users, roles that can access the KMS key**
+	* Define who **can administer the key**
+	* **Useful for cross-account access** of your KMS key
+
+# Backup: Copy Snapshot Between Regions
+---
+
+1. **Create a Snapshot, encrypted with your own KMS Key** (Customer Managed Key)
+2. Attach a KMS Key Policy to authorize cross-account access
+3. Share the encrypted snapshot
+4. (in target) Create a copy of the
+Snapshot, encrypt it with a CMK in
+your account
+5. Create a volume from the snapshot
+
+![[Pasted image 20230820174157.png]]
+
+
+
+
+
