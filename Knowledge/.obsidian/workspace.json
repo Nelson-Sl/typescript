@@ -165,6 +165,7 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230821222020.png",
     "00 AWS/015 VPC/Sum Up.md",
     "00 AWS/015 VPC/04 Internet Gateway (IGW).md",
     "00 AWS/015 VPC/03 VPC Subnet (IPv4).md",
@@ -206,7 +207,6 @@
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
     "00 AWS/014 Security",
-    "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
     "00 AWS/013 Monitoring/03 AWS Config",
     "00 AWS/013 Monitoring/02 CloudTrail",
     "00 AWS/002 IAM/Advanced",
