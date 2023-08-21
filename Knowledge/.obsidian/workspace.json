@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/08 AWS Macie.md",
+                "file": "00 AWS/014 Security/01 Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/08 AWS Macie.md",
+                "file": "00 AWS/014 Security/01 Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/08 AWS Macie.md",
+                "file": "00 AWS/014 Security/01 Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/08 AWS Macie.md"
+                "file": "00 AWS/014 Security/01 Encryption.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/014 Security/07 AWS Inspector.md",
     "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
@@ -180,7 +181,6 @@
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/014 Security/01 Encryption.md",
-    "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/000 Attachments/Pasted image 20230821202822.png",
     "00 AWS/000 Attachments/Pasted image 20230821202029.png",
     "00 AWS/000 Attachments/Pasted image 20230821201126.png",
