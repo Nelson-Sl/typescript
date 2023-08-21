@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/07 AWS Inspector.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/07 AWS Inspector.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/07 AWS Inspector.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/07 AWS Inspector.md"
+                "file": "00 AWS/014 Security/08 AWS Macie.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/014 Security/07 AWS Inspector.md",
+    "00 AWS/014 Security/08 AWS Macie.md",
+    "00 AWS/014 Security/06 GuardDuty.md",
+    "00 AWS/000 Attachments/Pasted image 20230821202029.png",
     "00 AWS/000 Attachments/Pasted image 20230821201126.png",
     "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
     "00 AWS/000 Attachments/Pasted image 20230821200659.png",
@@ -183,7 +185,6 @@
     "00 AWS/000 Attachments/Pasted image 20230821184313.png",
     "00 AWS/000 Attachments/Pasted image 20230821183526.png",
     "00 AWS/000 Attachments/Pasted image 20230821182946.png",
-    "00 AWS/000 Attachments/Pasted image 20230821172451.png",
     "00 AWS/014 Security/01 Encryption.md",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
@@ -207,7 +208,6 @@
     "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/Advanced",
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring",
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/012 Machine Learning",
