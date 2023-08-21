@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md"
+                "file": "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md"
               }
             }
           },
@@ -165,7 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230821200426.png",
+    "00 AWS/000 Attachments/Pasted image 20230821200204.png",
+    "00 AWS/000 Attachments/Pasted image 20230821195820.png",
     "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
+    "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
     "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
     "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
     "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
@@ -201,14 +205,10 @@
     "00 AWS/000 Attachments/Pasted image 20230820192147.png",
     "00 AWS/000 Attachments/Pasted image 20230820191720.png",
     "00 AWS/000 Attachments/Pasted image 20230820191621.png",
-    "00 AWS/000 Attachments/Pasted image 20230820183845.png",
-    "00 AWS/000 Attachments/Pasted image 20230820181236.png",
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/013 Monitoring",
-    "00 AWS/012 Machine Learning/11 Amazon Textract.md",
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/012 Machine Learning",
     "未命名.canvas",
