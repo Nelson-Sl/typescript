@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+                "file": "00 AWS/014 Security/08 AWS Macie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md"
+                "file": "00 AWS/014 Security/08 AWS Macie.md"
               }
             }
           },
@@ -165,14 +165,23 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/014 Security/07 AWS Inspector.md",
+    "00 AWS/014 Security/06 GuardDuty.md",
+    "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
+    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+    "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
+    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
+    "00 AWS/005 Route 53/03 Record Type.md",
+    "00 AWS/005 Route 53/01 DNS.md",
+    "00 AWS/005 Route 53/02 Route 53 Overview.md",
+    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/014 Security/01 Encryption.md",
     "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/000 Attachments/Pasted image 20230821202822.png",
-    "00 AWS/014 Security/07 AWS Inspector.md",
-    "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/000 Attachments/Pasted image 20230821202029.png",
     "00 AWS/000 Attachments/Pasted image 20230821201126.png",
     "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
@@ -180,17 +189,11 @@
     "00 AWS/000 Attachments/Pasted image 20230821200426.png",
     "00 AWS/000 Attachments/Pasted image 20230821200204.png",
     "00 AWS/000 Attachments/Pasted image 20230821195820.png",
-    "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
-    "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
-    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
-    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/000 Attachments/Pasted image 20230821193233.png",
-    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/000 Attachments/Pasted image 20230821184313.png",
     "00 AWS/000 Attachments/Pasted image 20230821183526.png",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
-    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
     "00 AWS/014 Security",
@@ -204,8 +207,6 @@
     "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
     "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
-    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/Advanced",
     "00 AWS/013 Monitoring",
     "00 AWS/013 Monitoring/01 CloudWatch",

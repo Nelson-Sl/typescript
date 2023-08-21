@@ -12,4 +12,4 @@
 	* **Security Groups for EC2**, **Application Load Balancer** and **ENI resources in VPC**
 	* **AWS Network Firewall** (VPC Level)
 	* Amazon **Route 53 Resolver DNS Firewall**
-	* Policies are **created at the region level**
+* Policies are **created at the region level**
