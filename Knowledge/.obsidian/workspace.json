@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/未命名.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/未命名.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/未命名.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/未命名.md"
+                "file": "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md"
               }
             }
           },
@@ -165,10 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
-    "00 AWS/014 Security/05 WAF & Shield/未命名.md",
-    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
+    "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
+    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/000 Attachments/Pasted image 20230821193233.png",
     "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/05 WAF & Shield",
