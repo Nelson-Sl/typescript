@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md"
+                "file": "00 AWS/014 Security/05 WAF & Shield/02 Shield.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+    "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
+    "00 AWS/000 Attachments/Pasted image 20230821193233.png",
+    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/000 Attachments/Pasted image 20230821184313.png",
     "00 AWS/000 Attachments/Pasted image 20230821183526.png",
@@ -199,7 +201,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820191621.png",
     "00 AWS/000 Attachments/Pasted image 20230820183845.png",
     "00 AWS/000 Attachments/Pasted image 20230820181236.png",
-    "00 AWS/000 Attachments/Pasted image 20230820180913.png",
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
@@ -209,7 +210,6 @@
     "00 AWS/013 Monitoring/01 CloudWatch",
     "00 AWS/012 Machine Learning/10 Amazon Personalize.md",
     "00 AWS/012 Machine Learning/12 Sum up.md",
-    "00 AWS/012 Machine Learning/09 Kendra.md",
     "00 AWS/012 Machine Learning",
     "未命名.canvas",
     "Untitled 1.canvas",
