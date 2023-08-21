@@ -52,3 +52,6 @@
 	* **Regional**
 		* The TLS Certificate must be imported on API Gateway, **in the same region as the API Stage**
 * Then setup **CNAME or (better) A-Alias record** in Route 53
+
+![[Pasted image 20230821184313.png]]
+
