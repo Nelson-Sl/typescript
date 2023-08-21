@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/02 Default VPC.md",
+                "file": "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/02 Default VPC.md",
+                "file": "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/02 Default VPC.md",
+                "file": "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/02 Default VPC.md"
+                "file": "00 AWS/015 VPC/02 VPC Interface/02 VPC.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/02 VPC Interface/01 Default VPC.md",
+    "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
+    "00 AWS/015 VPC/02 VPC Interface",
     "00 AWS/015 VPC/01 CIDR & Public & Private IP.md",
-    "00 AWS/015 VPC/02 Default VPC.md",
     "00 AWS/000 Attachments/Pasted image 20230821211855.png",
     "00 AWS/000 Attachments/Pasted image 20230821211546.png",
     "00 AWS/015 VPC/Sum Up.md",
@@ -207,10 +209,8 @@
     "00 AWS/013 Monitoring/03 AWS Config",
     "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
     "00 AWS/013 Monitoring/02 CloudTrail",
-    "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
     "00 AWS/002 IAM/Advanced",
     "00 AWS/013 Monitoring",
-    "00 AWS/013 Monitoring/01 CloudWatch",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
