@@ -6,10 +6,10 @@
 
 ![[Pasted image 20230821172451.png]]
 
-# Requesting Certificates
+# Requesting & Importing Certificates
 ---
 
-## Public Certificates
+## Requesting
 ---
 
 1. List domain names to be included in the certificate 
@@ -20,4 +20,16 @@
 	* Email validation will **send emails to contact addresses** in the WHOIS database
 3. It will take **a few hours to get verified**
 4. The Public Certificate will be enrolled for automatic renewal
-	* ACM automatically renews ACM-generated certificates 60 days before expiry
+	* ACM automatically **renews ACM-generated certificates 60 days** before expiry
+
+* Note
+	1. Option to **generate the certificate outside of ACM** and then import it, but should be **no renewal** and **must import a new certificate before expiry**
+	2. ACM sends daily expiration events **starting 45 days prior to expiration**
+		* The # of days can be configured by `acm-certificate-expiration-check`
+		* Events are appearing in **EventBridge**
+## Importing
+---
+
+
+![[Pasted image 20230821182946.png]]
+
