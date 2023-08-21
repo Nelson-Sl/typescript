@@ -17,4 +17,5 @@
 # Attack surface reduction
 ---
 
+![[Pasted image 20230821200659.png]]
 
