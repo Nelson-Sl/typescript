@@ -27,9 +27,28 @@
 	2. ACM sends daily expiration events **starting 45 days prior to expiration**
 		* The # of days can be configured by `acm-certificate-expiration-check`
 		* Events are appearing in **EventBridge**
+
 ## Importing
 ---
 
 
 ![[Pasted image 20230821182946.png]]
 
+# Integration
+---
+
+## Integration with ALB
+---
+
+ ![[Pasted image 20230821183526.png]]
+
+
+## Integration with API-Gateway
+---
+
+* Create a **Custom Domain Name** in API Gateway
+	* **Edge-Optimized** (default): For global clients
+		* The TLS Certificate **must be in the same region as CloudFront**, in **us-east-1**
+	* **Regional**
+		* The TLS Certificate must be imported on API Gateway, **in the same region as the API Stage**
+* Then setup **CNAME or (better) A-Alias record** in Route 53
