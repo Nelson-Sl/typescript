@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
+                "file": "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
+                "file": "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
+                "file": "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md"
+                "file": "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md"
               }
             }
           },
@@ -163,15 +163,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9e888120322d5d15",
+  "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/014 Security/01 Encryption.md",
+    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
+    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
-    "00 AWS/014 Security/01 Encryption.md",
     "00 AWS/014 Security",
     "00 AWS/013 Monitoring/04 CloudWatch vs CloudTrail vs AWS Config.md",
     "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
@@ -197,7 +199,6 @@
     "00 AWS/000 Attachments/Pasted image 20230820164753.png",
     "00 AWS/000 Attachments/Pasted image 20230820164346.png",
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
@@ -208,7 +209,6 @@
     "00 AWS/012 Machine Learning/12 Sum up.md",
     "00 AWS/012 Machine Learning/09 Kendra.md",
     "00 AWS/012 Machine Learning/08 Forecast.md",
-    "00 AWS/012 Machine Learning/07 SageMaker.md",
     "00 AWS/012 Machine Learning",
     "00 AWS/011 Data Analytics",
     "未命名.canvas",
