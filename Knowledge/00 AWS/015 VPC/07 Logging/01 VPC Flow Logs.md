@@ -37,3 +37,7 @@
 
 ![[Pasted image 20230822201537.png]]
 
+# Architecture
+---
+
+![[Pasted image 20230822201842.png]]
