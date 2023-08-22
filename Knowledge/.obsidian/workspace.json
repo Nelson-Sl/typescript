@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md"
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md"
               }
             }
           },
@@ -165,11 +165,14 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md",
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+    "00 AWS/015 VPC/08 Customer Access/01 Site-to-Site VPN.md",
+    "00 AWS/000 Attachments/Pasted image 20230822213606.png",
+    "00 AWS/000 Attachments/Pasted image 20230822213410.png",
     "00 AWS/000 Attachments/Pasted image 20230822212749.png",
     "00 AWS/000 Attachments/Pasted image 20230822211800.png",
     "00 AWS/000 Attachments/Pasted image 20230822211427.png",
-    "00 AWS/015 VPC/08 Customer Access/01 Site-to-Site VPN.md",
-    "00 AWS/015 VPC/08 Customer Access/02 Direct Connect (DX).md",
     "00 AWS/000 Attachments/Pasted image 20230822204220.png",
     "00 AWS/000 Attachments/Pasted image 20230822203537.png",
     "00 AWS/000 Attachments/Pasted image 20230822203419.png",
@@ -177,11 +180,8 @@
     "00 AWS/015 VPC/08 Customer Access",
     "00 AWS/000 Attachments/Pasted image 20230822201842.png",
     "00 AWS/000 Attachments/Pasted image 20230822201537.png",
-    "00 AWS/000 Attachments/Pasted image 20230822201136.png",
-    "00 AWS/000 Attachments/Pasted image 20230822200519.png",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/07 Logging",
-    "00 AWS/000 Attachments/Pasted image 20230822194031.png",
     "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",

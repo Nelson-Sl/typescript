@@ -26,14 +26,17 @@
 * Connection requests are made via **AWS Direct Connect Partners** (**1, 2, 5, 10 Gbps available at Selected Partners**)
 * Capacity can be **added** or **removed** on demand
 
-# Direct Connect Gateway
+# Features
+---
+
+## Direct Connect Gateway
 ---
 
 * Setup a Direct Connect **to one or more VPC in many different regions** (same account)
 
 ![[Pasted image 20230822211800.png]]
 
-# Encryption
+## Encryption
 ---
 
 * Data in transit is **not encrypted but is private**
@@ -41,3 +44,15 @@
 	* Good for **an extra level of security**, but slightly more complex to put in place
 
 ![[Pasted image 20230822212749.png]]
+
+## Resiliency
+---
+
+![[Pasted image 20230822213410.png]]
+
+# Integration: Site-to-Site VPN connection as a backup
+---
+
+* In case Direct Connect fails, you can **set up a backup Direct Connect connection** (expensive), or a **Site-to-Site VPN connection**
+
+![[Pasted image 20230822213606.png]]
