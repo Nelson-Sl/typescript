@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+                "file": "00 AWS/015 VPC/07 Logging/01 VPC Flow Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+                "file": "00 AWS/015 VPC/07 Logging/01 VPC Flow Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+                "file": "00 AWS/015 VPC/07 Logging/01 VPC Flow Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md"
+                "file": "00 AWS/015 VPC/07 Logging/01 VPC Flow Logs.md"
               }
             }
           },
@@ -165,12 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230822200519.png",
+    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+    "00 AWS/015 VPC/07 Logging/01 VPC Flow Logs.md",
+    "00 AWS/015 VPC/07 Logging",
     "00 AWS/000 Attachments/Pasted image 20230822194031.png",
     "00 AWS/000 Attachments/Pasted image 20230822193756.png",
     "00 AWS/000 Attachments/Pasted image 20230822193259.png",
     "00 AWS/000 Attachments/Pasted image 20230822193049.png",
     "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/000 Attachments/Pasted image 20230822191124.png",
     "00 AWS/000 Attachments/Pasted image 20230822191107.png",
     "00 AWS/000 Attachments/Pasted image 20230822191032.png",
@@ -179,7 +182,6 @@
     "00 AWS/000 Attachments/Pasted image 20230822133549.png",
     "00 AWS/000 Attachments/Pasted image 20230822133406.png",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
-    "00 AWS/000 Attachments/Pasted image 20230822132851.png",
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
     "00 AWS/015 VPC/06 Security",
     "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
@@ -204,13 +206,11 @@
     "00 AWS/014 Security/05 WAF & Shield/04 WAF vs Shield vs Firewall Manager.md",
     "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
     "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
-    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
     "00 AWS/014 Security",
     "00 AWS/013 Monitoring/03 AWS Config",
-    "00 AWS/013 Monitoring/02 CloudTrail",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
