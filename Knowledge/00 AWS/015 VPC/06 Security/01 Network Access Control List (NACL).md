@@ -21,3 +21,23 @@
 * Do NOT modify the Default NACL, **instead create custom NACLs**
 
 ![[Pasted image 20230822131937.png]]
+
+# Working with Ephemeral Ports
+---
+
+## Definition of Ephemeral Ports
+---
+
+* Clients connect to a defined port, and **expect a response on an ephemeral port**
+	* Different Operating Systems use **different port ranges**
+		* IANA & MS Windows 10 -> **49152 – 65535** 
+		* Many Linux Kernels -> **32768 – 60999**
+
+![[Pasted image 20230822132722.png]]
+
+## Working with Ephemeral Ports
+---
+
+* Restrict only expected range of ephemeral ports to visit 
+
+![[Pasted image 20230822132851.png]]
