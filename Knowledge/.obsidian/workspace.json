@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md"
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md"
               }
             }
           },
@@ -165,12 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230822133549.png",
+    "00 AWS/000 Attachments/Pasted image 20230822133406.png",
+    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
+    "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/000 Attachments/Pasted image 20230822132851.png",
     "00 AWS/000 Attachments/Pasted image 20230822132722.png",
     "00 AWS/000 Attachments/Pasted image 20230822131937.png",
     "00 AWS/000 Attachments/Pasted image 20230822131211.png",
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
-    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/015 VPC/06 Security",
     "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
     "00 AWS/015 VPC/05 Private Instance Connection/02 NAT Instance.md",
@@ -182,9 +185,7 @@
     "00 AWS/000 Attachments/Pasted image 20230822084843.png",
     "00 AWS/015 VPC/Sum Up.md",
     "00 AWS/015 VPC/05 Private Instance Connection",
-    "00 AWS/000 Attachments/Pasted image 20230821223134.png",
     "00 AWS/015 VPC/04 Internet Gateway (IGW).md",
-    "00 AWS/000 Attachments/Pasted image 20230821222020.png",
     "00 AWS/015 VPC/03 VPC Subnet (IPv4).md",
     "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
     "00 AWS/015 VPC/01 CIDR & Public & Private IP.md",
@@ -204,7 +205,6 @@
     "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/01 DNS.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",

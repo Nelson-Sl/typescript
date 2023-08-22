@@ -38,6 +38,6 @@
 ## Working with Ephemeral Ports
 ---
 
-* Restrict only expected range of ephemeral ports to visit 
+* Restrict **only expected range of ephemeral ports** to send back response
 
 ![[Pasted image 20230822132851.png]]
