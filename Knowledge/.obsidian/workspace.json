@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/09 IPv6.md",
+                "file": "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/09 IPv6.md",
+                "file": "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/09 IPv6.md",
+                "file": "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/09 IPv6.md"
+                "file": "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/09 IPv6.md",
+    "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
     "00 AWS/000 Attachments/Pasted image 20230822221102.png",
     "00 AWS/015 VPC/07 Monitoring & Logging/02 Traffic Monitoring.md",
-    "00 AWS/015 VPC/09 IPv6.md",
     "00 AWS/000 Attachments/Pasted image 20230822215542.png",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
     "00 AWS/000 Attachments/Pasted image 20230822215046.png",
@@ -180,7 +181,6 @@
     "00 AWS/000 Attachments/Pasted image 20230822213410.png",
     "00 AWS/000 Attachments/Pasted image 20230822212749.png",
     "00 AWS/000 Attachments/Pasted image 20230822211800.png",
-    "00 AWS/000 Attachments/Pasted image 20230822211427.png",
     "00 AWS/015 VPC/07 Monitoring & Logging/01 VPC Flow Logs.md",
     "00 AWS/015 VPC/08 Customer Access",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
