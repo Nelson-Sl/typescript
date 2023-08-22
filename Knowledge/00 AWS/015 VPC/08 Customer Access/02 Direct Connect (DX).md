@@ -10,6 +10,8 @@
 ## Connection Types
 ---
 
+* Lead times are often **longer than 1 month** to establish a new connection
+
 ### Dedicated Connections
 ---
 
@@ -20,7 +22,10 @@
 ### Hosted Connections
 ---
 
-* 50Mbps, 500 Mbps, to 10 Gbps
+* **50Mbps**, **500 Mbps**, to **10 Gbps**
+* Connection requests are made via **AWS Direct Connect Partners** (**1, 2, 5, 10 Gbps available at Selected Partners**)
+* Capacity can be **added** or **removed** on demand
+
 # Direct Connect Gateway
 ---
 
@@ -28,3 +33,11 @@
 
 ![[Pasted image 20230822211800.png]]
 
+# Encryption
+---
+
+* Data in transit is **not encrypted but is private**
+	* AWS Direct Connect + VPN provides an **IPsec-encrypted private connection**
+	* Good for **an extra level of security**, but slightly more complex to put in place
+
+![[Pasted image 20230822212749.png]]
