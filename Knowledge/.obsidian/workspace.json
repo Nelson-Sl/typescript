@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md"
+                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md"
               }
             }
           },
@@ -165,6 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
+    "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
+    "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+    "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
     "00 AWS/015 VPC/11 Networking Cost Strategy.md",
     "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
     "00 AWS/015 VPC/09 IPv6.md",
@@ -176,10 +181,6 @@
     "00 AWS/015 VPC/07 Monitoring & Logging/01 VPC Flow Logs.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
-    "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
-    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
-    "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
     "00 AWS/015 VPC/05 Private Instance Connection/02 NAT Instance.md",
     "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
     "00 AWS/015 VPC/04 Internet Gateway (IGW).md",
@@ -187,7 +188,6 @@
     "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
     "00 AWS/015 VPC/02 VPC Interface/01 Default VPC.md",
     "00 AWS/015 VPC/01 CIDR & Public & Private IP.md",
-    "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
     "00 AWS/000 Attachments/Pasted image 20230823101208.png",
     "00 AWS/000 Attachments/Pasted image 20230823100307.png",
     "00 AWS/000 Attachments/Pasted image 20230823100247.png",
