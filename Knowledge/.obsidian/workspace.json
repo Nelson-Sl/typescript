@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md"
+                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "6ddf2d4d42a65808",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+    "00 AWS/Sum up/04 Architecture",
+    "00 AWS/Sum up/未命名.md",
     "00 AWS/016 Disaster Recovery & Migration/04 AWS Backup.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
@@ -214,15 +218,12 @@
     "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
     "00 AWS/015 VPC/09 IPv6.md",
     "00 AWS/015 VPC/Sum Up.md",
-    "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
-    "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
     "00 AWS/015 VPC/06 Security",
     "00 AWS/015 VPC/05 Private Instance Connection",
     "00 AWS/015 VPC/02 VPC Interface",
     "00 AWS/015 VPC",
-    "00 AWS/014 Security/05 WAF & Shield",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
