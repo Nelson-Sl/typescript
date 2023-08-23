@@ -190,6 +190,7 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230823221322.png",
     "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
     "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
     "00 AWS/000 Attachments/Pasted image 20230823220111.png",
@@ -229,7 +230,6 @@
     "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
     "00 AWS/015 VPC/06 Security",
