@@ -23,6 +23,13 @@
 ---
 
 * WAF for **IP address filtering**, Cloudfront for **Geo Restriction**
-* NACL Not helpful in this case since 
+* NACL Not helpful in this case since **the Public IP has been changed by CloudFront**
 
 ![[Pasted image 20230823215815.png]]
+
+# With a NLB
+---
+
+* NACL only (NLB **does not have security group**)
+
+![[Pasted image 20230823220111.png]]
