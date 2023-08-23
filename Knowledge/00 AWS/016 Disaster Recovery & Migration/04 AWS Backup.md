@@ -18,8 +18,8 @@
 ## Backup Plans
 ---
 
-* Backup frequency (every 12 hours, daily, weekly, monthly, cron expression) 
-* Backup window 
+* **Backup frequency** (every 12 hours, daily, weekly, monthly, cron expression) 
+* **Backup window** 
 * Transition to **Cold Storage** (Never, Days, Weeks, Months, Years) 
 * **Retention Period** (Always, Days, Weeks, Months, Years)
 
