@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md"
+                "file": "00 AWS/015 VPC/06 Security/03 Network Firewall.md"
               }
             }
           },
@@ -165,13 +165,15 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230823101208.png",
+    "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+    "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
     "00 AWS/000 Attachments/Pasted image 20230823100307.png",
     "00 AWS/000 Attachments/Pasted image 20230823100247.png",
     "00 AWS/000 Attachments/Pasted image 20230823095626.png",
     "00 AWS/000 Attachments/Pasted image 20230823095328.png",
     "00 AWS/000 Attachments/Pasted image 20230823095003.png",
     "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
-    "00 AWS/015 VPC/11 Networking Cost Strategy.md",
     "00 AWS/015 VPC/07 Monitoring & Logging/02 Traffic Monitoring.md",
     "00 AWS/015 VPC/07 Monitoring & Logging/01 VPC Flow Logs.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
@@ -189,7 +191,6 @@
     "00 AWS/015 VPC/02 VPC Interface/01 Default VPC.md",
     "00 AWS/000 Attachments/Pasted image 20230822222533.png",
     "00 AWS/000 Attachments/Pasted image 20230822222512.png",
-    "00 AWS/000 Attachments/Pasted image 20230822221102.png",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
     "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
     "00 AWS/015 VPC/08 Data Center Access",
@@ -206,7 +207,6 @@
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/015 VPC",
     "00 AWS/未命名.md",
-    "00 AWS/014 Security/01 Encryption.md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
