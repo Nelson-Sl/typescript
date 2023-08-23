@@ -23,7 +23,20 @@
 ---
 
 * **Ingress**: free
-* To Internet: $0.09 per GB
+* **To Internet**: $0.09 per GB
+* S3 Transfer Acceleration
+	* **Faster transfer times** (50 to 500% better) 
+	* Additional cost on top of Data Transfer Pricing: +**$0.04 to $0.08 per GB**
+* S3 -> CloudFront -> Internet
+	* S3 to CloudFront: **$0.00** per GB
+	* CloudFront to Internet: **$0.085** per GB (slightly cheaper than S3)
+		* **Caching capability** (lower latency) 
+		* **Reduce costs** associated with S3 Requests Pricing (7x cheaper with CloudFront)
+* S3 Cross Region Replication: **$0.02 per GB**
 
 ![[Pasted image 20230823095626.png]]
 
+# Pricing: NAT Gateway vs VPC Endpoint
+---
+
+![[Pasted image 20230823100307.png]]
