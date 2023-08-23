@@ -18,7 +18,7 @@
 	* Reached the end of standard support on December 31, 2020
 * **Not highly available / resilient setup** out of the box 
 	* You need to **create an ASG in multi-AZ + resilient user-data script**
-* • Internet traffic bandwidth **depends on EC2 instance type**
+* Internet traffic bandwidth **depends on EC2 instance type**
 
 # Security Settings
 ---

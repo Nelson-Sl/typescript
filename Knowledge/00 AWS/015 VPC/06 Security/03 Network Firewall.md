@@ -20,4 +20,9 @@
 		* **Stateful domain list rule groups**: only allow outbound traffic to *.mycorp.com or third-party software repo
 		* **General pattern matching** using regex
 * Traffic filtering: **Allow, drop, or alert for the traffic** that matches the rules
-* **Active flow inspection** to protect against network threats with intrusion-prevention capabilities (like Gateway Load Balancer, but all managed by AWS)
+* **Active flow inspection** to **protect against network threats with intrusion-prevention** capabilities (like Gateway Load Balancer, but all managed by AWS)
+
+# Logs & Analysis
+---
+
+* Send logs of rule matches to **Amazon S3, CloudWatch Logs, Kinesis Data Firehose**
