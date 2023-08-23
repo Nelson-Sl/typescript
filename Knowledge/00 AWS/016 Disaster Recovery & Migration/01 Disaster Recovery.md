@@ -29,4 +29,24 @@
 ## Pilot Light
 ---
 
-* Very similar to Backup and Restore but a small version of the app is always running in the cloud
+* Very similar to Backup and Restore but **a small version of the app is always running in the cloud**
+	* Faster than Backup and Restore as **critical systems are already up**
+
+![[Pasted image 20230823171142.png]]
+
+## Warm Standby
+---
+
+* Full system is up and running, but **at minimum size**
+* Upon disaster, we can **scale to production load**
+
+![[Pasted image 20230823171334.png]]
+
+## Multi Site / Hot Site Approach
+---
+
+* Full Production Scale is running **AWS** and **On Premise**
+* **Very low RTO** (minutes or seconds) – very expensive
+
+![[Pasted image 20230823172048.png]]
+
