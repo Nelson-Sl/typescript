@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+                "file": "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+                "file": "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+                "file": "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md"
+                "file": "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md"
               }
             }
           },
@@ -190,10 +190,15 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230823215815.png",
+    "00 AWS/000 Attachments/Pasted image 20230823215624.png",
+    "00 AWS/000 Attachments/Pasted image 20230823215510.png",
+    "00 AWS/000 Attachments/Pasted image 20230823215425.png",
+    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+    "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
     "00 AWS/010 Serverless/04 API Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/000 Attachments/Pasted image 20230823214428.png",
     "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
@@ -214,10 +219,7 @@
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/02 RDS & Aurora MySQL Migration.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
-    "00 AWS/000 Attachments/Pasted image 20230823203521.png",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
-    "00 AWS/000 Attachments/Pasted image 20230823201940.png",
-    "00 AWS/000 Attachments/Pasted image 20230823200541.png",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
@@ -228,8 +230,6 @@
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
-    "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
     "00 AWS/015 VPC/06 Security",
