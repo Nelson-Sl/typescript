@@ -41,3 +41,6 @@
 ![[Pasted image 20230823213852.png]]
 
 ## API Gateway + Kinesis Data Stream
+---
+
+![[Pasted image 20230823213939.png]]

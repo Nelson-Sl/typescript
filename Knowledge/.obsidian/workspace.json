@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "7bf0d3efbf0c0bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ddf2d4d42a65808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md"
+                "file": "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md"
               }
             }
           },
@@ -176,20 +188,26 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6ddf2d4d42a65808",
+  "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/04 API Gateway.md",
+    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
+    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
+    "00 AWS/000 Attachments/Pasted image 20230823214428.png",
+    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+    "00 AWS/000 Attachments/Pasted image 20230823213939.png",
     "00 AWS/000 Attachments/Pasted image 20230823213852.png",
     "00 AWS/000 Attachments/Pasted image 20230823213610.png",
     "00 AWS/000 Attachments/Pasted image 20230823213541.png",
     "00 AWS/000 Attachments/Pasted image 20230823213057.png",
     "00 AWS/000 Attachments/Pasted image 20230823212934.png",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
-    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/Sum up/04 Architecture",
     "00 AWS/Sum up/未命名.md",
     "00 AWS/016 Disaster Recovery & Migration/04 AWS Backup.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/03 RDS & Aurora PostgreSQL Migration.md",
@@ -200,9 +218,6 @@
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/000 Attachments/Pasted image 20230823201940.png",
     "00 AWS/000 Attachments/Pasted image 20230823200541.png",
-    "00 AWS/000 Attachments/Pasted image 20230823195441.png",
-    "00 AWS/000 Attachments/Pasted image 20230823192837.png",
-    "00 AWS/000 Attachments/Pasted image 20230823192700.png",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
@@ -215,9 +230,6 @@
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
     "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
     "00 AWS/015 VPC/06 Security/03 Network Firewall.md",
-    "00 AWS/015 VPC/11 Networking Cost Strategy.md",
-    "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
-    "00 AWS/015 VPC/09 IPv6.md",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
     "00 AWS/015 VPC/06 Security",
