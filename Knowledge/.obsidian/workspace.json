@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md"
+                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+    "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
+    "00 AWS/016 Disaster Recovery & Migration",
+    "00 AWS/未命名.md",
+    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
@@ -205,11 +208,9 @@
     "00 AWS/015 VPC/02 VPC Interface",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/015 VPC",
-    "00 AWS/未命名.md",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/014 Security/03 SSM Parameter Store",
     "00 AWS/014 Security/02 KMS",
-    "00 AWS/014 Security",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
