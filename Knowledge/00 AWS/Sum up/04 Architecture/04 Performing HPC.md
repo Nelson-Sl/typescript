@@ -55,4 +55,19 @@
 	* **Instance Store**: scale to millions of IOPS, linked to EC2 instance, low latency
 * Network Storage
 	* **Amazon S3**: large blob, not a file system
-	* 
+	* **Amazon EFS**: scale IOPS based on total size, or use provisioned IOPS
+	* **Amazon FSx for Lustre**
+		* **HPC optimized distributed file system**, millions of IOPS 
+		* Backed by **S3**
+
+## Automation and Orchestration
+---
+
+* AWS Batch
+	* supports **multi-node parallel jobs**, which enables you to **run single jobs that span multiple EC2 instances.**
+	* Easily **schedule jobs** and **launch EC2 instances accordingly**
+* AWS ParallelCluster
+	* Open-source **cluster management tool** to deploy HPC on AWS
+	* Configure with **text files**
+	* Automate creation of **VPC, Subnet, cluster type and instance types**
+	* Ability to **enable EFA on the cluster** (improves network performance)
