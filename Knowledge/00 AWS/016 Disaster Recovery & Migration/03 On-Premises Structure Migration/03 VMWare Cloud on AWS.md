@@ -10,4 +10,5 @@
 ---
 
 * **Migrate your VMware vSphere-based workloads** to AWS
-* 
+* **Run your production workloads** across VMware vSphere-based private, public, and hybrid cloud environments
+* Have a **disaster recover strategy**
