@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md"
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "90b30e63a9b5218d",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
+    "00 AWS/016 Disaster Recovery & Migration/未命名.md",
+    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/000 Attachments/Pasted image 20230823172141.png",
     "00 AWS/000 Attachments/Pasted image 20230823172048.png",
     "00 AWS/000 Attachments/Pasted image 20230823171334.png",
@@ -196,8 +199,6 @@
     "00 AWS/015 VPC/04 Internet Gateway (IGW).md",
     "00 AWS/015 VPC/03 VPC Subnet (IPv4).md",
     "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
-    "00 AWS/015 VPC/02 VPC Interface/01 Default VPC.md",
-    "00 AWS/015 VPC/01 CIDR & Public & Private IP.md",
     "00 AWS/000 Attachments/Pasted image 20230823101208.png",
     "00 AWS/000 Attachments/Pasted image 20230823100307.png",
     "00 AWS/000 Attachments/Pasted image 20230823100247.png",
@@ -210,7 +211,6 @@
     "00 AWS/015 VPC",
     "00 AWS/014 Security/05 WAF & Shield",
     "00 AWS/014 Security/03 SSM Parameter Store",
-    "00 AWS/014 Security/02 KMS",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
