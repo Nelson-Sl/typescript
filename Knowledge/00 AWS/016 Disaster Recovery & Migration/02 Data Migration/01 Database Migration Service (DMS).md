@@ -40,4 +40,23 @@
 ## AWS Schema Conversion Tool (SCT)
 ---
 
-* 
+* Convert your Database’s Schema **from one engine to another**
+	* E.g. 
+		* **OLTP**: (SQL Server or Oracle) to MySQL, PostgreSQL, Aurora
+		* **OLAP**: (Teradata or Oracle) to Amazon Redshift
+	* Prefer **compute-intensive instances** to optimize data conversions
+
+![[Pasted image 20230823190627.png]]
+
+## Continuous Replication (Using CDC)
+---
+
+![[Pasted image 20230823190746.png]]
+
+## Multi-AZ Deployment
+---
+
+* When Multi-AZ Enabled, DMS **provisions and maintains a synchronously stand replica in a different AZ**
+	* Advantages: Provides **Data Redundancy**, Eliminates **I/O freezes**, **Minimizes latency spikes**
+
+![[Pasted image 20230823190905.png]]
