@@ -16,9 +16,20 @@
 	* Each resources within the stack **is tagged with an identifier** so you can easily see how much a stack costs you. Also you can e**stimate the costs of your resources** using the CloudFormation template
 	* Savings strategy: In Dev, you **could automation deletion of templates at 5 PM and recreated at 8 AM**, safely
 
-* Productivity 
+* **Productivity** 
 	* Ability to **destroy and re-create an infrastructure** on the cloud on the fly
-	* Automated generation of Diagram for your templates! 
+	* **Automated generation of Diagram** for your templates -> [[01 CloudFormation#Cloudformation Stack Designer|Cloudformation Stack Designer]]
 	* **Declarative programming** (no need to figure out ordering and orchestration)
 
-* No need to re-invent the wheel • Leverage existing templates on the web! • Leverage the documentation
+* **No need to re-invent the wheel** 
+	* Leverage existing templates on the web & documentation
+
+* **Supports (almost) all AWS resources**
+	* Everything we’ll see in this course is supported  & you can use “**custom resources**” for resources that are not supported
+
+# Cloudformation Stack Designer
+---
+
+* Can **see all the resources** & **the relations between the components**
+
+![[Pasted image 20230824150957.png]]
