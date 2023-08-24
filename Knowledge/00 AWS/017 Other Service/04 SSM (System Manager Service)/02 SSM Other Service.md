@@ -4,7 +4,7 @@
 * **Execute a document** (= script) or **just run a command** across multiple instances (using resource groups)
 	* No need for SSH
 
-
+![[Pasted image 20230824191314.png]]
 
 ## Integration
 ---
@@ -13,3 +13,25 @@
 * **Send notifications to SNS about command status** (In progress, Success, Failed, …)
 * Integrated with **IAM** & **CloudTrail**
 * Can be invoked using **EventBridge**
+
+# Patch Manager
+---
+
+* Automates the process of **patching managed instances**
+	* OS updates, applications updates, security updates
+	* Patch **on-demand** or on a schedule using Maintenance Windows
+	* Can **scan instances** and **generate patch compliance report** (missing patches)
+
+![[Pasted image 20230824191926.png]]
+
+## Infrastructure Support
+---
+
+* Supports **EC2 instances** and **on-premises servers** 
+* Supports **Linux, macOS, and Windows**
+
+# Maintenance Windows
+---
+
+* **Defines a schedule** for when to perform actions on your instances
+	* E.g. **OS patching**, **Updating drivers**, **Installing software**, …
