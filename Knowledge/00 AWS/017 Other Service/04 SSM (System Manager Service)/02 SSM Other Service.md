@@ -35,3 +35,30 @@
 
 * **Defines a schedule** for when to perform actions on your instances
 	* E.g. **OS patching**, **Updating drivers**, **Installing software**, …
+
+![[Pasted image 20230824192400.png]]
+
+## Settings
+---
+
+* **Schedule**
+* **Duration** 
+* **Set of registered instances** 
+* **Set of registered tasks**
+
+# Automation
+---
+
+* Simplifies **common maintenance and deployment tasks of EC2 instances and other AWS resources**, which can be triggered using:
+	* Manually using **AWS Console, AWS CLI or SDK**
+	* Amazon **EventBridge**
+	* On a schedule using **Maintenance Windows**
+	* By **AWS Config** for rules remediations
+* Use Case Example: **Restart instances**, **Create an AMI, EBS snapshot**
+
+![[Pasted image 20230824192619.png]]
+
+## Automation Runbooks
+---
+
+* SSM Documents to **define actions preformed on your EC2 instances or AWS resources** (pre-defined or custom)
