@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/017 Other Service/01 CloudFormation.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/017 Other Service/01 CloudFormation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+                "file": "00 AWS/017 Other Service/01 CloudFormation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/Sum up/04 Architecture/01 Event Processing.md"
+                "file": "00 AWS/017 Other Service/01 CloudFormation.md"
               }
             }
           },
@@ -190,11 +190,13 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+    "00 AWS/017 Other Service/01 CloudFormation.md",
+    "00 AWS/017 Other Service",
     "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
     "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
     "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
     "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
-    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/000 Attachments/Pasted image 20230824090506.png",
     "00 AWS/000 Attachments/Pasted image 20230824090256.png",
     "00 AWS/000 Attachments/Pasted image 20230824090150.png",
@@ -234,7 +236,6 @@
     "00 AWS/015 VPC/06 Security",
     "00 AWS/015 VPC/05 Private Instance Connection",
     "00 AWS/015 VPC/02 VPC Interface",
-    "00 AWS/015 VPC",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
