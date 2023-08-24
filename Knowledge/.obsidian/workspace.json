@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
+                "file": "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
+                "file": "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
+                "file": "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md"
+                "file": "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
-    "00 AWS/017 Other Service/09 AWS Amplify.md",
     "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
+    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
+    "00 AWS/017 Other Service/09 AWS Amplify.md",
     "00 AWS/018 WhitePapers & Architectures",
     "00 AWS/017 Other Service/08 Amazon AppFlow.md",
     "00 AWS/017 Other Service/07 AWS Batch.md",
@@ -229,7 +230,6 @@
     "00 AWS/016 Disaster Recovery & Migration/04 AWS Backup.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/016 Disaster Recovery & Migration",
