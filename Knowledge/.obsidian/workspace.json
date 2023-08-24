@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/017 Other Service/08 Amazon AppFlow.md",
+                "file": "00 AWS/017 Other Service/03 AWS PinPoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/017 Other Service/08 Amazon AppFlow.md",
+                "file": "00 AWS/017 Other Service/03 AWS PinPoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/017 Other Service/08 Amazon AppFlow.md",
+                "file": "00 AWS/017 Other Service/03 AWS PinPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/017 Other Service/08 Amazon AppFlow.md"
+                "file": "00 AWS/017 Other Service/03 AWS PinPoint.md"
               }
             }
           },
@@ -190,8 +190,12 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
-    "00 AWS/017 Other Service/07 AWS Batch.md",
+    "00 AWS/017 Other Service/02 Amazon SES.md",
+    "00 AWS/017 Other Service/01 CloudFormation.md",
+    "00 AWS/017 Other Service/09 AWS Amplify.md",
+    "00 AWS/000 Attachments/Pasted image 20230824201026.png",
     "00 AWS/017 Other Service/08 Amazon AppFlow.md",
+    "00 AWS/017 Other Service/07 AWS Batch.md",
     "00 AWS/000 Attachments/Pasted image 20230824195323.png",
     "00 AWS/017 Other Service/06 Elastic TransCoder.md",
     "00 AWS/000 Attachments/Pasted image 20230824194610.png",
@@ -204,12 +208,9 @@
     "00 AWS/000 Attachments/Pasted image 20230824192619.png",
     "00 AWS/000 Attachments/Pasted image 20230824192400.png",
     "00 AWS/000 Attachments/Pasted image 20230824191926.png",
-    "00 AWS/000 Attachments/Pasted image 20230824191314.png",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
     "00 AWS/017 Other Service/03 AWS PinPoint.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
-    "00 AWS/017 Other Service/02 Amazon SES.md",
-    "00 AWS/017 Other Service/01 CloudFormation.md",
     "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/017 Other Service",
     "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
@@ -227,8 +228,6 @@
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/03 RDS & Aurora PostgreSQL Migration.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/02 RDS & Aurora MySQL Migration.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/016 Disaster Recovery & Migration",
