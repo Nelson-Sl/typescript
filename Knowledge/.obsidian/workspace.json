@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
+                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
+                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
+                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md"
+                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
+    "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
     "00 AWS/000 Attachments/Pasted image 20230824190205.png",
     "00 AWS/017 Other Service/03 AWS PinPoint.md",
-    "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/000 Attachments/Pasted image 20230824184918.png",
     "00 AWS/017 Other Service/02 Amazon SES.md",
@@ -211,7 +212,6 @@
     "00 AWS/000 Attachments/Pasted image 20230823220111.png",
     "00 AWS/000 Attachments/Pasted image 20230823215815.png",
     "00 AWS/000 Attachments/Pasted image 20230823215624.png",
-    "00 AWS/000 Attachments/Pasted image 20230823215510.png",
     "00 AWS/010 Serverless/04 API Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
