@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/017 Other Service/05 Cost Explorer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/017 Other Service/05 Cost Explorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/017 Other Service/05 Cost Explorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md"
+                "file": "00 AWS/017 Other Service/05 Cost Explorer.md"
               }
             }
           },
@@ -190,12 +190,17 @@
   },
   "active": "7bf0d3efbf0c0bc5",
   "lastOpenFiles": [
+    "00 AWS/000 Attachments/Pasted image 20230824194249.png",
+    "00 AWS/000 Attachments/Pasted image 20230824194143.png",
+    "00 AWS/000 Attachments/Pasted image 20230824193941.png",
+    "00 AWS/000 Attachments/Pasted image 20230824193923.png",
+    "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+    "00 AWS/017 Other Service/05 Cost Explorer.md",
     "00 AWS/000 Attachments/Pasted image 20230824192619.png",
     "00 AWS/000 Attachments/Pasted image 20230824192400.png",
     "00 AWS/000 Attachments/Pasted image 20230824191926.png",
     "00 AWS/000 Attachments/Pasted image 20230824191314.png",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
-    "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
     "00 AWS/000 Attachments/Pasted image 20230824190205.png",
     "00 AWS/017 Other Service/03 AWS PinPoint.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
@@ -209,10 +214,6 @@
     "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
     "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
     "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
-    "00 AWS/000 Attachments/Pasted image 20230824090506.png",
-    "00 AWS/000 Attachments/Pasted image 20230824090256.png",
-    "00 AWS/000 Attachments/Pasted image 20230824090150.png",
-    "00 AWS/000 Attachments/Pasted image 20230823221322.png",
     "00 AWS/010 Serverless/04 API Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
@@ -230,7 +231,6 @@
     "00 AWS/016 Disaster Recovery & Migration/01 Disaster Recovery.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
-    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
