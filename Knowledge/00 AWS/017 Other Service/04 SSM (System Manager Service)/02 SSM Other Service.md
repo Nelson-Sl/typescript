@@ -19,7 +19,7 @@
 
 * Automates the process of **patching managed instances**
 	* OS updates, applications updates, security updates
-	* Patch **on-demand** or on a schedule using Maintenance Windows
+	* Patch **on-demand** or on a schedule using [[02 SSM Other Service#Maintenance Windows|Maintenance Windows]]
 	* Can **scan instances** and **generate patch compliance report** (missing patches)
 
 ![[Pasted image 20230824191926.png]]
