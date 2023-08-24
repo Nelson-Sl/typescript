@@ -21,4 +21,4 @@
 	* Automated generation of Diagram for your templates! 
 	* **Declarative programming** (no need to figure out ordering and orchestration)
 
-* • Don’t re-invent the wheel • Leverage existing templates on the web! • Leverage the documentation
+* No need to re-invent the wheel • Leverage existing templates on the web! • Leverage the documentation
