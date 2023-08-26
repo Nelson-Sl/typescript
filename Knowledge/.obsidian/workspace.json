@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md"
+                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md"
               }
             }
           },
@@ -173,6 +173,17 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
+    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
+    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
+    "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
+    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+    "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
+    "00 AWS/Sum up/03 Choose the right Database.md",
+    "00 AWS/004 Storage/06 Comparison.md",
+    "00 AWS/Sum up/01 List of Ports.md",
+    "00 AWS/Sum up/Payment.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
@@ -180,7 +191,6 @@
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/Sum up/Payment.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
@@ -189,16 +199,6 @@
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
-    "00 AWS/011 Data Analytics/07 Lake Formation.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
-    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
-    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
-    "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
