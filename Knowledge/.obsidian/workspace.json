@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AWS Config",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md"
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md"
               }
             }
           },
@@ -173,6 +173,13 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
+    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
@@ -186,19 +193,12 @@
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
-    "00 AWS/003 EC2/03 Storage/04 EFS.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
-    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
-    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
