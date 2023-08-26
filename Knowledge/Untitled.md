@@ -19,3 +19,5 @@ CloudFront
 Cost of S3, EBS, EFS...
 Storage Gateway
 ASG Policy
+Route 53 Policies
+EFS Multi-Region
