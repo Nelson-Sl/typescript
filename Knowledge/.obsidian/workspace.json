@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AWS Config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md"
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+    "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
+    "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
+    "00 AWS/013 Monitoring/03 AWS Config/01 Overview.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
@@ -194,11 +199,6 @@
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
-    "00 AWS/014 Security/06 GuardDuty.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
-    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
-    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
