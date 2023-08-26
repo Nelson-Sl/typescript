@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s3 sync",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/01 Overview.md"
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
               }
             }
           },
@@ -172,20 +171,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86600b9a15b043cb",
+  "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/014 Security/08 AWS Macie.md",
+    "00 AWS/014 Security/06 GuardDuty.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
     "Untitled.md",
     "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
     "conflict-files-obsidian-git.md",
@@ -199,9 +200,7 @@
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service/02 Amazon SES.md",
     "00 AWS/017 Other Service/03 AWS PinPoint.md",
-    "00 AWS/017 Other Service/01 CloudFormation.md",
     "00 AWS/017 Other Service",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/016 Disaster Recovery & Migration",
