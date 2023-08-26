@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md"
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
+    "00 AWS/008 Messaging/05 Sum up/01 Useful Architectures.md",
+    "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
+    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
@@ -194,11 +199,6 @@
     "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
-    "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
-    "00 AWS/011 Data Analytics/06 Glue.md",
-    "00 AWS/003 EC2/03 Storage/04 EFS.md",
-    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
-    "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",

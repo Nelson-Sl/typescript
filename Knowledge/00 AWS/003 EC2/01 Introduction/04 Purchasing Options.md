@@ -1,4 +1,4 @@
-# Options
+	# Options
 
 ## EC2 On Demand
 ---
