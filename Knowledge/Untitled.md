@@ -8,3 +8,4 @@ DynamoDB
 Global Accelerator
 AWS Config
 ECS
+API Gateway & Gateway Endpoints
