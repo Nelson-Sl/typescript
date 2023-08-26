@@ -9,3 +9,5 @@ Global Accelerator
 AWS Config
 ECS
 API Gateway & Gateway Endpoints
+
+EC2 Storage Type
