@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/005 Route 53/08 Health Check.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/005 Route 53/08 Health Check.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/005 Route 53/08 Health Check.md"
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
               }
             }
           },
@@ -173,7 +173,10 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
+    "Untitled.md",
     "00 AWS/005 Route 53/07 Routing Policy.md",
+    "00 AWS/005 Route 53/08 Health Check.md",
     "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/02 Route 53 Overview.md",
@@ -196,9 +199,6 @@
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
