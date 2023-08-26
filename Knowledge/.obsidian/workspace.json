@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
+                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/011 Data Analytics/02 RedShift.md"
+                "file": "00 AWS/010 Serverless/02 Lambda/03 Edge Functions for Lambda.md"
               }
             }
           },
@@ -173,6 +173,12 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/02 Lambda/04 Lambdas with VPC.md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/010 Serverless/02 Lambda/01 Lambda Overview.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
+    "00 AWS/011 Data Analytics/02 RedShift.md",
     "00 AWS/015 VPC/11 Networking Cost Strategy.md",
     "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
     "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
@@ -193,12 +199,6 @@
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
     "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
-    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
-    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
-    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
