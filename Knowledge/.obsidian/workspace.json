@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md"
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
               }
             }
           },
@@ -173,6 +173,19 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/04 Replication.md",
+    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
@@ -182,23 +195,10 @@
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/014 Security/06 GuardDuty.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "Untitled.md",
-    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
-    "conflict-files-obsidian-git.md",
-    "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
-    "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
