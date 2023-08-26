@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
+                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
+    "00 AWS/014 Security/06 GuardDuty.md",
+    "00 AWS/014 Security/07 AWS Inspector.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
     "Untitled.md",
     "00 AWS/005 Route 53/07 Routing Policy.md",
@@ -194,11 +199,6 @@
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
