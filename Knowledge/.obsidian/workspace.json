@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/08 Other Optimization.md"
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
               }
             }
           },
@@ -173,32 +173,32 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
+    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
+    "Untitled.md",
+    "00 AWS/017 Other Service/09 AWS Amplify.md",
+    "00 AWS/017 Other Service/08 Amazon AppFlow.md",
+    "00 AWS/017 Other Service/07 AWS Batch.md",
+    "00 AWS/017 Other Service/06 Elastic TransCoder.md",
+    "00 AWS/017 Other Service/05 Cost Explorer.md",
+    "00 AWS/017 Other Service/03 AWS PinPoint.md",
+    "00 AWS/017 Other Service/01 CloudFormation.md",
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "Untitled.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
-    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
-    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/003 EC2/03 Storage/04 EFS.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/04 Transfer Large Dataset into AWS.md",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/01 On-Premises Strategy with AWS.md",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
-    "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
-    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
-    "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
-    "00 AWS/Sum up/03 Choose the right Database.md",
-    "00 AWS/004 Storage/06 Comparison.md",
-    "00 AWS/Sum up/01 List of Ports.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
