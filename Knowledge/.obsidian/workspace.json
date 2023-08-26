@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md"
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md"
               }
             }
           },
@@ -173,6 +173,11 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
+    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
+    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "00 AWS/008 Messaging/01 SQS/01 SQS.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
@@ -194,11 +199,6 @@
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
-    "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/02 RDS & Aurora MySQL Migration.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
-    "00 AWS/011 Data Analytics/01 Athena.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
