@@ -16,3 +16,6 @@ EMR price
 ALB Routing
 SQS FIFO Batch
 CloudFront
+Cost of S3, EBS, EFS...
+Storage Gateway
+ASG Policy
