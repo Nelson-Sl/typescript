@@ -6,7 +6,7 @@ An Elastic Load Balancer in Layer 4 (TCP/UDP), Which Supports:
 * Load balancing to multiple TCP/UDP Connections, where the target groups could be one of following:
 	* **EC2 instances**
 	* **Lambda functions**
-	* **IP Addresses** – must be private IPs
+	* **IP Addresses** – must be **private IPs**
 	* **Application Load Balancer** - Helpful for **whitelisting specific IPs**
 
 Hostname: **XXX.{{region}}.elb.amazonaws.com**
