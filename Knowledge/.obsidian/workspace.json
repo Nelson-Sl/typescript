@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md"
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md"
               }
             }
           },
@@ -173,16 +173,25 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/Sum up/Payment.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
     "00 AWS/011 Data Analytics/07 Lake Formation.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
@@ -190,15 +199,6 @@
     "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/06 GuardDuty.md",
-    "00 AWS/014 Security/07 AWS Inspector.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
-    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
-    "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
-    "Untitled.md",
-    "00 AWS/005 Route 53/07 Routing Policy.md",
-    "00 AWS/005 Route 53/08 Health Check.md",
-    "00 AWS/005 Route 53/06 Alias Record.md",
-    "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
