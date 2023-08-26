@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md"
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md"
               }
             }
           },
@@ -173,6 +173,14 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
+    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
+    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
+    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
+    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+    "00 AWS/011 Data Analytics/07 Lake Formation.md",
+    "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
@@ -191,14 +199,6 @@
     "00 AWS/005 Route 53/08 Health Check.md",
     "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/03 Record Type.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
-    "00 AWS/005 Route 53/04 Hosted Zones.md",
-    "00 AWS/005 Route 53/05 TTL (Time to Live).md",
-    "00 AWS/005 Route 53/01 DNS.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
-    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
-    "00 AWS/008 Messaging/05 Sum up/01 Useful Architectures.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
