@@ -1,1 +1,3 @@
 glue
+DocumentDB
+GuardDuty
