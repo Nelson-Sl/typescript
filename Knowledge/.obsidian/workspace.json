@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md"
+                "file": "00 AWS/004 Storage/04 S3/03 Versioning.md"
               }
             }
           },
@@ -173,6 +173,13 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/014 Security/04 ACM (AWS Certificate Manager).md",
     "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/014 Security/07 AWS Inspector.md",
@@ -192,13 +199,6 @@
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/008 Messaging/05 Sum up/01 Useful Architectures.md",
-    "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
-    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
-    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
-    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
