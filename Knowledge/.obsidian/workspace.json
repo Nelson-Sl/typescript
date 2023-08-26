@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "471d1f9953b7d508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -159,10 +171,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "79e6f484022f921e",
+  "active": "471d1f9953b7d508",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
     "00 AWS/017 Other Service/09 AWS Amplify.md",
@@ -191,7 +204,6 @@
     "00 AWS/Sum up/04 Architecture/04 Performing HPC.md",
     "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
     "00 AWS/Sum up/04 Architecture/03 Blocking IP Address.md",
-    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/Sum up/04 Architecture",
     "00 AWS/018 WhitePapers & Architectures",
     "00 AWS/015 VPC/08 Data Center Access",
