@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md"
+                "file": "00 AWS/009 Containers/02 ECS/02 ECS ASG.md"
               }
             }
           },
@@ -173,6 +173,14 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+    "00 AWS/008 Messaging/01 SQS/01 SQS.md",
+    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
+    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
@@ -191,14 +199,6 @@
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/02 RDS & Aurora MySQL Migration.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/011 Data Analytics/01 Athena.md",
-    "00 AWS/011 Data Analytics/06 Glue.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
