@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/010 Serverless/04 API Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/010 Serverless/04 API Gateway.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/010 Serverless/04 API Gateway.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "Untitled.md",
     "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
     "00 AWS/010 Serverless/06 Amazon Cognito.md",
     "00 AWS/015 VPC/05 Private Instance Connection/02 NAT Instance.md",
@@ -198,7 +199,6 @@
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
-    "00 AWS/015 VPC/05 Private Instance Connection/05 VPC Peering.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
