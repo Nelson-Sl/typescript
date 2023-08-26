@@ -21,3 +21,4 @@ Storage Gateway
 ASG Policy
 Route 53 Policies
 EFS Multi-Region
+S3 Files Retention
