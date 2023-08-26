@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
+                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md"
               }
             }
           },
@@ -173,6 +173,13 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
+    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
+    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
@@ -192,14 +199,7 @@
     "conflict-files-obsidian-git.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)/01 SSM Session Manager.md",
-    "00 AWS/017 Other Service/09 AWS Amplify.md",
-    "00 AWS/017 Other Service/08 Amazon AppFlow.md",
-    "00 AWS/017 Other Service/07 AWS Batch.md",
-    "00 AWS/017 Other Service/06 Elastic TransCoder.md",
-    "00 AWS/017 Other Service/05 Cost Explorer.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
-    "00 AWS/017 Other Service/02 Amazon SES.md",
-    "00 AWS/017 Other Service/03 AWS PinPoint.md",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",

@@ -1,4 +1,4 @@
-	# What is EC2
+# What is EC2
 ---
 EC2 stands for **Elastic Computing Cloud**. It's a popular AWS offering that provides Infrastructure as a Service (IaaS) or virtual machines. It includes the capability of: 
 
