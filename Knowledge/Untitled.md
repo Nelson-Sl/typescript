@@ -23,7 +23,7 @@ Route 53 Policies
 EFS Multi-Region
 S3 Files Retention
 
-RDS Encryption / Read Replica fees
+RDS Encryption / Read Replica fees / Auto-Scaling
 SSM Parameter Store / Secret Manager
 EFS Performance Mode
 Public / Private Hosted Zones
@@ -33,3 +33,5 @@ Kinesis Agent
 KMS Multi-Region Key
 SQS FIFO vs Kinesis Data Stream
 ServiceControl Policy (SCP)
+NACL & Security Group
+Resource
