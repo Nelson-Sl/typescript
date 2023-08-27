@@ -44,3 +44,4 @@ Spot Instance
 DynamoDB Recovery
 ASG Scaling Policy
 EC2 Instance Tenancy
+Security Group Inbound Rule
