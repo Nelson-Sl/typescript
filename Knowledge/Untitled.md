@@ -43,5 +43,6 @@ ELB Features
 Spot Instance
 DynamoDB Recovery
 ASG Scaling Policy
-EC2 Instance Tenancy
+EC2 Instance Tenancy / Cross-Zone Load Balancing
 Security Group Inbound Rule
+AD service
