@@ -36,3 +36,5 @@ ServiceControl Policy (SCP)
 NACL & Security Group
 Resource Access Manager / aws organization
 S3 Security
+
+AMI
