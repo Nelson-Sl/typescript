@@ -41,3 +41,4 @@ AMI
 SQS Long Polling / Other Features
 ELB Features
 Spot Instance
+DynamoDB Recovery
