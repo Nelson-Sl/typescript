@@ -48,3 +48,6 @@ Security Group Inbound Rule
 AD service
 Organization SCPs
 Kinesis Data Streams (Decoupled?)
+Transfer Family / DataSync
+Aurora Serverless
+Origin Access Identity (OAI)
