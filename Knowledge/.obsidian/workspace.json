@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinesis",
+                "query": "resource access manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md"
+                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,9 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+    "Untitled.md",
+    "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
@@ -213,9 +216,6 @@
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
-    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
