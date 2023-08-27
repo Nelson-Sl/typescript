@@ -27,3 +27,6 @@ RDS Encryption / Read Replica fees
 SSM Parameter Store / Secret Manager
 EFS Performance Mode
 Public / Private Hosted Zones
+Aurora DB Cluster
+EC2 Instance Hibernate
+Kinesis Agent
