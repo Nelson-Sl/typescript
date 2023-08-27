@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
+                "file": "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
+                "file": "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/005 Route 53/04 Hosted Zones.md"
+                "file": "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
+                "file": "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,10 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
+    "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
     "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
     "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
@@ -212,10 +216,6 @@
     "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
     "00 AWS/010 Serverless/06 Amazon Cognito.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
