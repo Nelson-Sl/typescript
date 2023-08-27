@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,10 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+    "Untitled.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
-    "Untitled.md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
@@ -215,7 +216,6 @@
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/002 IAM/003 Security with Password & MFA.md",
     "00 AWS/002 IAM/002 Policies.md",
-    "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
