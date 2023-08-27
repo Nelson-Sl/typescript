@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md"
+                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +190,20 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
+    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+    "00 AWS/010 Serverless/01 Serverless Overview.md",
+    "00 AWS/010 Serverless/04 API Gateway.md",
+    "00 AWS/010 Serverless/05 Step Functions.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/002 IAM/Advanced/06 Directory Service.md",
     "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/007 Global Network/02 Global Accelerator/01 Overview.md",
-    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
@@ -209,13 +216,6 @@
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
-    "00 AWS/003 EC2/03 Storage/02 AMI.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
-    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "Untitled.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
