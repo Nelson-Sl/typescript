@@ -42,3 +42,5 @@ SQS Long Polling / Other Features
 ELB Features
 Spot Instance
 DynamoDB Recovery
+ASG Scaling Policy
+EC2 Instance Tenancy
