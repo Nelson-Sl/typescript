@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md"
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,8 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
@@ -214,8 +216,6 @@
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
