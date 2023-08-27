@@ -24,3 +24,6 @@ EFS Multi-Region
 S3 Files Retention
 
 RDS Encryption / Read Replica fees
+SSM Parameter Store / Secret Manager
+EFS Performance Mode
+Public / Private Hosted Zones
