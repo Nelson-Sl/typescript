@@ -32,3 +32,4 @@ EC2 Instance Hibernate
 Kinesis Agent
 KMS Multi-Region Key
 SQS FIFO vs Kinesis Data Stream
+ServiceControl Policy (SCP)
