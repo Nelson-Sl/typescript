@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
+                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md"
               }
             }
           },
@@ -151,6 +151,23 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "6c0a661bc0fb386d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -173,6 +190,7 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
@@ -191,7 +209,6 @@
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
