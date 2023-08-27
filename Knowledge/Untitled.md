@@ -47,7 +47,7 @@ EC2 Instance Tenancy / Cross-Zone Load Balancing
 Security Group Inbound Rule
 AD service
 Organization SCPs
-Kinesis Data Streams (Decoupled?)
+Kinesis Data Streams (Decoupled?) DONE
 Transfer Family / DataSync
 Aurora Serverless
 Origin Access Identity (OAI)
