@@ -34,4 +34,5 @@ KMS Multi-Region Key
 SQS FIFO vs Kinesis Data Stream
 ServiceControl Policy (SCP)
 NACL & Security Group
-Resource
+Resource Access Manager / aws organization
+S3 Security
