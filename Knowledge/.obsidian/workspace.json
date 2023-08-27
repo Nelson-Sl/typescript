@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "health check",
+                "query": "kinesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md"
+                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/06 Amazon Cognito.md",
+                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,18 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/008 Messaging/05 Sum up/02 Kinesis Data Streams vs Kinesis Firehose.md",
+    "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+    "00 AWS/011 Data Analytics/08 Kinesis Data Analytics.md",
+    "00 AWS/010 Serverless/06 Amazon Cognito.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
@@ -204,18 +216,6 @@
     "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
-    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
-    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
-    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
-    "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
