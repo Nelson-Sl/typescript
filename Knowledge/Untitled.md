@@ -38,3 +38,4 @@ Resource Access Manager / aws organization
 S3 Security
 
 AMI
+SQS Long Polling
