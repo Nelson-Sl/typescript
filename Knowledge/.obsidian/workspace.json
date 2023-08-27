@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md"
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,19 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/04 NAT Instance vs NAT Gateway.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/03 NAT Gateway.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/02 NAT Instance.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
+    "00 AWS/015 VPC/02 VPC Interface/02 VPC.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
     "00 AWS/008 Messaging/05 Sum up/02 Kinesis Data Streams vs Kinesis Firehose.md",
     "00 AWS/008 Messaging/05 Sum up/SQS vs SNS vs Kinesis.md",
@@ -206,16 +216,6 @@
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
-    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
