@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
@@ -211,7 +212,6 @@
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/04 Replication.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/015 VPC/05 Private Instance Connection/06 VPC Endpoints.md",
