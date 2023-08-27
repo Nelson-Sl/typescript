@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/005 Route 53/06 Alias Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/005 Route 53/06 Alias Record.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md"
+                "file": "00 AWS/005 Route 53/06 Alias Record.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
+                "file": "00 AWS/005 Route 53/06 Alias Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,11 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
+    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
+    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
     "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
@@ -211,11 +216,6 @@
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
-    "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
-    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
