@@ -47,3 +47,4 @@ EC2 Instance Tenancy / Cross-Zone Load Balancing
 Security Group Inbound Rule
 AD service
 Organization SCPs
+Kinesis Data Streams (Decoupled?)
