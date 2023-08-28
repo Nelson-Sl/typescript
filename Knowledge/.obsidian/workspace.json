@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md"
+                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,13 +202,15 @@
   },
   "active": "1d7bbcf1ea383e9d",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "Untitled.md",
     "Point.md",
+    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/005 Route 53/08 Health Check.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
@@ -226,8 +228,6 @@
     "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
-    "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
-    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",

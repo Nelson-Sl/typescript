@@ -3,6 +3,8 @@
 
 * Will backup the database **once a day** and **transaction logs** every 5 minutes, can be **restored to any point of time**
 * Have retention days of **1-35 days**, **can be disbled** by setting it to 0
+* Can be **cross-region**
+
 # Manual DB Snapshot
 ---
 
