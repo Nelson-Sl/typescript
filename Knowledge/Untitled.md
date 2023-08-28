@@ -74,11 +74,13 @@ S3 Website allowed name
 Aurora Read / Write Cluster
 AWS Stroage Gateway
 AWS File Gateway
-ALB Health Check
+ALB Health Check / NLB
 EBS Volume Availability / Encryption
 Amazon Transcribe / Alexa
 Bastion Host
 Cross-Zone Load Balancing in Load Balancer
 RedShift (Spectrum)
 KMS CMKs
+SNI in which load balancer
+Failover Policy 
 
