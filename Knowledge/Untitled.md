@@ -58,10 +58,10 @@ DynamoDb Capacity mode / Streams -> Done
 SSM Parameter Store
 IAM Resource Policy -> Done
 Trusted Advisor
-Kinesis Data Stream Output
+Kinesis Data Stream Output -> Done
 SNI
 Elastic Beanstalk
-Amazon MQ
+Amazon MQ -> Done
 RDS Read Replica Multi-Region
 ECS / EKS
 SnowFamily (Data Clustering)

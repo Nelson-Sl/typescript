@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md"
+                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md"
               }
             }
           },
@@ -273,9 +273,12 @@
   },
   "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
     "00 AWS/011 Data Analytics/01 Athena.md",
-    "Untitled.md",
     "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
     "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
@@ -296,9 +299,6 @@
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
-    "00 AWS/002 IAM/Advanced/06 Directory Service.md",
-    "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
-    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
