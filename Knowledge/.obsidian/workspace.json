@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -273,7 +273,18 @@
   },
   "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
+    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "Untitled.md",
+    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
+    "00 AWS/004 Storage/04 S3/03 Versioning.md",
+    "00 AWS/004 Storage/04 S3/01 Overview.md",
+    "00 AWS/004 Storage/04 S3/04 Replication.md",
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
     "00 AWS/008 Messaging/04 Amazon MQ/01 Overview.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
@@ -288,17 +299,6 @@
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
-    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "02 Networking/02 DNS Server.md",
-    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
-    "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",

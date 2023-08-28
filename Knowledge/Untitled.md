@@ -52,10 +52,10 @@ Transfer Family / DataSync
 Aurora Serverless
 Origin Access Identity (OAI)
 
-s3 Object Lock & Glacier Vault Lock
+s3 Object Lock & Glacier Vault Lock -> Done
 CloudFront Security
 DynamoDb Capacity mode / Streams -> Done
-SSM Parameter Store
+SSM Parameter Store -> Done
 IAM Resource Policy -> Done
 Trusted Advisor
 Kinesis Data Stream Output -> Done
