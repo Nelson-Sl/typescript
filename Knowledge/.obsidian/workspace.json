@@ -96,7 +96,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cd9342a3f2af317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Point.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+                "file": "Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
+                "file": "Point.md"
               }
             }
           },
@@ -259,11 +271,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "686f9b87da472c16",
+  "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Point.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
-    "Untitled.md",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
@@ -285,8 +299,6 @@
     "00 AWS/002 IAM/005 Security Tools.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/002 IAM/003 Security with Password & MFA.md",
-    "00 AWS/002 IAM/002 Policies.md",
-    "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
