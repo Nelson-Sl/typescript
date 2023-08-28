@@ -54,9 +54,9 @@ Origin Access Identity (OAI)
 
 s3 Object Lock & Glacier Vault Lock
 CloudFront Security
-DynamoDb Capacity mode
+DynamoDb Capacity mode / Streams
 SSM Parameter Store
-IAM Resource Policy
+IAM Resource Policy -> Done
 Trusted Advisor
 Kinesis Data Stream Output
 SNI
@@ -66,4 +66,3 @@ RDS Read Replica Multi-Region
 ECS / EKS
 SnowFamily (Data Clustering)
 ElasticCache Multi-AZ
-DynamoDB Streams
