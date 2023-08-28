@@ -71,7 +71,7 @@ ElasticCache Multi-AZ -> Not Found, Remember
 
 S3 Glacier Vault Lock / Versioning / Encryption
 S3 Website allowed name
-Aurora Read / Write Cluster / Cloning
+Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway
 AWS File Gateway
 ALB Health Check / NLB
