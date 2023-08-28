@@ -31,6 +31,78 @@
             }
           },
           {
+            "id": "f26b6f8a65b5d0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f4b93de21d6a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fcf0438f52d94da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2300ca97b57c49d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c5a6910d385e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "686f9b87da472c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ddf2d4d42a65808",
             "type": "leaf",
             "state": {
@@ -43,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -117,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +228,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -183,8 +259,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7bf0d3efbf0c0bc5",
+  "active": "686f9b87da472c16",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "00 AWS/Sum up/Payment.md",
+    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
+    "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
     "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
@@ -221,15 +302,11 @@
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/Sum up/04 Architecture",
-    "00 AWS/Sum up/未命名.md",
-    "00 AWS/016 Disaster Recovery & Migration/04 AWS Backup.md",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/03 VMWare Cloud on AWS.md",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
     "00 AWS/016 Disaster Recovery & Migration",
     "00 AWS/015 VPC/08 Data Center Access",
     "00 AWS/015 VPC/07 Monitoring & Logging",
-    "00 AWS/015 VPC/06 Security",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
