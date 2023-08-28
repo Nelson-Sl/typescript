@@ -70,7 +70,7 @@ SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
 
 S3 Glacier Vault Lock / Versioning / Encryption
-S3 Website allowed name
+S3 Website allowed name -> Not Found, Remember
 Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway & File Gateway -> Done
 ALB Health Check / NLB -> Done. Route 53 should be better choice

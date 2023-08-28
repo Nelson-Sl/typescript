@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,10 +202,15 @@
   },
   "active": "1d7bbcf1ea383e9d",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
+    "Untitled.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
-    "Untitled.md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
     "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
     "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
@@ -223,11 +228,6 @@
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "Point.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
