@@ -1,6 +1,8 @@
 # Overview of Amazon EventBridge Rules
 ---
 
+* Support **SaaS apps as source** as well
+
 ![[Pasted image 20230819205718.png]]
 
 # Use Cases
