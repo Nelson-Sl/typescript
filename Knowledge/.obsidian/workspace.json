@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md"
               }
             }
           },
@@ -273,32 +273,32 @@
   },
   "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 AWS/009 Containers/04 Elastic Kubernetes Service (EKS).md",
+    "00 AWS/009 Containers/03 ECR (Elastic Container Registry).md",
+    "00 AWS/009 Containers/01 Docker Overview.md",
+    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
+    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+    "02 Networking/02 DNS Server.md",
+    "02 Networking/01 How Network works.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "Untitled.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
-    "00 AWS/005 Route 53/01 DNS.md",
-    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
-    "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
-    "00 AWS/004 Storage/04 S3/03 Versioning.md",
-    "00 AWS/004 Storage/04 S3/01 Overview.md",
-    "00 AWS/004 Storage/04 S3/04 Replication.md",
-    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",

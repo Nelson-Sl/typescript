@@ -62,7 +62,7 @@ Kinesis Data Stream Output -> Done
 SNI -> Done
 Elastic Beanstalk
 Amazon MQ -> Done
-RDS Read Replica Multi-Region
-ECS / EKS
+RDS Read Replica Multi-Region -> Done, Only Multi-AZ
+ECS / EKS -> Done
 SnowFamily (Data Clustering)
 ElasticCache Multi-AZ
