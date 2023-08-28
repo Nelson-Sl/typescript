@@ -83,4 +83,4 @@ RedShift (Spectrum)
 KMS CMKs
 SNI in which load balancer
 Failover Policy 
-
+WAF
