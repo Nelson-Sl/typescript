@@ -80,7 +80,7 @@ Amazon Transcribe / Alexa
 Bastion Host
 Cross-Zone Load Balancing in Load Balancer
 RedShift (Spectrum)
-KMS CMKs
+KMS CMKs -> Done
 SNI in which load balancer
 Failover Policy 
 WAF

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md"
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+                "file": "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,19 @@
   },
   "active": "1d7bbcf1ea383e9d",
   "lastOpenFiles": [
+    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "Untitled.md",
+    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
+    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
+    "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
+    "00 AWS/010 Serverless/03 DynamoDB/05 Time to Live (TTL).md",
+    "00 AWS/010 Serverless/03 DynamoDB/04 DynamoDB Global Table.md",
+    "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
+    "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
+    "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
+    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
+    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "Point.md",
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
@@ -216,18 +228,6 @@
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
-    "conflict-files-obsidian-git.md",
-    "未命名.md",
-    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
-    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
-    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
-    "00 AWS/005 Route 53/06 Alias Record.md",
-    "00 AWS/005 Route 53/03 Record Type.md",
-    "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",

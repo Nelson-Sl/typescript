@@ -37,7 +37,7 @@
 ---
 
 * AWS Owned Keys (free)
-	* **SSE-S3, SSE-SQS, SSE-DDB** (default key)
+	* **SSE-S3, SSE-SQS, SSE-DDB** (default key) -> DynamoDB
 * AWS Managed Key
 	* free (**aws/service-name**, example: aws/rds or aws/ebs)
 	* **Automatically rotated in 1 year**
