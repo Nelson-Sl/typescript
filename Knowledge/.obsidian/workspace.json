@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md"
               }
             }
           },
@@ -273,9 +273,11 @@
   },
   "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
+    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
+    "00 AWS/011 Data Analytics/01 Athena.md",
+    "Untitled.md",
     "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
     "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
-    "Untitled.md",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
     "Point.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
@@ -297,8 +299,6 @@
     "00 AWS/002 IAM/Advanced/06 Directory Service.md",
     "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
     "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
-    "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",

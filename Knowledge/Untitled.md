@@ -53,7 +53,8 @@ Aurora Serverless
 Origin Access Identity (OAI)
 
 s3 Object Lock & Glacier Vault Lock
-CloudFront SecurityDynamoDb Capacity mode / Streams -》 
+CloudFront Security
+DynamoDb Capacity mode / Streams -> Done
 SSM Parameter Store
 IAM Resource Policy -> Done
 Trusted Advisor
