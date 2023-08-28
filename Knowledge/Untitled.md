@@ -52,10 +52,8 @@ Transfer Family / DataSync
 Aurora Serverless
 Origin Access Identity (OAI)
 
-<<<<<<< HEAD
 
-S3 Versioning
-=======
+
 s3 Object Lock & Glacier Vault Lock -> Done
 CloudFront Security (Remember, Not Found)
 DynamoDb Capacity mode / Streams -> Done
@@ -70,4 +68,9 @@ RDS Read Replica Multi-Region -> Done, Only Multi-AZ
 ECS / EKS -> Done
 SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
->>>>>>> origin/master
+
+S3 Glacier Vault Lock / Versioning
+AWS Stroage Gateway
+ALB Health Check
+EBS Volume Availability
+
