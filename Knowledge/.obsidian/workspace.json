@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +190,13 @@
   },
   "active": "471d1f9953b7d508",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/005 Route 53/06 Alias Record.md",
     "00 AWS/005 Route 53/03 Record Type.md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
-    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
     "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",

@@ -51,3 +51,7 @@ Kinesis Data Streams (Decoupled?) DONE
 Transfer Family / DataSync
 Aurora Serverless
 Origin Access Identity (OAI)
+
+S3 Glacier Vault Lock
+ALB Health Check
+S3 Versioning
