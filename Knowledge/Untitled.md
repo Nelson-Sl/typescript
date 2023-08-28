@@ -69,12 +69,13 @@ ECS / EKS -> Done
 SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
 
-S3 Glacier Vault Lock / Versioning
+S3 Glacier Vault Lock / Versioning / Encryption
+S3 Website allowed name
 Aurora Read / Write Cluster
 AWS Stroage Gateway
 AWS File Gateway
 ALB Health Check
-EBS Volume Availability
+EBS Volume Availability / Encryption
 Amazon Transcribe / Alexa
 Bastion Host
 Cross-Zone Load Balancing in Load Balancer
