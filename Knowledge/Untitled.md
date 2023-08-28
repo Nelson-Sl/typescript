@@ -76,4 +76,6 @@ AWS File Gateway
 ALB Health Check
 EBS Volume Availability
 Amazon Transcribe / Alexa
+Bastion Host
+Cross-Zone Load Balancing in Load Balancer
 
