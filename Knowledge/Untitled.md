@@ -78,4 +78,6 @@ EBS Volume Availability
 Amazon Transcribe / Alexa
 Bastion Host
 Cross-Zone Load Balancing in Load Balancer
+RedShift (Spectrum)
+KMS CMKs
 
