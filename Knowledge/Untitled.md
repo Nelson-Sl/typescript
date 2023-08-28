@@ -62,3 +62,5 @@ Kinesis Data Stream Output
 SNI
 Elastic Beanstalk
 Amazon MQ
+RDS Read Replica Multi-Region
+ECS / EKS
