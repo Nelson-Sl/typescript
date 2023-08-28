@@ -64,5 +64,5 @@ Elastic Beanstalk
 Amazon MQ -> Done
 RDS Read Replica Multi-Region -> Done, Only Multi-AZ
 ECS / EKS -> Done
-SnowFamily (Data Clustering)
-ElasticCache Multi-AZ
+SnowFamily (Data Clustering) -> Done
+ElasticCache Multi-AZ -> Not Found, Remember
