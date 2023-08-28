@@ -53,13 +53,13 @@ Aurora Serverless
 Origin Access Identity (OAI)
 
 s3 Object Lock & Glacier Vault Lock -> Done
-CloudFront Security
+CloudFront Security (Remember, Not Found)
 DynamoDb Capacity mode / Streams -> Done
 SSM Parameter Store -> Done
 IAM Resource Policy -> Done
 Trusted Advisor
 Kinesis Data Stream Output -> Done
-SNI
+SNI -> Done
 Elastic Beanstalk
 Amazon MQ -> Done
 RDS Read Replica Multi-Region
