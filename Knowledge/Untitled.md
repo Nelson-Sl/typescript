@@ -74,7 +74,7 @@ S3 Website allowed name
 Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway
 AWS File Gateway
-ALB Health Check / NLB
+ALB Health Check / NLB -> Done. Route 53 should be better choice
 EBS Volume Availability / Encryption
 Amazon Transcribe / Alexa
 Bastion Host

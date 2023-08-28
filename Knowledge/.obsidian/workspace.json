@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,10 +202,22 @@
   },
   "active": "1d7bbcf1ea383e9d",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
-    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
+    "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
+    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "Untitled.md",
     "Point.md",
+    "00 AWS/005 Route 53/08 Health Check.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-2 Network Load Balancer.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "conflict-files-obsidian-git.md",
     "未命名.md",
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
@@ -216,18 +228,6 @@
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/003 EC2/01 Introduction/03 Security Groups.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
-    "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
-    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
-    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
-    "00 AWS/010 Serverless/01 Serverless Overview.md",
-    "00 AWS/010 Serverless/04 API Gateway.md",
-    "00 AWS/010 Serverless/05 Step Functions.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02-3 Gateway Load Balancer (GWLB).md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "00 AWS/002 IAM/Advanced/06 Directory Service.md",
-    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
