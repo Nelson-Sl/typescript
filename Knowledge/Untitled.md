@@ -66,3 +66,4 @@ RDS Read Replica Multi-Region
 ECS / EKS
 SnowFamily (Data Clustering)
 ElasticCache Multi-AZ
+DynamoDB Streams
