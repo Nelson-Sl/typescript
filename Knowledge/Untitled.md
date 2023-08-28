@@ -70,7 +70,10 @@ SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
 
 S3 Glacier Vault Lock / Versioning
+Aurora Read / Write Cluster
 AWS Stroage Gateway
+AWS File Gateway
 ALB Health Check
 EBS Volume Availability
+Amazon Transcribe / Alexa
 
