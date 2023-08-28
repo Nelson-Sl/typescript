@@ -1,4 +1,4 @@
-``# What's Elastic Beanstalk
+# What's Elastic Beanstalk
 ---
 
 * Elastic Beanstalk is **a developer centric view of deploying an application on AWS**

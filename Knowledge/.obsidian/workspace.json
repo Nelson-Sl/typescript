@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Point.md"
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md"
               }
             }
           },
@@ -273,8 +273,11 @@
   },
   "active": "7cd9342a3f2af317",
   "lastOpenFiles": [
-    "02 Networking/02 DNS Server.md",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
+    "Point.md",
+    "02 Networking/02 DNS Server.md",
     "Untitled.md",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
@@ -296,9 +299,6 @@
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
