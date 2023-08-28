@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md"
+                "file": "00 AWS/003 EC2/03 Storage/02 AMI.md"
               }
             }
           },
@@ -261,12 +261,15 @@
   },
   "active": "686f9b87da472c16",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
+    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
-    "Untitled.md",
     "02 Networking/02 DNS Server.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
@@ -284,10 +287,7 @@
     "00 AWS/002 IAM/001 Introduction.md",
     "conflict-files-obsidian-git.md",
     "00 AWS/Sum up/Payment.md",
-    "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
-    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
-    "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
     "00 AWS/000 Attachments/Pasted image 20230824201026.png",
