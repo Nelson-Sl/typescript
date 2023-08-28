@@ -108,7 +108,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f1aaf165bfe9fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -271,14 +283,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7cd9342a3f2af317",
+  "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "未命名.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "Point.md",
     "02 Networking/02 DNS Server.md",
-    "Untitled.md",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/009 Containers/04 Elastic Kubernetes Service (EKS).md",
@@ -297,8 +311,6 @@
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
