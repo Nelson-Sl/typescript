@@ -72,8 +72,7 @@ ElasticCache Multi-AZ -> Not Found, Remember
 S3 Glacier Vault Lock / Versioning / Encryption
 S3 Website allowed name
 Aurora Read / Write Cluster / Cloning -> Done
-AWS Stroage Gateway
-AWS File Gateway
+AWS Stroage Gateway & File Gateway -> Done
 ALB Health Check / NLB -> Done. Route 53 should be better choice
 EBS Volume Availability / Encryption
 Amazon Transcribe / Alexa
@@ -84,3 +83,4 @@ KMS CMKs -> Done
 SNI in which load balancer
 Failover Policy 
 WAF
+CloudWatch Agent -> Done
