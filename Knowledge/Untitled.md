@@ -77,7 +77,7 @@ ALB Health Check / NLB -> Done. Route 53 should be better choice
 EBS Volume Availability / Encryption
 Amazon Transcribe / Alexa
 Bastion Host
-Cross-Zone Load Balancing in Load Balancer
+Cross-Zone Load Balancing in Load Balancer -> Done
 RedShift (Spectrum)
 KMS CMKs -> Done
 SNI in which load balancer
