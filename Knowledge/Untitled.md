@@ -75,10 +75,10 @@ Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway & File Gateway -> Done
 ALB Health Check / NLB -> Done. Route 53 should be better choice
 EBS Volume Availability / Encryption -> Done
-Amazon Transcribe / Alexa
+Amazon Transcribe / Alexa -> Done
 Bastion Host
 Cross-Zone Load Balancing in Load Balancer -> Done
-RedShift (Spectrum)
+RedShift (Spectrum) -> Done
 KMS CMKs -> Done
 SNI in which load balancer
 Route 53 Failover Policy -> Not Mentioned, Remember
