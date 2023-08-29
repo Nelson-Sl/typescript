@@ -81,6 +81,6 @@ Cross-Zone Load Balancing in Load Balancer -> Done
 RedShift (Spectrum)
 KMS CMKs -> Done
 SNI in which load balancer
-Failover Policy 
+Route 53 Failover Policy 
 WAF
 CloudWatch Agent -> Done
