@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/01 WAF.md"
+                "file": "00 AWS/003 EC2/03 Storage/01 EBS Volume.md"
               }
             }
           },
@@ -275,6 +275,10 @@
   "lastOpenFiles": [
     "Untitled.md",
     "未命名.md",
+    "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
+    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
@@ -286,10 +290,8 @@
     "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "02 Networking/02 DNS Server.md",
-    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02-1 Application Load Balancer.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
     "00 AWS/005 Route 53/07 Routing Policy.md",
@@ -297,8 +299,6 @@
     "00 AWS/005 Route 53/05 TTL (Time to Live).md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/005 Route 53/03 Record Type.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
-    "00 AWS/005 Route 53/01 DNS.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
