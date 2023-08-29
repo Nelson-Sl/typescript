@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "900bef3ddd011346",
+        "id": "f56b59f5ea6a9a64",
         "type": "tabs",
         "children": [
           {
-            "id": "da49fe99259e6bd4",
+            "id": "90b30e63a9b5218d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/008 Messaging/01 AWS Messaging Overview.md",
+                "file": "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration/02 AWS Application Migration Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63900d9c56bee44a",
+            "id": "7bf0d3efbf0c0bc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Knowledge/.obsidian/workspace.json",
+                "staged": false
               }
             }
           },
           {
-            "id": "471d1f9953b7d508",
+            "id": "f26b6f8a65b5d0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +43,91 @@
             }
           },
           {
-            "id": "1d7bbcf1ea383e9d",
+            "id": "12f4b93de21d6a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fcf0438f52d94da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2300ca97b57c49d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c5a6910d385e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cd9342a3f2af317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f1aaf165bfe9fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ddf2d4d42a65808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TARGET BASED",
+                "query": "sni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,13 +196,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7eae9f9dbc486fcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "2fd2b836e290cb62",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Untitled.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -164,81 +252,56 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "6c0a661bc0fb386d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "1d7bbcf1ea383e9d",
+  "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
-    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
-    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
+    "未命名.md",
+    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
     "Untitled.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
-    "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
-    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
-    "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
-    "00 AWS/010 Serverless/03 DynamoDB/05 Time to Live (TTL).md",
-    "00 AWS/010 Serverless/03 DynamoDB/04 DynamoDB Global Table.md",
-    "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
-    "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
-    "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
-    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
-    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
+    "00 AWS/003 EC2/03 Storage/02 AMI.md",
+    "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
+    "00 AWS/006 Developer Tools/01 Elastic Beanstalk.md",
     "Point.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+    "02 Networking/02 DNS Server.md",
+    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
+    "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
+    "00 AWS/009 Containers/04 Elastic Kubernetes Service (EKS).md",
+    "00 AWS/009 Containers/03 ECR (Elastic Container Registry).md",
+    "00 AWS/009 Containers/01 Docker Overview.md",
+    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
+    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+    "02 Networking/01 How Network works.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
+    "00 AWS/004 Storage/02 Aurora/02 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/06 RDS Proxy.md",
-    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
-    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
     "00 AWS/004 Storage/01 RDS/05 Security (RDS & Aurora).md",
-    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
-    "00 AWS/017 Other Service/04 SSM (System Manager Service)",
-    "00 AWS/017 Other Service",
-    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
-    "00 AWS/016 Disaster Recovery & Migration",
-    "00 AWS/Sum up/04 Architecture",
-    "00 AWS/018 WhitePapers & Architectures",
-    "00 AWS/015 VPC/08 Data Center Access",
-    "00 AWS/015 VPC/06 Security",
-    "00 AWS/015 VPC/07 Monitoring & Logging",
+    "00 AWS/004 Storage/01 RDS/04 Backup & Recovery Strategy.md",
+    "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
+    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
+    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
+    "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
+    "00 AWS/018 WhitePapers & Architectures",
     "00 AWS/000 Attachments/Pasted image 20230824201026.png",
     "00 AWS/000 Attachments/Pasted image 20230824195323.png",
     "00 AWS/000 Attachments/Pasted image 20230824194610.png",
@@ -248,6 +311,14 @@
     "00 AWS/000 Attachments/Pasted image 20230824193923.png",
     "00 AWS/000 Attachments/Pasted image 20230824192619.png",
     "00 AWS/000 Attachments/Pasted image 20230824192400.png",
+    "00 AWS/017 Other Service/04 SSM (System Manager Service)",
+    "00 AWS/017 Other Service",
+    "00 AWS/Sum up/04 Architecture",
+    "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration",
+    "00 AWS/016 Disaster Recovery & Migration",
+    "00 AWS/015 VPC/08 Data Center Access",
+    "00 AWS/015 VPC/07 Monitoring & Logging",
     "未命名.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
