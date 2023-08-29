@@ -80,7 +80,7 @@ Bastion Host
 Cross-Zone Load Balancing in Load Balancer -> Done
 RedShift (Spectrum) -> Done
 KMS CMKs -> Done
-SNI in which load balancer
+SNI in which load balancer -> Not relevant
 Route 53 Failover Policy -> Not Mentioned, Remember
 WAF -> Done
 CloudWatch Agent -> Done
