@@ -69,7 +69,7 @@ ECS / EKS -> Done
 SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
 
-S3 Glacier Vault Lock / Versioning / Encryption
+S3 Glacier Vault Lock / Versioning / Encryption -> Done
 S3 Website allowed name -> Not Mentioned, Remember
 Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway & File Gateway -> Done
@@ -81,6 +81,6 @@ Cross-Zone Load Balancing in Load Balancer -> Done
 RedShift (Spectrum)
 KMS CMKs -> Done
 SNI in which load balancer
-Route 53 Failover Policy 
-WAF
+Route 53 Failover Policy -> Not Mentioned, Remember
+WAF -> Done
 CloudWatch Agent -> Done
