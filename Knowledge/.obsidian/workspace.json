@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,8 +181,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md"
+                "file": "00 AWS/011 Data Analytics/02 RedShift.md"
               }
             }
           },
@@ -274,12 +273,14 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/07 Solution Architecture/Overview.md",
+    "未命名.md",
+    "00 AWS/017 Other Service/04 SSM (System Manager Service)/02 SSM Other Service.md",
     "00 AWS/004 Storage/01 RDS/03 Read Replicas.md",
     "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "未命名.md",
     "Untitled.md",
     "Point.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
@@ -298,8 +299,6 @@
     "00 AWS/012 Machine Learning/11 Amazon Textract.md",
     "00 AWS/012 Machine Learning/10 Amazon Personalize.md",
     "00 AWS/012 Machine Learning/09 Kendra.md",
-    "00 AWS/012 Machine Learning/08 Forecast.md",
-    "00 AWS/012 Machine Learning/07 SageMaker.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
