@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
+                "file": "00 AWS/017 Other Service/07 AWS Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
+                "file": "00 AWS/017 Other Service/07 AWS Batch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/006 Best Practices & Guidelines.md"
+                "file": "00 AWS/017 Other Service/07 AWS Batch.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
+                "file": "00 AWS/017 Other Service/07 AWS Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,7 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/002 IAM/005 Security Tools.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/002 IAM/003 Security with Password & MFA.md",
@@ -239,7 +240,6 @@
     "未命名.md",
     "00 AWS/003 EC2/03 Storage/04 EFS.md",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
-    "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
