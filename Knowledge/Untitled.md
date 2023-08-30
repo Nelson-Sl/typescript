@@ -69,18 +69,23 @@ ECS / EKS -> Done
 SnowFamily (Data Clustering) -> Done
 ElasticCache Multi-AZ -> Not Found, Remember
 
+<<<<<<< HEAD
 S3 Glacier Vault Lock / Versioning / Encryption
 S3 Website allowed name -> Not Found, Remember
+=======
+S3 Glacier Vault Lock / Versioning / Encryption -> Done
+S3 Website allowed name -> Not Mentioned, Remember
+>>>>>>> origin/master
 Aurora Read / Write Cluster / Cloning -> Done
 AWS Stroage Gateway & File Gateway -> Done
 ALB Health Check / NLB -> Done. Route 53 should be better choice
-EBS Volume Availability / Encryption
-Amazon Transcribe / Alexa
+EBS Volume Availability / Encryption -> Done
+Amazon Transcribe / Alexa -> Done
 Bastion Host
-Cross-Zone Load Balancing in Load Balancer
-RedShift (Spectrum)
+Cross-Zone Load Balancing in Load Balancer -> Done
+RedShift (Spectrum) -> Done
 KMS CMKs -> Done
-SNI in which load balancer
-Failover Policy 
-WAF
+SNI in which load balancer -> Not relevant
+Route 53 Failover Policy -> Not Mentioned, Remember
+WAF -> Done
 CloudWatch Agent -> Done

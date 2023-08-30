@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "684cc3a20d91f4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +212,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d7bbcf1ea383e9d",
+  "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "Untitled.md",
     "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
     "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
@@ -226,8 +240,6 @@
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
-    "Point.md",
-    "00 AWS/004 Storage/04 S3/06 Event Notification.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
