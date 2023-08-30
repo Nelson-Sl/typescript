@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/005 Route 53/04 Hosted Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,10 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+    "未命名.md",
     "Untitled.md",
+    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
     "conflict-files-obsidian-git.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
@@ -231,15 +234,12 @@
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
     "00 AWS/018 WhitePapers & Architectures/01 Well Architected Framework.md",
     "00 AWS/010 Serverless/03 DynamoDB/05 Time to Live (TTL).md",
     "00 AWS/010 Serverless/03 DynamoDB/04 DynamoDB Global Table.md",
     "00 AWS/010 Serverless/03 DynamoDB/03 Stream Processing.md",
     "00 AWS/010 Serverless/03 DynamoDB/02 DynamoDB Accelerator (DAX).md",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
-    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
-    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
