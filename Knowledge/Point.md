@@ -10,3 +10,6 @@
 * DataSync & File Gateway
 	* Migrating Existing Data -> DataSync
 	* Ongoing Migration of Existing data & Patch Updates -> File Gateway
+* EBS
+	* RAID 0: I/O Performance > Fault Tolerance
+	* RAID 1: Fault Tolerance > I/O Performance
