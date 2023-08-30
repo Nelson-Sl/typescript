@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/06 GuardDuty.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/06 GuardDuty.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/06 GuardDuty.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/06 GuardDuty.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -273,12 +273,20 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
+    "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
+    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
+    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
+    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
+    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
+    "00 AWS/005 Route 53/08 Health Check.md",
+    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
+    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
+    "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/009 Containers/02 ECS/03 Solutions.md",
     "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
     "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "未命名.md",
-    "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
-    "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/003 EC2/03 Storage/03 EC2 Instance Store.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
@@ -286,19 +294,11 @@
     "00 AWS/014 Security/03 SSM Parameter Store/01 Overview.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
     "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
     "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
-    "00 AWS/008 Messaging/01 SQS/02 Message Visibility Timeout.md",
-    "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
-    "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
-    "Point.md",
-    "00 AWS/011 Data Analytics/02 RedShift.md",
-    "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
