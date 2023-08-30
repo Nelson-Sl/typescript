@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md"
+                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
+                "file": "00 AWS/015 VPC/11 Networking Cost Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,32 +214,32 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/10 Egress-only Internet Gateway (EIGW).md",
+    "00 AWS/015 VPC/11 Networking Cost Strategy.md",
+    "00 AWS/015 VPC/09 IPv6.md",
+    "00 AWS/015 VPC/03 VPC Subnet (IPv4).md",
+    "00 AWS/015 VPC/04 Internet Gateway (IGW).md",
+    "00 AWS/015 VPC/08 Data Center Access/01 Site-to-Site VPN.md",
+    "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
+    "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
+    "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
+    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
+    "00 AWS/Sum up/03 Choose the right Database.md",
+    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
+    "00 AWS/015 VPC/Sum Up.md",
+    "Point.md",
+    "未命名.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
     "00 AWS/002 IAM/005 Security Tools.md",
     "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/003 Security with Password & MFA.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
-    "未命名.md",
     "00 AWS/005 Route 53/04 Hosted Zones.md",
     "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
     "Untitled.md",
-    "00 AWS/018 WhitePapers & Architectures/02 Trusted Advisor.md",
     "conflict-files-obsidian-git.md",
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
-    "00 AWS/008 Messaging/03 Kinesis/01 Overview.md",
-    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
-    "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
-    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "00 AWS/004 Storage/05 Data Migration/02 FSx.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/05 Amazon EventBridge (Formerly Cloudwatch Events).md",
-    "00 AWS/013 Monitoring/01 CloudWatch/04 Cloudwatch Alarms.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
-    "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
-    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
