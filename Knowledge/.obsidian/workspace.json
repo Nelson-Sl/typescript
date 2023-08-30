@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md"
               }
             }
           },
@@ -273,10 +273,11 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
+    "未命名.md",
     "00 AWS/008 Messaging/01 SQS/02 Message Visibility Timeout.md",
     "00 AWS/008 Messaging/01 SQS/03 Long Polling.md",
     "00 AWS/004 Storage/03 ElastiCache/01 Definition.md",
-    "未命名.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "Point.md",
     "00 AWS/011 Data Analytics/02 RedShift.md",
@@ -298,7 +299,6 @@
     "00 AWS/004 Storage/04 S3/05 Storage Classes.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
     "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
-    "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
