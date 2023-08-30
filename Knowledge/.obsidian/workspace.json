@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -273,6 +273,10 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
+    "00 AWS/014 Security/07 AWS Inspector.md",
+    "00 AWS/014 Security/08 AWS Macie.md",
+    "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
     "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
@@ -295,10 +299,6 @@
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "00 AWS/007 Global Network/01 CloudFront/03 Origin ALB & EC2.md",
-    "00 AWS/007 Global Network/01 CloudFront/04 Geo Restriction.md",
-    "00 AWS/007 Global Network/01 CloudFront/05 Cache Invalidation.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
