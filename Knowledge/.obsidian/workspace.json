@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -273,6 +273,7 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
     "00 AWS/015 VPC/05 Private Instance Connection/01 Bastion Host.md",
     "Untitled.md",
     "未命名.md",
@@ -298,7 +299,6 @@
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
-    "00 AWS/014 Security/05 WAF & Shield/01 WAF.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
