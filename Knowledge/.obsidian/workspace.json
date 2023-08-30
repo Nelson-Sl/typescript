@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+                "file": "00 AWS/014 Security/06 GuardDuty.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+                "file": "00 AWS/014 Security/06 GuardDuty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
+                "file": "00 AWS/014 Security/06 GuardDuty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md"
+                "file": "00 AWS/014 Security/06 GuardDuty.md"
               }
             }
           },
@@ -273,6 +273,9 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
+    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
+    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
     "未命名.md",
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
@@ -296,9 +299,6 @@
     "Point.md",
     "00 AWS/011 Data Analytics/02 RedShift.md",
     "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
-    "00 AWS/008 Messaging/01 SQS/Use Case Grouping Data.md",
-    "00 AWS/008 Messaging/01 SQS/01 SQS.md",
-    "00 AWS/010 Serverless/07 Solution Architecture/Overview.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
