@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Point.md",
+                "file": "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Point.md"
+                "file": "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md"
               }
             }
           },
@@ -273,6 +273,7 @@
   },
   "active": "7f1aaf165bfe9fd2",
   "lastOpenFiles": [
+    "Point.md",
     "未命名.md",
     "00 AWS/011 Data Analytics/02 RedShift.md",
     "00 AWS/008 Messaging/02 SNS/01 SNS Overview.md",
@@ -288,7 +289,6 @@
     "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "Untitled.md",
-    "Point.md",
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
     "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/010 Serverless/03 DynamoDB/01 DynamoDB Overview.md",
