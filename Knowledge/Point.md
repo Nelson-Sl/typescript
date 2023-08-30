@@ -7,3 +7,6 @@
 		* s3-website dash (-) Region ‐ http://bucket-name.s3-website.Region.amazonaws.com
 		* s3-website dot (.) Region ‐ http://bucket-name.s3-website-Region.amazonaws.com
 	* Event Notification only support SQS Standard but not SQS FIFO
+* DataSync & File Gateway
+	* Migrating Existing Data -> DataSync
+	* Ongoing Migration of Existing data & Patch Updates -> File Gateway
