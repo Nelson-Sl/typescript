@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,7 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "Point.md",
@@ -239,7 +240,6 @@
     "00 AWS/015 VPC/08 Data Center Access/02 Direct Connect (DX).md",
     "00 AWS/Sum up/04 Architecture/05 Create a highly available EC2 Instance.md",
     "00 AWS/Sum up/04 Architecture/02 Caching Strategies.md",
-    "00 AWS/Sum up/04 Architecture/01 Event Processing.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",

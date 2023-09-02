@@ -89,3 +89,5 @@ SNI in which load balancer -> Not relevant
 Route 53 Failover Policy -> Not Mentioned, Remember
 WAF -> Done
 CloudWatch Agent -> Done
+
+4 11
