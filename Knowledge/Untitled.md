@@ -90,6 +90,6 @@ Route 53 Failover Policy -> Not Mentioned, Remember
 WAF -> Done
 CloudWatch Agent -> Done
 
-1 Kinesis Agent 2 4 7 12
+1 Kinesis Agent 2 4 7 12 22
 
 11 Remember
