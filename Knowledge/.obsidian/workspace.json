@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TARGET BASED",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,20 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/02 Placement Group.md",
+    "00 AWS/003 EC2/02 Networking & Advanced Settings/03 Hibernate.md",
+    "00 AWS/003 EC2/01 Introduction/02 Instance Types.md",
+    "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
+    "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
+    "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
+    "Untitled.md",
+    "00 AWS/002 IAM/Advanced/01 Organization.md",
+    "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
+    "00 AWS/002 IAM/002 Policies.md",
+    "00 AWS/002 IAM/001 Introduction.md",
+    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "Point.md",
@@ -225,21 +239,7 @@
     "00 AWS/005 Route 53/05 TTL (Time to Live).md",
     "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/003 EC2/04 Availability & Scalability/03-1 Scaling Policy For ASG.md",
-    "Untitled.md",
     "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
-    "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
-    "00 AWS/004 Storage/04 S3/07 Performance.md",
-    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
-    "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
-    "00 AWS/003 EC2/03 Storage/04 EFS.md",
-    "00 AWS/017 Other Service/07 AWS Batch.md",
-    "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
-    "00 AWS/002 IAM/005 Security Tools.md",
-    "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
-    "00 AWS/002 IAM/003 Security with Password & MFA.md",
-    "00 AWS/002 IAM/002 Policies.md",
-    "00 AWS/002 IAM/001 Introduction.md",
-    "00 AWS/003 EC2/04 Availability & Scalability/01 Basic Concepts.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
