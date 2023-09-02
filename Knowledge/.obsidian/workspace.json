@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,12 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "未命名.md",
+    "Point.md",
+    "Untitled.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
+    "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
     "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
     "00 AWS/002 IAM/Advanced/06 Directory Service.md",
     "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
@@ -224,7 +230,6 @@
     "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
-    "Untitled.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
     "00 AWS/003 EC2/04 Availability & Scalability/02 Elastic Load Balancer.md",
     "00 AWS/003 EC2/02 Networking & Advanced Settings/01 Networking.md",
@@ -235,11 +240,6 @@
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
-    "00 AWS/002 IAM/002 Policies.md",
-    "00 AWS/002 IAM/001 Introduction.md",
-    "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
-    "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
-    "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
