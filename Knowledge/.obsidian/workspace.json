@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md"
+                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+                "file": "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,15 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "00 AWS/002 IAM/Advanced/05 IAM Identity Center.md",
+    "00 AWS/002 IAM/Advanced/06 Directory Service.md",
+    "00 AWS/002 IAM/Advanced/07 AWS Control Tower.md",
+    "00 AWS/002 IAM/Advanced/03 IAM Policy vs Resource-Based Policies.md",
+    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
+    "00 AWS/002 IAM/Advanced/01 Organization.md",
+    "00 AWS/015 VPC/05 Private Instance Connection/07 Transit Gateway.md",
+    "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
+    "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "Untitled.md",
     "00 AWS/003 EC2/03 Storage/02 AMI.md",
@@ -225,21 +234,12 @@
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
-    "00 AWS/002 IAM/Advanced/01 Organization.md",
     "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/002 IAM/002 Policies.md",
     "00 AWS/002 IAM/001 Introduction.md",
     "00 AWS/016 Disaster Recovery & Migration/02 Data Migration/01 Database Migration Service (DMS).md",
     "00 AWS/015 VPC/06 Security/02 NACL vs Security Group.md",
     "00 AWS/015 VPC/06 Security/01 Network Access Control List (NACL).md",
-    "Point.md",
-    "00 AWS/005 Route 53/06 Alias Record.md",
-    "00 AWS/005 Route 53/03 Record Type.md",
-    "00 AWS/005 Route 53/02 Route 53 Overview.md",
-    "00 AWS/005 Route 53/04 Hosted Zones.md",
-    "00 AWS/005 Route 53/07 Routing Policy.md",
-    "00 AWS/005 Route 53/05 TTL (Time to Live).md",
-    "00 AWS/003 EC2/04 Availability & Scalability/03 Auto Scaling Group.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
