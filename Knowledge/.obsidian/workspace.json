@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00 AWS/003 EC2/03 Storage/04 EFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,9 +214,10 @@
   },
   "active": "684cc3a20d91f4b0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 AWS/003 EC2/03 Storage/04 EFS.md",
     "未命名.md",
     "Point.md",
-    "Untitled.md",
     "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/002 IAM/Advanced/04 Policy Evaluation.md",
@@ -239,7 +240,6 @@
     "00 AWS/003 EC2/01 Introduction/04 Purchasing Options.md",
     "00 AWS/003 EC2/01 Introduction/01 Introduction.md",
     "00 AWS/002 IAM/006 Best Practices & Guidelines.md",
-    "00 AWS/002 IAM/004 Access AWS & Access Keys.md",
     "00 AWS/017 Other Service/04 SSM (System Manager Service)",
     "00 AWS/017 Other Service",
     "00 AWS/016 Disaster Recovery & Migration/03 On-Premises Structure Migration",
