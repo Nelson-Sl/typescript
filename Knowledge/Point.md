@@ -14,3 +14,4 @@
 	* RAID 0: I/O Performance > Fault Tolerance
 	* RAID 1: Fault Tolerance > I/O Performance
 * if you're planning to **migrate large amounts of data** into your file system, consider switching to Provisioned Throughput mode.
+* Consider EventBridge if you want to asynchronously integrate with SaaS & Decouple system
