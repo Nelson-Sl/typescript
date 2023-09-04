@@ -259,6 +259,30 @@
             }
           },
           {
+            "id": "f30da80af2c956bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fef41ca4e174370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ddf2d4d42a65808",
             "type": "leaf",
             "state": {
@@ -271,7 +295,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -415,15 +439,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ab43910f454544ed",
+  "active": "3fef41ca4e174370",
   "lastOpenFiles": [
+    "00 AWS/013 Monitoring/02 CloudTrail/01 Overview.md",
+    "未命名.md",
+    "conflict-files-obsidian-git.md",
+    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
+    "00 AWS/008 Messaging/03 Kinesis/02 Kinesis Data Streams.md",
     "00 AWS/010 Serverless/04 API Gateway.md",
     "00 AWS/014 Security/07 AWS Inspector.md",
     "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
     "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
     "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
-    "conflict-files-obsidian-git.md",
-    "未命名.md",
     "02 Networking/02 DNS Server.md",
     "02 Networking/01 How Network works.md",
     "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
@@ -440,9 +467,6 @@
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/02 Security/01 S3 Security Overview.md",
     "00 AWS/005 Route 53/08 Health Check.md",
-    "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
-    "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
-    "00 AWS/014 Security/06 GuardDuty.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
