@@ -252,7 +252,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -345,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +362,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -417,15 +417,19 @@
   },
   "active": "ab43910f454544ed",
   "lastOpenFiles": [
-    "未命名.md",
+    "00 AWS/010 Serverless/04 API Gateway.md",
+    "00 AWS/014 Security/07 AWS Inspector.md",
+    "00 AWS/014 Security/02 KMS/03 Encrypt Other AWS Service.md",
+    "00 AWS/014 Security/02 KMS/02 Multi-Region Key.md",
+    "00 AWS/014 Security/02 KMS/01 KMS Overview.md",
     "conflict-files-obsidian-git.md",
+    "未命名.md",
     "02 Networking/02 DNS Server.md",
     "02 Networking/01 How Network works.md",
     "00 AWS/014 Security/05 WAF & Shield/02 Shield.md",
     "00 AWS/011 Data Analytics/04 Amazon Elastic MapReduce (EMR).md",
     "00 AWS/011 Data Analytics/06 Glue.md",
     "00 AWS/014 Security/05 WAF & Shield/05 DDoS Best Practice.md",
-    "00 AWS/014 Security/07 AWS Inspector.md",
     "00 AWS/014 Security/08 AWS Macie.md",
     "00 AWS/014 Security/05 WAF & Shield/03 Firewall Manager.md",
     "00 AWS/014 Security/04 AWS Secret Manager/01 Overview.md",
@@ -439,10 +443,6 @@
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/014 Security/06 GuardDuty.md",
-    "00 AWS/009 Containers/02 ECS/03 Solutions.md",
-    "00 AWS/009 Containers/02 ECS/02 ECS ASG.md",
-    "00 AWS/009 Containers/02 ECS/01 AWS ECS (Elastic Container Service).md",
-    "00 AWS/002 IAM/Advanced/02 Advanced IAM Policies.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
