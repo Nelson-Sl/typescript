@@ -276,7 +276,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -369,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -441,6 +441,7 @@
   },
   "active": "3fef41ca4e174370",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/05 Data Migration/03 Storage Gateway.md",
     "00 AWS/013 Monitoring/01 CloudWatch/01 Metrics.md",
     "00 AWS/013 Monitoring/01 CloudWatch/02 Cloudwatch Log.md",
     "00 AWS/013 Monitoring/01 CloudWatch/03 Cloudwatch Agent.md",
@@ -466,7 +467,6 @@
     "00 AWS/004 Storage/04 S3/02 Security/02 Encryption.md",
     "00 AWS/004 Storage/04 S3/02 Security/03 Access Logs.md",
     "00 AWS/004 Storage/04 S3/02 Security/05 Other Settings.md",
-    "00 AWS/004 Storage/04 S3/02 Security/04 Object Lock.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
