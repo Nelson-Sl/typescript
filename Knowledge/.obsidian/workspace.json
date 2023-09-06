@@ -276,7 +276,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md",
                 "mode": "source",
                 "source": false
               }
@@ -369,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md",
+                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/07 Performance.md"
+                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md"
               }
             }
           },
@@ -441,6 +441,7 @@
   },
   "active": "3fef41ca4e174370",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
     "00 AWS/004 Storage/04 S3/01 Overview.md",
     "00 AWS/004 Storage/04 S3/03 Versioning.md",
@@ -466,7 +467,6 @@
     "00 AWS/007 Global Network/01 CloudFront/02 Origin S3 Bucket.md",
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "00 AWS/011 Data Analytics/06 Glue.md",
-    "00 AWS/004 Storage/05 Data Migration/01 Snow Family.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
