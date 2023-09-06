@@ -276,7 +276,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -369,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md"
+                "file": "未命名.md"
               }
             }
           },
@@ -441,6 +441,7 @@
   },
   "active": "3fef41ca4e174370",
   "lastOpenFiles": [
+    "00 AWS/004 Storage/01 RDS/01 RDS (Relational Database Service).md",
     "00 AWS/004 Storage/01 RDS/02 Storage Auto Scaling.md",
     "00 AWS/004 Storage/02 Aurora/01 Definition.md",
     "未命名.md",
@@ -466,7 +467,6 @@
     "00 AWS/004 Storage/05 Data Migration/04 Transfer Family.md",
     "00 AWS/004 Storage/05 Data Migration/05 DataSync.md",
     "00 AWS/003 EC2/03 Storage/01 EBS Volume.md",
-    "00 AWS/008 Messaging/03 Kinesis/03 Kinesis Firehose.md",
     "00 AWS/014 Security/04 AWS Secret Manager",
     "00 AWS/000 Attachments/Pasted image 20230824204435.png",
     "00 AWS/018 WhitePapers & Architectures",
