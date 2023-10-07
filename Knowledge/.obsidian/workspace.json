@@ -283,6 +283,18 @@
             }
           },
           {
+            "id": "d6fb6470d92b1a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ddf2d4d42a65808",
             "type": "leaf",
             "state": {
@@ -295,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -353,7 +365,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "ce9fad3eb69520b0",
@@ -369,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +421,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 AWS/004 Storage/04 S3/06 Event Notification.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -439,7 +451,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3fef41ca4e174370",
+  "active": "d6fb6470d92b1a32",
   "lastOpenFiles": [
     "00 AWS/004 Storage/04 S3/07 Performance.md",
     "00 AWS/004 Storage/04 S3/08 Other Optimization.md",
