@@ -23,9 +23,11 @@
             "id": "ddf349c4c71010d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
