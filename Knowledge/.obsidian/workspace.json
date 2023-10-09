@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddf349c4c71010d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,6 +155,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9cabd5b8881491a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -163,7 +184,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6ddf2d4d42a65808",
+  "active": "ddf349c4c71010d9",
   "lastOpenFiles": [
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "未命名.md",
