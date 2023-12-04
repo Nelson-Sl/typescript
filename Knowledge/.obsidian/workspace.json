@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37388c277511fee7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ddf349c4c71010d9",
+  "active": "37388c277511fee7",
   "lastOpenFiles": [
     "00 AWS/007 Global Network/01 CloudFront/01 Definition.md",
     "未命名.md",
