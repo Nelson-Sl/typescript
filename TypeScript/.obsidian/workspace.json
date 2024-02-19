@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "366f5d67430dd279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6550b43c8e5a998b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Compiler Options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Types.md",
+                "file": "02 Compiler Options.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Types.md",
+                "file": "02 Compiler Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Types.md"
+                "file": "02 Compiler Options.md"
               }
             }
           },
@@ -150,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +191,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a75d0426342ad1a",
+  "active": "6550b43c8e5a998b",
   "lastOpenFiles": [
-    "01 Types.md"
+    "01 Types.md",
+    "02 Compiler Options.md",
+    "未命名",
+    "2024-02-19.md"
   ]
 }
