@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52e26b6f32e1942f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6550b43c8e5a998b",
+  "active": "52e26b6f32e1942f",
   "lastOpenFiles": [
     "01 Types.md",
     "02 Compiler Options.md",
