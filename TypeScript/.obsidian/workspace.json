@@ -59,9 +59,11 @@
             "id": "52e26b6f32e1942f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "01 Types.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Compiler Options.md",
+                "file": "01 Types.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Compiler Options.md",
+                "file": "01 Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Compiler Options.md"
+                "file": "01 Types.md"
               }
             }
           },
@@ -203,8 +205,8 @@
   },
   "active": "52e26b6f32e1942f",
   "lastOpenFiles": [
-    "01 Types.md",
     "02 Compiler Options.md",
+    "01 Types.md",
     "未命名",
     "2024-02-19.md"
   ]
